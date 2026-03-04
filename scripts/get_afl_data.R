@@ -12,8 +12,9 @@ current_season <- 2026
 message("--- AFL DATA SYNC START ---")
 
 # Standardized Team Names Mapping
-# This ensures that GWS, Gold Coast, and others always match between sources.
 standardize_team <- function(x) {
+  if (is.null(x) || length(x) == 0) return(x)
+  x <- as.character(x)
   x %>% 
     gsub("Greater Western Sydney", "GWS Giants", ., ignore.case = TRUE) %>%
     gsub("GWS GIANTS", "GWS Giants", ., ignore.case = TRUE) %>%
@@ -53,11 +54,15 @@ fixture <- fetch_fixture(season = current_season, source = "AFL") %>%
 # 3. Fetch Lineups
 message("Fetching current lineups...")
 lineups <- tryCatch({
-  fetch_lineup(season = current_season) %>% 
-    clean_names() %>%
-    mutate(team_name = standardize_team(team_name))
+  raw_l <- fetch_lineup(season = current_season)
+  if (!is.null(raw_l) && nrow(raw_l) > 0) {
+    l_cleaned <- raw_l %>% clean_names()
+    l_cleaned %>% mutate(team_name = standardize_team(team_name))
+  } else {
+    NULL
+  }
 }, error = function(e) {
-  message("Warning: fetch_lineup failed or no data yet.")
+  message("Warning: fetch_lineup failed: ", e$message)
   NULL
 })
 
@@ -66,7 +71,6 @@ stats_date_col <- intersect(names(player_stats), c("match_date", "date", "utc_st
 if (!is.na(stats_date_col)) {
   player_stats <- player_stats %>% mutate(match_date_parsed = as_datetime(.data[[stats_date_col]]))
 }
-
 fix_date_col <- intersect(names(fixture), c("start_time", "utc_start_time", "match_date", "date"))[1]
 if (!is.na(fix_date_col)) {
   fixture <- fixture %>% mutate(match_date_parsed = as_datetime(.data[[fix_date_col]]))
@@ -86,19 +90,23 @@ upcoming_fixture <- fixture %>%
 home_col <- intersect(names(fixture), c("home_team_name", "home_team"))[1]
 away_col <- intersect(names(fixture), c("away_team_name", "away_team"))[1]
 
-team_opponents <- bind_rows(
-  upcoming_fixture %>% select(team = !!sym(home_col), opponent = !!sym(away_col), match_date_parsed),
-  upcoming_fixture %>% select(team = !!sym(away_col), opponent = !!sym(home_col), match_date_parsed)
-) %>%
-  mutate(
-    team = standardize_team(team),
-    opponent = standardize_team(opponent)
+if (!is.na(home_col) && !is.na(away_col)) {
+  team_opponents <- bind_rows(
+    upcoming_fixture %>% select(team = !!sym(home_col), opponent = !!sym(away_col), match_date_parsed),
+    upcoming_fixture %>% select(team = !!sym(away_col), opponent = !!sym(home_col), match_date_parsed)
   ) %>%
-  group_by(team) %>%
-  arrange(match_date_parsed) %>%
-  slice(1) %>%
-  ungroup() %>%
-  select(team, opponent)
+    mutate(
+      team = standardize_team(team),
+      opponent = standardize_team(opponent)
+    ) %>%
+    group_by(team) %>%
+    arrange(match_date_parsed) %>%
+    slice(1) %>%
+    ungroup() %>%
+    select(team, opponent)
+} else {
+  team_opponents <- tibble(team=character(), opponent=character())
+}
 
 # 7. Process Player Data
 message("Processing player stats...")
@@ -108,7 +116,6 @@ processed_players <- player_stats %>%
   summarise(
     name = paste(first(player_first_name), first(player_last_name)),
     team = first(player_team),
-    # Get last 20 disposals
     disposals = list(head(disposals, 20)),
     .groups = "drop"
   ) %>%
@@ -124,19 +131,34 @@ processed_players <- player_stats %>%
 
 # 8. Determine 'Named' Status
 if (!is.null(lineups) && nrow(lineups) > 0) {
+  # Safe Player Name Mapping
+  if ("player_player_name_given_name" %in% names(lineups) && "player_player_name_surname" %in% names(lineups)) {
+    lineups$p_name_final <- paste(lineups$player_player_name_given_name, lineups$player_player_name_surname)
+  } else if ("player_name" %in% names(lineups)) {
+    lineups$p_name_final <- lineups$player_name
+  } else if ("given_name" %in% names(lineups) && "surname" %in% names(lineups)) {
+    lineups$p_name_final <- paste(lineups$given_name, lineups$surname)
+  } else {
+    lineups$p_name_final <- "Unknown"
+  }
+  
   lineups <- lineups %>%
     mutate(
-      clean_pname = tolower(gsub("[^a-zA-Z]", "", player_name)),
+      clean_pname = tolower(gsub("[^a-zA-Z]", "", p_name_final)),
       is_playing = ifelse(grepl("Selected|Interchange|Follower|Forward|Back|Midfield", status, ignore.case = TRUE) & 
                           !grepl("Emergency", status, ignore.case = TRUE), 1, -1)
     )
   
+  # Group by player to handle multiple lineup entries if they exist
+  lineups_status <- lineups %>%
+    group_by(clean_pname) %>%
+    summarise(lineup_status = max(is_playing), .groups = "drop")
+  
   processed_players <- processed_players %>%
     mutate(clean_pname = tolower(gsub("[^a-zA-Z]", "", name))) %>%
-    left_join(lineups %>% select(clean_pname, team_name, lineup_status = is_playing), 
-              by = "clean_pname") %>%
+    left_join(lineups_status, by = "clean_pname") %>%
     mutate(status = ifelse(is.na(lineup_status), 0, lineup_status)) %>%
-    select(-clean_pname, -lineup_status, -team_name)
+    select(-clean_pname, -lineup_status)
 } else {
   processed_players$status <- 0
 }
