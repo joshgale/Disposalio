@@ -1,30 +1,4678 @@
 [
   {
-    "name": "Nick Daicos",
+    "name": "Scott Pendlebury",
     "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [0, 23, 21, 24, 27, 22, 21, 17, 22, 28, 22, 29, 22, 22, 26, 31, 21, 26, 29, 26],
+    "trend": -1
+  },
+  {
+    "name": "Travis Boak",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [22, 22, 22, 24, 11, 15, 15, 27, 21, 22, 21, 12, 20, 18, 28, 28],
+    "trend": 1
+  },
+  {
+    "name": "Callan Ward",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [1, 19, 11, 18, 21, 13, 12, 27, 16, 4, 16, 23],
+    "trend": -1
+  },
+  {
+    "name": "Todd Goldstein",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [5, 16, 14, 17, 7, 8, 16, 9, 21, 9, 8, 11, 8, 19, 11, 13],
+    "trend": 0
+  },
+  {
+    "name": "Patrick Dangerfield",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [10, 31, 19, 17, 14, 19, 14, 19, 7, 13, 15, 11, 7, 3, 12, 29, 13, 15, 16, 20],
+    "trend": 1
+  },
+  {
+    "name": "Taylor Walker",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [7, 18, 13, 13, 11, 15, 9, 15, 9, 16, 12, 8, 9, 5, 13, 15, 12, 17, 13, 14],
+    "trend": 0
+  },
+  {
+    "name": "Steele Sidebottom",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [18, 15, 16, 21, 18, 21, 24, 17, 13, 20, 18, 25, 27, 22, 7, 25, 35, 26, 28, 24],
+    "trend": -1
+  },
+  {
+    "name": "Mitch Duncan",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [0, 7, 6, 17, 19, 11, 15, 21, 20],
+    "trend": -1
+  },
+  {
+    "name": "Jake Melksham",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [12, 5, 15, 10, 8, 7, 10, 8, 18, 7, 8, 9, 10, 11, 12, 13, 7, 8, 8],
+    "trend": 0
+  },
+  {
+    "name": "Nat Fyfe",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [5, 1, 8, 7, 0, 11, 9, 7],
+    "trend": -1
+  },
+  {
+    "name": "Jack Gunston",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [15, 16, 8, 9, 14, 11, 10, 18, 13, 11, 9, 15, 12, 11, 10, 8, 14, 15, 14, 16],
+    "trend": 0
+  },
+  {
+    "name": "Rhys Stanley",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [6, 9, 14, 6, 7, 7, 8, 6, 21, 11, 11, 10, 9, 13, 2, 14, 9, 12, 11],
+    "trend": 0
+  },
+  {
+    "name": "Liam Jones",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [6, 12, 10, 12, 7],
+    "trend": 0
+  },
+  {
+    "name": "Brodie Smith",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [15, 6, 6, 15, 13, 20, 20, 4, 8, 17, 17],
+    "trend": -1
+  },
+  {
+    "name": "Ryan Lester",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [14, 14, 10, 15, 17, 17, 0, 15, 11, 10, 3, 14, 12, 9, 15, 13, 16, 20, 11, 14],
+    "trend": 0
+  },
+  {
+    "name": "Tom Liberatore",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [27, 22, 24, 26, 22, 23, 26, 27, 21, 27, 29, 14, 31, 33, 35, 19, 28, 29, 24, 30],
+    "trend": 0
+  },
+  {
+    "name": "Jack Darling",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [5, 10, 9, 14, 11, 8, 9, 7, 6, 9, 10, 9, 17, 9, 5, 9, 6, 16, 6, 11],
+    "trend": 0
+  },
+  {
+    "name": "Dion Prestia",
+    "team": "Richmond",
     "opponent": "Carlton",
-    "disposals": [32, 35, 28, 41, 30, 25, 33, 38, 31, 29, 34, 32, 27, 36, 30, 22, 35, 39, 33, 31],
+    "disposals": [29, 14, 18, 23, 23, 21, 28, 20, 29, 19, 21, 31],
+    "trend": -1
+  },
+  {
+    "name": "David Swallow",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [6, 4, 7, 10, 12, 3, 7, 4, 8],
+    "trend": -1
+  },
+  {
+    "name": "Jamie Cripps",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [14, 10, 12, 8, 16, 15, 9, 10, 7, 9, 12, 9, 15, 11, 10, 12, 12, 7, 13, 12],
+    "trend": 0
+  },
+  {
+    "name": "Steven May",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [23, 19, 18, 23, 11, 16, 16, 21, 12, 15, 20, 10, 20, 12, 27, 20],
+    "trend": 1
+  },
+  {
+    "name": "Sam Day",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [7, 8, 8, 1, 9, 12, 3, 13, 14, 7, 9, 6, 7],
+    "trend": 0
+  },
+  {
+    "name": "Tom Lynch",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [11, 13, 12, 2, 8, 8, 10, 13, 17, 7, 13, 14, 5, 7, 7, 13],
+    "trend": 1
+  },
+  {
+    "name": "Luke Parker",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [27, 30, 29, 17, 31, 14, 27, 29, 28, 20, 22, 16, 15, 23, 20, 27, 23, 24, 27, 21],
+    "trend": 1
+  },
+  {
+    "name": "Luke Breust",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [5, 9, 4, 9, 10, 8, 8, 1],
+    "trend": 0
+  },
+  {
+    "name": "Max Gawn",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [23, 27, 23, 21, 17, 19, 15, 16, 14, 23, 20, 22, 21, 22, 19, 35, 25, 28, 22, 15],
+    "trend": 1
+  },
+  {
+    "name": "Jeremy Howe",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [13, 5, 0, 6, 7, 17, 11, 26, 10, 11, 17, 17, 21, 16, 11, 10, 17, 10, 13],
+    "trend": -1
+  },
+  {
+    "name": "Lachlan Keeffe",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [8, 13, 8],
+    "trend": 0
+  },
+  {
+    "name": "Tom McDonald",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [12, 6, 15, 12, 12, 12, 17, 16, 16, 13, 16, 18, 15, 17, 17, 13, 18],
+    "trend": -1
+  },
+  {
+    "name": "Jeremy Cameron",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [8, 16, 13, 20, 10, 15, 8, 22, 14, 5, 19, 8, 14, 6, 14, 14, 16, 15, 11, 14],
+    "trend": 0
+  },
+  {
+    "name": "Stephen Coniglio",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [14, 7, 19, 21, 15, 19, 18, 15, 13, 11],
+    "trend": -1
+  },
+  {
+    "name": "Toby Greene",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [12, 17, 19, 23, 9, 17, 11, 18, 17, 3, 12, 28, 16, 18, 13, 15, 13, 17, 24, 19],
+    "trend": 1
+  },
+  {
+    "name": "Will Hoskin-Elliott",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [4, 6, 13, 3, 13, 15, 11, 11, 5, 8, 9, 11, 7, 2, 7, 9, 13, 11],
+    "trend": -1
+  },
+  {
+    "name": "Dylan Shiel",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [28, 30, 23, 11, 29, 21, 8, 5, 19, 23, 30, 25, 21, 23],
+    "trend": 1
+  },
+  {
+    "name": "Harry Cunningham",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [14, 15, 16, 14, 9, 12, 8, 16, 16, 10, 20],
+    "trend": 1
+  },
+  {
+    "name": "Adam Treloar",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [10, 28, 20, 27],
+    "trend": -1
+  },
+  {
+    "name": "Lachie Neale",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [17, 32, 36, 36, 24, 31, 29, 17, 25, 22, 26, 32, 30, 17, 25, 31, 25, 28, 42, 20],
+    "trend": 1
+  },
+  {
+    "name": "Bradley Hill",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [16, 22, 24, 17, 15, 23, 23, 13, 21, 16, 26, 22, 22, 19, 21, 33, 17, 22, 18, 22],
+    "trend": 1
+  },
+  {
+    "name": "Jack Crisp",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [18, 22, 18, 23, 22, 15, 16, 23, 19, 24, 27, 16, 21, 16, 16, 16, 29, 15, 17, 20],
+    "trend": 0
+  },
+  {
+    "name": "Taylor Adams",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [6, 11, 12, 8],
+    "trend": 0
+  },
+  {
+    "name": "Dayne Zorko",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [28, 28, 26, 35, 22, 27, 28, 19, 17, 25, 28, 23, 33, 26, 21, 23, 33, 27, 39, 23],
+    "trend": 1
+  },
+  {
+    "name": "Alex Sexton",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [8, 6, 1, 2, 3],
+    "trend": 0
+  },
+  {
+    "name": "Jamie Elliott",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [16, 13, 15, 8, 6, 8, 15, 9, 12, 15, 8, 15, 7, 12, 11, 14, 14, 12, 19, 13],
+    "trend": 1
+  },
+  {
+    "name": "Nick Haynes",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [15, 23, 14, 23, 19, 13, 23, 12, 18, 17, 19, 17, 20, 18, 17, 16, 20, 12, 21, 12],
+    "trend": 0
+  },
+  {
+    "name": "Sam Frost",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [5, 3],
+    "trend": 0
+  },
+  {
+    "name": "Jason Johannisen",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [19, 18, 16, 14, 24, 17, 20, 15, 10, 13, 20, 21, 17, 15, 25, 9],
+    "trend": 1
+  },
+  {
+    "name": "Lachie Whitfield",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [36, 31, 27, 27, 29, 27, 29, 32, 4, 33, 24, 28, 27, 25, 30, 28, 30, 39, 24, 35],
+    "trend": 1
+  },
+  {
+    "name": "Dane Rampe",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [15, 13, 16, 25, 13, 9, 5, 9, 18, 13, 8, 8, 10, 12, 15, 19, 16, 13, 12, 21],
+    "trend": 1
+  },
+  {
+    "name": "Jaeger O'Meara",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [9, 11, 12, 26, 15, 16, 23, 9, 8, 15, 21, 15, 32, 31],
+    "trend": -1
+  },
+  {
+    "name": "Jack Viney",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [22, 22, 18, 25, 23, 21, 18, 30, 24, 20, 18, 19, 25, 21, 15, 19, 27, 27],
+    "trend": -1
+  },
+  {
+    "name": "Ollie Wines",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [15, 25, 32, 25, 26, 25, 22, 22, 23, 33, 28, 31, 22, 24, 8, 26, 23, 31, 33, 34],
+    "trend": 0
+  },
+  {
+    "name": "Mark Blicavs",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [11, 12, 20, 9, 12, 22, 19, 14, 15, 22, 11, 10, 17, 20, 8, 11, 16, 20, 9, 14],
+    "trend": -1
+  },
+  {
+    "name": "Taylor Duryea",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [8, 9, 16, 11, 10],
+    "trend": 0
+  },
+  {
+    "name": "Rory Laird",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [30, 24, 23, 25, 24, 23, 22, 21, 26, 22, 25, 27, 27, 18, 23, 27, 21, 23, 16, 32],
+    "trend": 1
+  },
+  {
+    "name": "Jack Macrae",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [7, 17, 26, 22, 24, 19, 20, 26, 26, 29, 22, 27, 23, 38, 26, 19, 17, 28, 31, 35],
+    "trend": -1
+  },
+  {
+    "name": "Jake Stringer",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [10, 10, 8, 13, 18, 11, 14, 9, 5, 5, 10, 13, 8, 11, 14],
+    "trend": 0
+  },
+  {
+    "name": "Sam Docherty",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [16, 18, 21, 22, 19, 29, 20, 26, 30, 12, 22, 27, 15, 13, 14],
+    "trend": -1
+  },
+  {
+    "name": "Nick Vlastuin",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [2, 19, 20, 25, 25, 23, 21, 15, 28, 15, 19, 24, 14, 18, 20, 22, 27, 20, 16, 13],
+    "trend": -1
+  },
+  {
+    "name": "Zac Williams",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [18, 20, 17, 18, 18, 16, 14, 19, 18, 18, 9, 15, 3, 14, 14, 21, 8, 11, 10],
+    "trend": 0
+  },
+  {
+    "name": "Jarrod Witts",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [8, 21, 13, 10, 11, 15, 11, 13, 11, 14, 10, 20, 10, 10, 12, 15, 11, 9, 18, 12],
+    "trend": 1
+  },
+  {
+    "name": "Aidan Corr",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [4, 14, 8, 12, 18, 14, 18, 14, 17, 18],
+    "trend": -1
+  },
+  {
+    "name": "Jimmy Webster",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [1, 5, 12, 12, 11, 17, 11, 21, 16, 16, 7, 8, 18, 11, 10],
+    "trend": -1
+  },
+  {
+    "name": "Tom Mitchell",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [18, 29, 20, 26],
+    "trend": 0
+  },
+  {
+    "name": "Brodie Grundy",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [13, 14, 39, 24, 22, 20, 20, 23, 22, 19, 23, 23, 19, 23, 8, 9, 26, 23, 20, 11],
+    "trend": 0
+  },
+  {
+    "name": "Sean Lemmens",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [10],
+    "trend": 0
+  },
+  {
+    "name": "Jack Martin",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [1, 8, 12, 13, 17, 13, 8, 11, 14, 25, 21, 15, 12],
+    "trend": -1
+  },
+  {
+    "name": "Jarman Impey",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [14, 11, 28, 20, 29, 25, 22, 25, 26, 21, 22, 17, 28, 23, 16, 22, 24, 17, 19, 10],
+    "trend": -1
+  },
+  {
+    "name": "Luke McDonald",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [9, 18, 27, 23, 18, 8, 9, 14, 13, 13, 12, 18, 15, 15, 20],
+    "trend": 1
+  },
+  {
+    "name": "Zach Merrett",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [28, 24, 27, 19, 30, 29, 31, 40, 17, 29, 14, 28, 37, 20, 19, 35, 25, 26, 37, 34],
+    "trend": -1
+  },
+  {
+    "name": "James Aish",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [6, 14, 3],
+    "trend": 0
+  },
+  {
+    "name": "Jack Billings",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [14],
+    "trend": 0
+  },
+  {
+    "name": "Josh Kelly",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [18, 7, 15, 27, 18, 23, 17, 20, 21, 17, 28, 29, 23, 23, 36],
+    "trend": -1
+  },
+  {
+    "name": "Matt Crouch",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [18, 26, 28, 19, 32, 31],
+    "trend": -1
+  },
+  {
+    "name": "Patrick Cripps",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [28, 22, 27, 36, 18, 29, 26, 25, 17, 24, 21, 15, 25, 26, 26, 24, 29, 17, 23, 16],
+    "trend": 0
+  },
+  {
+    "name": "Darcy Gardiner",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [14, 17, 12, 10, 5, 13, 12, 7, 14, 12, 8, 2, 9, 9, 13, 7, 9, 14],
+    "trend": 1
+  },
+  {
+    "name": "Jake Lloyd",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [22, 21, 20, 17, 25, 14, 15, 20, 22, 22, 11, 17, 23, 22, 15, 28, 22, 18, 24, 25],
     "trend": 1
   },
   {
     "name": "Marcus Bontempelli",
     "team": "Western Bulldogs",
-    "opponent": "Geelong",
-    "disposals": [28, 25, 30, 22, 27, 24, 26, 29, 21, 23, 25, 28, 30, 22, 24, 26, 25, 27, 23, 22],
+    "opponent": "Brisbane Lions",
+    "disposals": [33, 31, 33, 27, 35, 24, 37, 25, 18, 36, 14, 24, 23, 24, 28, 23, 22, 30],
+    "trend": 1
+  },
+  {
+    "name": "Jeremy McGovern",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [13, 17, 23, 15, 20, 19],
+    "trend": 0
+  },
+  {
+    "name": "Christian Salem",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [27, 30, 24, 30, 22, 25, 25, 23, 22, 16, 15, 14, 31, 20, 19, 14, 34, 23, 21, 18],
+    "trend": 1
+  },
+  {
+    "name": "Blake Acres",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [29, 23, 15, 16, 21, 20, 11, 21, 19, 29, 9, 17, 11, 16, 22, 30, 15, 10, 21],
+    "trend": 1
+  },
+  {
+    "name": "Charlie Cameron",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [10, 15, 14, 2, 10, 13, 6, 13, 8, 8, 9, 10, 10, 5, 7, 8, 14, 13, 9, 13],
+    "trend": 1
+  },
+  {
+    "name": "Jed Bews",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [15, 11, 13, 17],
+    "trend": 0
+  },
+  {
+    "name": "Rory Lobb",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [11, 7, 7, 13, 11, 12, 11, 15, 7, 21, 17, 15, 14, 11, 9, 11, 6, 14, 19, 12],
+    "trend": -1
+  },
+  {
+    "name": "Zak Jones",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [19, 17, 13, 10, 26, 7, 20, 19, 18, 11, 13, 11, 20, 27, 11],
+    "trend": 0
+  },
+  {
+    "name": "Daniel McStay",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [9, 6, 15, 3, 15, 8, 11, 10, 11, 10, 6, 3, 8, 9, 9, 14, 21, 7],
+    "trend": 0
+  },
+  {
+    "name": "Tim Membrey",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [11, 10, 8, 7, 7, 5, 12, 12, 9, 6, 10, 13, 9, 10, 10, 12, 10, 6, 13, 12],
+    "trend": 0
+  },
+  {
+    "name": "Orazio Fantasia",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [14, 8, 13, 14, 14, 5],
+    "trend": 0
+  },
+  {
+    "name": "Nick Holman",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [6, 4, 2, 7, 1, 8, 12, 7, 13, 10, 12, 16, 10, 5, 8, 14],
+    "trend": -1
+  },
+  {
+    "name": "Mason Wood",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [4, 8, 19, 15, 17, 10, 24, 14, 15, 15, 16, 15, 16, 10, 8, 16, 16, 13, 16, 26],
+    "trend": -1
+  },
+  {
+    "name": "Kamdyn McIntosh",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [15, 17, 14, 14, 15, 18, 20, 17, 7, 20, 4, 4, 14, 13, 19, 12, 12, 17, 19, 8],
+    "trend": 0
+  },
+  {
+    "name": "Jesse Hogan",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [9, 3, 10, 4, 11, 16, 9, 8, 9, 11, 22, 7, 14, 7, 12, 11],
+    "trend": -1
+  },
+  {
+    "name": "Touk Miller",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [28, 18, 21, 20, 28, 25, 25, 11, 25, 24, 37, 20, 24, 30, 22, 25, 29, 24, 33, 27],
+    "trend": 0
+  },
+  {
+    "name": "Adam Saad",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [16, 9, 22, 16, 18, 17, 4, 18, 25, 16, 20, 21, 20, 19, 21, 14, 25, 24, 19, 13],
+    "trend": 0
+  },
+  {
+    "name": "Isaac Heeney",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [26, 15, 23, 28, 22, 34, 21, 21, 21, 28, 25, 23, 22, 38, 19, 22, 20, 22, 28, 19],
+    "trend": -1
+  },
+  {
+    "name": "Jordan De Goey",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [17, 26, 26, 11, 15, 12, 9, 14, 12, 8, 15],
+    "trend": 1
+  },
+  {
+    "name": "Jack Sinclair",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [34, 23, 30, 26, 32, 33, 22, 24, 22, 19, 30, 25, 29, 38, 26, 19, 29, 21, 26, 25],
+    "trend": 1
+  },
+  {
+    "name": "Liam Duggan",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [16, 21, 11, 31, 21, 28, 27, 19, 23, 23, 23, 21, 20, 18, 17, 14, 19, 21, 13, 19],
+    "trend": -1
+  },
+  {
+    "name": "James Sicily",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [16, 21, 17, 19, 22, 26, 18, 25, 21, 21, 16, 6, 17, 15, 24, 24, 23, 19, 20, 16],
+    "trend": -1
+  },
+  {
+    "name": "Harris Andrews",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [18, 18, 20, 16, 18, 17, 20, 9, 11, 13, 9, 15, 16, 10, 14, 16, 13, 10, 14, 18],
+    "trend": 1
+  },
+  {
+    "name": "Kyle Langford",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [13, 14, 15, 3, 10, 11, 13, 10, 11],
+    "trend": 1
+  },
+  {
+    "name": "Jake Lever",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [8, 14, 12, 9, 9, 12, 10, 22],
+    "trend": 0
+  },
+  {
+    "name": "Alex Pearce",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [13, 8, 13, 9, 8, 12, 4, 13, 18, 10, 12, 14, 13, 8, 11, 11],
+    "trend": 0
+  },
+  {
+    "name": "Bailey Dale",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [23, 34, 30, 22, 20, 33, 21, 13, 25, 23, 36, 30, 22, 49, 31, 31, 20, 32, 21, 26],
+    "trend": 1
+  },
+  {
+    "name": "Karl Amon",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [28, 17, 23, 34, 24, 27, 23, 17, 22, 30, 21, 33, 17, 19, 22, 29, 30, 18, 18, 29],
+    "trend": -1
+  },
+  {
+    "name": "Joel Hamling",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [6, 7, 5, 11, 9, 5, 3, 6, 8, 7, 9, 7, 12, 11],
+    "trend": 0
+  },
+  {
+    "name": "Peter Wright",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [11, 8, 10, 10, 14, 13, 11, 7, 9, 8, 11, 10, 15, 18, 16, 11, 15, 11, 17],
+    "trend": 0
+  },
+  {
+    "name": "Alex Neal-Bullen",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [14, 17, 9, 20, 13, 18, 18, 31, 11, 14, 16, 11, 13, 25, 14, 9, 15, 18, 19, 20],
+    "trend": -1
+  },
+  {
+    "name": "Jack Steele",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [18, 27, 17, 8, 13, 21, 25, 26, 22, 19, 22, 23, 33, 16, 20, 22, 29, 16, 20, 22],
+    "trend": 1
+  },
+  {
+    "name": "Toby Nankervis",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [14, 21, 15, 11, 18, 17, 18, 18, 17, 9, 17, 15, 15, 18, 14, 15, 10, 17, 15, 21],
+    "trend": 0
+  },
+  {
+    "name": "Brayden Maynard",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [16, 20, 16, 18, 18, 15, 20, 14, 17, 21, 2, 24, 20, 16, 15, 11, 16, 13, 14, 15],
+    "trend": 0
+  },
+  {
+    "name": "Darcy Moore",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [9, 13, 7, 11, 15, 8, 9, 11, 9, 13, 12, 10, 10, 7, 9, 8, 4, 14, 17, 15],
+    "trend": 0
+  },
+  {
+    "name": "Caleb Daniel",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [22, 25, 23, 32, 18, 27, 28, 25, 26, 24, 23, 29, 30, 25, 18, 23, 22, 24, 32, 25],
+    "trend": -1
+  },
+  {
+    "name": "Jayden Laverde",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [11, 13, 15, 22, 16, 13, 20, 9, 18, 19, 10, 15, 17, 18],
+    "trend": -1
+  },
+  {
+    "name": "James Harmes",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [21, 13, 18, 16, 27, 13, 20, 22, 0, 24, 22, 14, 16],
+    "trend": 0
+  },
+  {
+    "name": "Rory Atkins",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [3, 25, 10],
+    "trend": 0
+  },
+  {
+    "name": "Tom Barrass",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [10, 7, 8, 10, 11, 8, 7, 13, 5, 13, 13, 8, 8, 7, 9, 12, 6, 14, 9, 12],
+    "trend": 0
+  },
+  {
+    "name": "Lachie Weller",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [13, 17, 26, 17, 17, 13, 13, 19, 14, 17, 12, 14, 2, 20, 23, 14, 10, 10, 21],
+    "trend": 1
+  },
+  {
+    "name": "Zaine Cordy",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [4],
+    "trend": 0
+  },
+  {
+    "name": "Conor McKenna",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [2, 1, 9, 3, 10],
+    "trend": 0
+  },
+  {
+    "name": "Ed Langdon",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [14, 22, 18, 11, 14, 21, 18, 25, 11, 17, 4, 13, 31, 25, 21, 18, 28, 22, 25, 15],
+    "trend": 0
+  },
+  {
+    "name": "Oscar McDonald",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [12, 5, 11, 7, 13, 9, 9],
+    "trend": 0
+  },
+  {
+    "name": "Daniel Rioli",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [16, 13, 17, 11, 22, 19, 17, 19, 16, 27, 17, 21, 24, 18, 21, 11, 16, 26, 20, 21],
+    "trend": -1
+  },
+  {
+    "name": "Jacob Weitering",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [13, 13, 7, 13, 12, 11, 9, 14, 11, 20, 23, 8, 14, 13, 19, 13, 15, 13, 15, 14],
+    "trend": -1
+  },
+  {
+    "name": "Clayton Oliver",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [30, 28, 27, 28, 23, 26, 21, 23, 24, 26, 30, 16, 31, 23, 13, 22, 25, 24, 30, 31],
+    "trend": 1
+  },
+  {
+    "name": "Callum Ah Chee",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [17, 19, 13, 14, 19, 14, 15, 5, 18, 19, 16, 12, 15, 10, 13, 20, 5, 10, 10, 10],
+    "trend": 1
+  },
+  {
+    "name": "Darcy Parish",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [31, 26, 31],
+    "trend": 0
+  },
+  {
+    "name": "Mitch McGovern",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [12, 15, 8, 16, 13, 11, 15, 20, 3, 16, 20, 18, 23, 16, 11, 13, 14],
+    "trend": -1
+  },
+  {
+    "name": "Wayne Milera",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [23, 11, 18, 22, 18, 19, 18, 21, 12, 27, 16, 14, 17, 23, 17, 15, 27, 12, 16, 22],
+    "trend": -1
+  },
+  {
+    "name": "George Hewett",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [36, 35, 23, 36, 25, 19, 33, 18, 21, 31, 35, 29, 17, 27, 26, 25, 29, 34, 39, 29],
+    "trend": 1
+  },
+  {
+    "name": "Callum Mills",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [29, 25, 22, 23, 22, 28, 19, 26, 22, 27, 25, 17],
+    "trend": 1
+  },
+  {
+    "name": "Tom Papley",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [27, 20, 10, 13, 14, 8, 17, 16, 19, 8, 13],
+    "trend": 1
+  },
+  {
+    "name": "Josh Dunkley",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [16, 19, 20, 30, 33, 24, 31, 31, 22, 28, 28, 17, 30, 19, 20, 20, 21, 28, 27, 26],
+    "trend": -1
+  },
+  {
+    "name": "Jade Gresham",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [14, 12, 19, 20, 12, 17, 1, 9, 9, 19, 13, 10, 16, 12, 5, 18, 20, 11, 12],
+    "trend": 1
+  },
+  {
+    "name": "Marc Pittonet",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [15, 11, 8, 7, 17, 14, 12],
+    "trend": 0
+  },
+  {
+    "name": "Jayden Short",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [26, 14, 19, 23, 25, 14, 25, 15, 25, 16, 25, 25, 26, 21, 19],
+    "trend": 0
+  },
+  {
+    "name": "Dougal Howard",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [11, 11, 11],
+    "trend": 0
+  },
+  {
+    "name": "Charlie Curnow",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [10, 15, 14, 18, 12, 9, 5, 13, 12, 15, 12, 13, 14, 15, 14, 8, 8, 5],
+    "trend": 0
+  },
+  {
+    "name": "Darcy Byrne-Jones",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [18, 11, 19, 14, 5, 12, 17, 15, 14, 13, 13, 9, 9, 11, 15, 10, 13, 13, 7, 15],
+    "trend": 1
+  },
+  {
+    "name": "Jayden Hunt",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [1, 2, 12, 12, 12, 15, 15, 13, 17, 17, 16, 12, 14, 18, 8],
+    "trend": -1
+  },
+  {
+    "name": "Darcy Tucker",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [0, 15, 21, 20, 19, 16, 2],
+    "trend": -1
+  },
+  {
+    "name": "Mason Cox",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [6, 8, 8, 8, 3, 4, 8, 8, 8, 8],
     "trend": 0
   },
   {
     "name": "Christian Petracca",
     "team": "Melbourne",
-    "opponent": "Sydney",
-    "disposals": [22, 24, 21, 25, 23, 28, 26, 24, 27, 25, 22, 23, 21, 24, 26, 25, 22, 21, 23, 20],
+    "opponent": "St Kilda",
+    "disposals": [28, 28, 23, 23, 21, 23, 31, 23, 32, 17, 27, 22, 28, 31, 26, 29, 28, 25, 27, 21],
+    "trend": 1
+  },
+  {
+    "name": "Ben Keays",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [14, 15, 19, 15, 8, 17, 21, 18, 19, 24, 15, 18, 20, 17, 12, 7, 21, 12, 14, 18],
+    "trend": 0
+  },
+  {
+    "name": "Aliir Aliir",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [11, 15, 22, 13, 14, 14, 13, 12, 9, 5, 14, 12, 20, 8, 7, 11, 16, 13, 18, 15],
+    "trend": 1
+  },
+  {
+    "name": "Mason Redman",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [22, 34, 36, 24, 20, 23, 22, 17, 26, 15, 27, 32, 21, 17, 18, 22, 22, 18, 19],
+    "trend": 1
+  },
+  {
+    "name": "Jacob Hopper",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [29, 27, 20, 25, 33, 33, 27, 27, 28, 19, 22, 29, 23, 27, 24, 28, 23, 27, 33, 32],
     "trend": -1
+  },
+  {
+    "name": "Bailey Williams",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [16, 20, 20, 15, 26, 18, 15, 17, 18, 25, 27, 18, 12, 19, 21, 21, 20, 30, 19, 16],
+    "trend": 0
+  },
+  {
+    "name": "Sam Collins",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [12, 13, 9, 11, 9, 14, 18, 10, 9, 15, 8, 10, 16, 15, 10, 15, 11, 6, 9, 10],
+    "trend": 0
+  },
+  {
+    "name": "Tom Cole",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [20, 17, 14, 24, 17, 24, 16, 11, 24, 17, 15, 15, 9, 16, 11, 13, 13, 19],
+    "trend": -1
+  },
+  {
+    "name": "Corey Wagner",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [6, 11, 10, 18, 22, 9, 16, 14, 18, 18, 13, 14, 13, 16, 6, 20, 24],
+    "trend": -1
+  },
+  {
+    "name": "Eric Hipwood",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [3, 16, 13, 15, 10, 10, 9, 7, 13, 9, 12, 9, 9, 9, 12, 14, 13, 12, 8, 8],
+    "trend": 0
+  },
+  {
+    "name": "Matthew Kennedy",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [23, 22, 24, 23, 23, 21, 6, 25, 15, 25, 29, 29, 25, 31, 19, 26, 26, 22, 27, 26],
+    "trend": 1
+  },
+  {
+    "name": "Nathan Broad",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [6, 8, 15, 15, 16, 13, 17, 14, 13, 13, 17, 22, 12, 16, 13, 9, 15, 19, 19, 18],
+    "trend": -1
+  },
+  {
+    "name": "Jack Silvagni",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [10, 13, 14, 17, 5, 17, 15, 18, 15, 13, 16, 10, 16],
+    "trend": -1
+  },
+  {
+    "name": "Oleg Markov",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [8, 8, 12, 12, 12, 3, 13, 1],
+    "trend": 0
+  },
+  {
+    "name": "Harry Himmelberg",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [9, 21, 15, 24, 18, 23, 23, 15, 21, 15, 11, 16, 21, 19, 13, 21, 17, 17, 18, 14],
+    "trend": -1
+  },
+  {
+    "name": "Aaron Francis",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [10, 5, 7, 5, 10, 3, 8, 11, 15, 14],
+    "trend": -1
+  },
+  {
+    "name": "Blake Hardwick",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [10, 21, 20, 14, 19, 11, 15, 19, 27, 13, 14, 10, 17, 17, 9, 16, 11, 16, 19, 13],
+    "trend": 0
+  },
+  {
+    "name": "Reilly O'Brien",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [7, 9, 11, 6, 17, 18, 10, 10, 17, 10, 14, 15, 9, 13, 18, 13, 17, 7, 14, 17],
+    "trend": -1
+  },
+  {
+    "name": "Ryan Burton",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [21, 26, 16, 18, 26, 17, 17, 13],
+    "trend": 1
+  },
+  {
+    "name": "Brayden Fiorini",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [17, 14, 20, 27, 15, 22, 24, 32, 28, 21, 20, 17, 22, 25, 19, 19, 16, 19],
+    "trend": -1
+  },
+  {
+    "name": "Mabior Chol",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [14, 12, 9, 9, 8, 14, 9, 7, 7, 14, 12, 11, 11, 6, 10, 6, 11, 17, 15, 5],
+    "trend": 1
+  },
+  {
+    "name": "Dan Butler",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [4, 11, 6, 9, 4, 12],
+    "trend": 0
+  },
+  {
+    "name": "Oliver Florent",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [17, 18, 19, 12, 7, 13, 11, 17, 16, 10, 18, 23, 18, 11, 17, 16],
+    "trend": 1
+  },
+  {
+    "name": "Dan Houston",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [12, 16, 22, 18, 22, 11, 17, 17, 11, 18, 9, 18, 21, 15, 15, 12, 20, 15, 23, 15],
+    "trend": 0
+  },
+  {
+    "name": "Sam Powell-Pepper",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [16, 17, 20, 17, 9, 9, 23, 8, 18, 17, 15, 12, 15, 14, 16, 8],
+    "trend": 1
+  },
+  {
+    "name": "Andrew McGrath",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [21, 30, 35, 23, 26, 22, 20, 22, 12, 22, 19, 23, 15, 31, 25, 35, 18, 18, 25, 26],
+    "trend": 1
+  },
+  {
+    "name": "Ben Ainsworth",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [10, 5, 17, 13, 11, 12, 11, 27, 12, 11, 14, 10, 16, 3, 13, 15, 8, 14, 12, 15],
+    "trend": -1
+  },
+  {
+    "name": "Jack Bowes",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [16, 12, 16, 12, 1, 24, 24, 17, 7, 12, 15, 5, 15, 19, 17, 12, 18, 18, 19, 10],
+    "trend": 0
+  },
+  {
+    "name": "Jy Simpkin",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [33, 24, 24, 28, 21, 16, 16, 18, 11, 23, 23, 20, 17, 21, 19, 20, 24, 22, 31, 24],
+    "trend": 1
+  },
+  {
+    "name": "Tim Taranto",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [27, 19, 23, 30, 34, 25, 19, 28, 25, 23, 23, 30, 27, 26, 22, 35, 26, 29, 20, 17],
+    "trend": -1
+  },
+  {
+    "name": "Tom Stewart",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [7, 22, 23, 25, 18, 21, 13, 12, 29, 17, 22, 23, 23, 18, 21, 13, 15, 24, 2, 23],
+    "trend": -1
+  },
+  {
+    "name": "Will Hayward",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [11, 8, 9, 15, 13, 12, 12, 11, 16, 10, 12, 18, 14, 10, 6, 9, 13, 15, 7, 11],
+    "trend": -1
+  },
+  {
+    "name": "Jordan Dawson",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [21, 19, 23, 23, 26, 21, 21, 20, 27, 25, 26, 24, 18, 21, 27, 27, 14, 22, 21, 27],
+    "trend": -1
+  },
+  {
+    "name": "Griffin Logue",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [14, 16, 13, 12, 13, 17, 12, 13, 10, 8, 10, 9, 9, 11, 13, 6],
+    "trend": 1
+  },
+  {
+    "name": "Jarrod Berry",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [11, 27, 18, 20, 19, 20, 20, 19, 23, 16, 26, 20, 28, 25, 20, 2, 18, 19, 18, 19],
+    "trend": 0
+  },
+  {
+    "name": "Hugh McCluggage",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [26, 37, 33, 14, 32, 28, 30, 34, 28, 27, 18, 29, 22, 25, 27, 41, 24, 28, 27, 30],
+    "trend": 1
+  },
+  {
+    "name": "Zac Fisher",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [9, 10, 13, 14, 6, 10, 27],
+    "trend": -1
+  },
+  {
+    "name": "Ben Long",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [4, 9, 12, 13, 8, 13, 14, 11, 8, 12, 8, 10, 10, 8, 11, 11, 10, 15, 9, 13],
+    "trend": -1
+  },
+  {
+    "name": "Lewis Melican",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [6, 6, 10, 10, 5, 11, 6, 12, 17, 11, 10, 12, 8, 12, 5, 13, 11],
+    "trend": -1
+  },
+  {
+    "name": "Ivan Soldo",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [5],
+    "trend": 0
+  },
+  {
+    "name": "Mark O'Connor",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [13, 7, 10, 9, 16, 16, 14, 8, 9, 15, 8, 22, 21, 15, 17, 28, 11, 11, 16, 8],
+    "trend": -1
+  },
+  {
+    "name": "Harry Perryman",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [14, 14, 16, 11, 17, 16, 19, 16, 12, 15, 13, 10, 19, 13, 18, 16, 16, 17, 13, 9],
+    "trend": 0
+  },
+  {
+    "name": "Shai Bolton",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [15, 19, 9, 19, 16, 25, 14, 19, 17, 15, 15, 21, 20, 18, 24, 28, 7, 22, 20, 19],
+    "trend": -1
+  },
+  {
+    "name": "Tim English",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [15, 20, 18, 20, 22, 10, 20, 13, 16, 24, 18, 20, 10, 26, 13, 27, 23, 17, 18, 19],
+    "trend": 0
+  },
+  {
+    "name": "Luke Ryan",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [23, 20, 18, 17, 17, 15, 25, 22, 21, 18, 32, 19, 18, 22, 18, 30, 24, 23, 17, 16],
+    "trend": 0
+  },
+  {
+    "name": "Brennan Cox",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [8, 11, 8, 7, 9, 10, 13, 8, 6, 12, 13, 10, 10, 13, 6, 13, 14, 14, 7, 18],
+    "trend": 0
+  },
+  {
+    "name": "Sean Darcy",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [12, 7, 12, 15, 10, 11, 15, 12, 10, 17, 7, 3, 7, 8, 8, 4, 9],
+    "trend": -1
+  },
+  {
+    "name": "Jeremy Finlayson",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [3, 10, 11, 6, 11, 6, 5, 19],
+    "trend": 0
+  },
+  {
+    "name": "Zach Guthrie",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [16, 21, 14, 15, 17, 16, 18, 13, 16, 17, 25, 8, 20, 16, 13, 17, 21, 13, 16, 21],
+    "trend": 0
+  },
+  {
+    "name": "Tyson Stengle",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [12, 15, 12, 16, 12, 10, 13, 13, 12, 15, 17, 11, 18, 15, 12, 13, 12, 8, 17, 7],
+    "trend": 0
+  },
+  {
+    "name": "Josh Battle",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [18, 17, 19, 16, 17, 26, 22, 14, 17, 15, 23, 18, 15, 16, 15, 23, 13, 15, 33, 29],
+    "trend": 0
+  },
+  {
+    "name": "Cameron Zurhaar",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [2, 10, 10, 10, 12, 13, 10, 8, 11, 8, 10, 7, 9, 15, 9, 11, 11, 9, 12, 8],
+    "trend": -1
+  },
+  {
+    "name": "Lewis Young",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [6, 13, 8, 16, 5, 7, 9, 7, 15, 17, 10, 8, 8],
+    "trend": -1
+  },
+  {
+    "name": "Nick Larkey",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [7, 9, 14, 7, 12, 11, 9, 10, 7, 10, 12, 7, 12, 9, 11, 10, 8],
+    "trend": 0
+  },
+  {
+    "name": "Jack Scrimshaw",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [15, 18, 13, 12, 17, 15, 11, 15, 18, 8, 12, 16, 5, 22, 4, 18],
+    "trend": 1
+  },
+  {
+    "name": "Rowan Marshall",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [21, 18, 21, 24, 15, 17, 16, 21, 22, 20, 23, 16, 11, 27, 19, 13, 18, 16, 12, 14],
+    "trend": 0
+  },
+  {
+    "name": "Will Setterfield",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [18, 22, 17, 31, 17, 23, 19, 26, 28, 21, 19, 20, 21],
+    "trend": -1
+  },
+  {
+    "name": "Harry McKay",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [17, 21, 13, 12, 11, 18, 16, 19, 8, 19, 4, 14],
+    "trend": 1
+  },
+  {
+    "name": "Josh Daicos",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [26, 24, 19, 19, 20, 29, 30, 25, 32, 27, 30, 30, 34, 24, 31, 29, 19, 32, 36, 30],
+    "trend": -1
+  },
+  {
+    "name": "Jack Graham",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [25, 20, 14, 16, 19, 24, 22, 19, 18, 17, 20, 15, 14, 24, 20, 19, 17, 23],
+    "trend": 0
+  },
+  {
+    "name": "Harry Morrison",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [19, 17, 21, 18, 18, 12, 12, 21, 12, 28, 17, 15, 20, 22, 23, 16, 16, 12, 14, 15],
+    "trend": 1
+  },
+  {
+    "name": "Patrick Lipinski",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [14, 18, 15, 10, 16, 17, 18, 13, 17, 19, 26, 11, 16, 5, 15, 20, 20, 18, 24, 20],
+    "trend": 0
+  },
+  {
+    "name": "Ben McKay",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [8, 15, 12, 3, 4, 8, 16, 10, 5, 7],
+    "trend": 1
+  },
+  {
+    "name": "Tom Doedee",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [10],
+    "trend": 0
+  },
+  {
+    "name": "Darcy Fogarty",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [13, 10, 17, 14, 11, 11, 16, 7, 13, 15, 8, 9, 11, 7, 8, 11, 12, 10, 8, 15],
+    "trend": 0
+  },
+  {
+    "name": "Lachlan Murphy",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [6, 2, 8, 11, 13],
+    "trend": -1
+  },
+  {
+    "name": "Hunter Clark",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [22, 25, 20, 8, 6, 19, 16, 17, 14, 20, 19, 11, 6],
+    "trend": 1
+  },
+  {
+    "name": "Cam Rayner",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [11, 10, 16, 13, 22, 13, 18, 15, 19, 12, 22, 22, 19, 20, 17, 14, 10, 15, 14, 18],
+    "trend": -1
+  },
+  {
+    "name": "Bailey Banfield",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [11, 20, 15, 15, 16, 17, 20, 5, 15, 12, 13, 13, 13, 17, 5, 5, 14, 13, 18, 10],
+    "trend": 0
+  },
+  {
+    "name": "Andrew Brayshaw",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [32, 19, 22, 23, 23, 32, 21, 29, 24, 25, 29, 31, 30, 21, 30, 34, 18, 37, 33, 31],
+    "trend": 0
+  },
+  {
+    "name": "Luke Davies-Uniacke",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [31, 40, 20, 21, 21, 26, 6, 28, 30, 27, 18, 26, 27, 32, 28, 25, 25, 26, 25, 19],
+    "trend": 1
+  },
+  {
+    "name": "Aaron Naughton",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [9, 7, 17, 20, 15, 10, 11, 14, 18, 8, 8, 9, 10, 11, 8, 19, 14, 12, 8, 9],
+    "trend": -1
+  },
+  {
+    "name": "Bayley Fritsch",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [17, 8, 14, 17, 11, 20, 21, 10, 9, 20, 17, 15, 13, 7, 4, 7, 8, 10, 17, 15],
+    "trend": -1
+  },
+  {
+    "name": "Lachie Fogarty",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [14, 10, 17, 10, 11, 7, 7, 16, 18, 17, 10, 13, 8, 11, 14, 12, 11, 11, 8, 12],
+    "trend": 0
+  },
+  {
+    "name": "Tim Kelly",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [24, 17, 25, 26, 26, 15, 14, 12, 10, 12, 19, 17, 12, 12, 14, 22, 14, 18, 29, 14],
+    "trend": 1
+  },
+  {
+    "name": "Esava Ratugolea",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [0, 13, 16, 18, 18, 13, 7, 11, 9, 7, 9, 9, 12],
+    "trend": -1
+  },
+  {
+    "name": "Liam Ryan",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [11, 12, 12, 6, 11, 9, 12, 12, 13, 9, 10, 11, 14, 17, 10, 7, 11, 12, 10, 16],
+    "trend": 0
+  },
+  {
+    "name": "Jake Waterman",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [7, 15, 10, 11, 8, 13, 12, 5],
+    "trend": 0
+  },
+  {
+    "name": "Adam Cerra",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [19, 20, 25, 28, 17, 25, 30, 24, 23, 34, 18, 22, 25, 28, 27, 23, 26, 28, 26],
+    "trend": -1
+  },
+  {
+    "name": "Ed Richards",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [21, 25, 31, 21, 24, 27, 29, 26, 16, 27, 25, 25, 28, 27, 31, 30, 27, 23, 29, 23],
+    "trend": 0
+  },
+  {
+    "name": "Willie Rioli",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [11, 4, 8, 4, 8, 6, 7, 11, 6, 9, 15, 6, 10, 14, 13, 9, 16, 17, 12],
+    "trend": 0
+  },
+  {
+    "name": "Jack Henry",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [12, 3, 13, 12, 18, 6, 11, 15, 16, 14, 14, 12, 8, 18, 9, 9, 7, 10, 12, 15],
+    "trend": -1
+  },
+  {
+    "name": "Nick Coffield",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [14, 12, 9, 16],
+    "trend": -1
+  },
+  {
+    "name": "Jack Higgins",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [11, 4, 8, 10, 10, 9, 9, 9, 15, 6, 8, 10, 6, 12, 8, 12, 8, 12, 6, 10],
+    "trend": -1
+  },
+  {
+    "name": "Zac Bailey",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [23, 21, 16, 27, 25, 28, 22, 21, 26, 21, 26, 19, 13, 21, 20, 15, 27, 16, 16, 24],
+    "trend": -1
+  },
+  {
+    "name": "Matt Guelfi",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [5, 13, 8, 9, 3, 11, 14, 7, 12, 9, 10, 9],
+    "trend": 0
+  },
+  {
+    "name": "Oscar McInerney",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [8, 8, 9, 3, 11, 6, 5, 5, 14, 13, 8, 11, 13, 18],
+    "trend": 0
+  },
+  {
+    "name": "James Worpel",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [16, 22, 20, 22, 27, 21, 13, 17, 26, 22, 14, 11, 21, 23, 20, 28, 18, 24, 22, 23],
+    "trend": -1
+  },
+  {
+    "name": "Charlie Spargo",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [2, 4, 13, 13, 14, 7, 19, 12, 1, 11],
+    "trend": -1
+  },
+  {
+    "name": "Jack Petruccelle",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [4, 3],
+    "trend": 0
+  },
+  {
+    "name": "Charlie Ballard",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [6],
+    "trend": 0
+  },
+  {
+    "name": "Tom McCartin",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [22, 13, 18, 11, 12, 15, 11, 19, 20, 11, 14, 15, 10, 10, 7, 11, 12, 15, 12, 7],
+    "trend": 1
+  },
+  {
+    "name": "Isaac Cumming",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [16, 7, 11, 18, 21, 15, 16, 14, 13, 10, 19, 11, 21, 16, 10, 12, 17, 18, 14, 14],
+    "trend": -1
+  },
+  {
+    "name": "Jordan Ridley",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [9, 23, 20, 18, 9, 18, 16, 26, 22, 9],
+    "trend": 0
+  },
+  {
+    "name": "Mitch Lewis",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [9, 4, 1, 10, 11, 7, 14, 7],
+    "trend": -1
+  },
+  {
+    "name": "Brody Mihocek",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [7, 10, 8, 9, 11, 6, 12, 12, 12, 10, 11, 6, 12, 16, 6, 10, 7, 10, 8, 10],
+    "trend": -1
+  },
+  {
+    "name": "Sam Taylor",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [8, 7, 12, 13, 10, 18, 13, 19, 13, 14, 14, 13, 11, 16, 20, 19, 12, 16, 15, 17],
+    "trend": -1
+  },
+  {
+    "name": "Quinton Narkle",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [7, 3],
+    "trend": 0
+  },
+  {
+    "name": "Wil Powell",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [12, 18, 23, 21, 21, 11, 17, 26, 16, 7, 20, 17, 17, 20, 10, 11, 18, 19, 13, 14],
+    "trend": 0
+  },
+  {
+    "name": "Harrison Petty",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [5, 11, 15, 11, 5, 4, 7, 9, 8, 7, 10, 4, 9, 10, 10, 5, 11, 7, 16],
+    "trend": 1
+  },
+  {
+    "name": "Oscar Allen",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [7, 7, 8, 10, 13, 15, 10, 8, 8, 4, 8, 8],
+    "trend": -1
+  },
+  {
+    "name": "Brent Daniels",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [3, 14, 14, 15, 8, 21],
+    "trend": -1
+  },
+  {
+    "name": "Darcy Cameron",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [15, 15, 14, 24, 16, 12, 20, 20, 18, 20, 19, 19, 16, 16, 15, 13, 19, 23, 16, 14],
+    "trend": -1
+  },
+  {
+    "name": "Liam Baker",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [26, 24, 14, 18, 24, 25, 18, 11, 35, 21, 20, 29, 18, 18, 22, 24, 24, 22, 23, 24],
+    "trend": 0
+  },
+  {
+    "name": "Kane Farrell",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [21, 17, 25, 20, 24, 25, 20, 19, 22, 20, 18, 17, 15, 15, 17, 26, 18, 15, 18, 31],
+    "trend": 0
+  },
+  {
+    "name": "Brandon Starcevich",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [4, 11, 10, 12, 13, 13, 9, 12, 12, 10, 7, 9, 10, 13],
+    "trend": -1
+  },
+  {
+    "name": "Ben Paton",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [3, 8, 10, 12],
+    "trend": -1
+  },
+  {
+    "name": "Conor Nash",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [23, 17, 24, 19, 19, 23, 17, 21, 19, 22, 19, 21, 10, 21, 25, 13, 12, 4, 17, 16],
+    "trend": 0
+  },
+  {
+    "name": "Sam Switkowski",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [17, 9, 12, 11, 18, 14, 16, 14, 17, 11, 16, 19, 7, 10, 16, 6, 7],
+    "trend": -1
+  },
+  {
+    "name": "Tom De Koning",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [15, 11, 15, 18, 15, 12, 14, 11, 18, 14, 21, 23, 17, 21, 17, 20, 11, 14, 19, 28],
+    "trend": 0
+  },
+  {
+    "name": "Billy Frampton",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [7, 13, 12, 16, 9, 7, 15, 4, 8, 14, 15, 8, 15, 5, 10, 9],
+    "trend": 0
+  },
+  {
+    "name": "Sam Walsh",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [28, 28, 32, 26, 19, 21, 21, 30, 22, 37, 31, 26, 22, 25],
+    "trend": 1
+  },
+  {
+    "name": "Noah Balta",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [13, 7, 12, 8, 14, 7, 14, 12, 12, 11, 16, 14, 14],
+    "trend": 0
+  },
+  {
+    "name": "Tom Atkins",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [20, 25, 17, 27, 21, 20, 17, 25, 22, 18, 17, 21, 18, 23, 15, 16, 23, 19, 21, 18],
+    "trend": 0
+  },
+  {
+    "name": "Jordan Clark",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [20, 23, 24, 20, 30, 21, 24, 31, 13, 31, 33, 26, 30, 20, 21, 33, 16, 27, 22, 23],
+    "trend": -1
+  },
+  {
+    "name": "Gryan Miers",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [16, 27, 19, 26, 18, 22, 30, 20, 26, 22, 29, 15, 25, 26, 26, 23, 27, 23, 11, 21],
+    "trend": -1
+  },
+  {
+    "name": "Tom Sparrow",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [15, 23, 8, 14, 15, 9, 12, 10, 11, 15, 11, 11, 16, 11, 7, 16, 13, 5, 5, 14],
+    "trend": 1
   },
   {
     "name": "Zak Butters",
     "team": "Port Adelaide",
-    "opponent": "Adelaide",
-    "disposals": [29, 31, 33, 28, 30, 27, 26, 25, 32, 30, 31, 28, 29, 33, 30, 28, 27, 32, 31, 29],
+    "opponent": "North Melbourne",
+    "disposals": [35, 29, 29, 10, 34, 18, 38, 31, 30, 28, 27, 32, 24, 20, 33, 24, 27, 27, 33, 30],
     "trend": 1
+  },
+  {
+    "name": "Willem Drew",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [21, 20, 17, 24, 18, 17, 13, 21, 15, 17, 17, 18, 23, 20, 18, 16, 17, 9, 26, 18],
+    "trend": 1
+  },
+  {
+    "name": "Xavier Duursma",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [17, 19, 24, 14, 21, 20, 22, 16, 11, 20, 20, 12, 27, 20, 19, 25, 19, 24, 17, 29],
+    "trend": 1
+  },
+  {
+    "name": "Connor Rozee",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [34, 22, 19, 22, 16, 31, 30, 25, 32, 28, 27, 32, 32, 29, 27, 27, 28, 20, 22, 39],
+    "trend": 0
+  },
+  {
+    "name": "Chayce Jones",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [2, 4, 6, 8, 10],
+    "trend": -1
+  },
+  {
+    "name": "Bailey Smith",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [29, 36, 22, 34, 30, 31, 30, 43, 23, 26, 28, 41, 38, 33, 30, 35, 34, 29, 28, 35],
+    "trend": -1
+  },
+  {
+    "name": "Nick Blakey",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [20, 23, 20, 28, 21, 29, 23, 19, 24, 22, 34, 11, 19, 13, 22, 18, 17, 27, 18, 14],
+    "trend": -1
+  },
+  {
+    "name": "Callum Wilkie",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [16, 10, 29, 17, 13, 16, 23, 9, 16, 20, 21, 31, 15, 24, 16, 24, 21, 22, 18, 17],
+    "trend": 1
+  },
+  {
+    "name": "Chris Burgess",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [10],
+    "trend": 0
+  },
+  {
+    "name": "Jack Lukosius",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [9, 8, 14, 7, 14, 0, 11],
+    "trend": 1
+  },
+  {
+    "name": "Lachie Schultz",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [13, 18, 16, 17, 12, 17, 19, 10, 10, 13, 10, 15, 18, 17, 17, 10],
+    "trend": 1
+  },
+  {
+    "name": "Bailey Scott",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [10, 17, 6, 5, 18, 5, 3, 3, 12, 12, 17, 18],
+    "trend": 1
+  },
+  {
+    "name": "Dylan Moore",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [26, 17, 19, 17, 32, 25, 15, 27, 32, 17, 17, 15, 23, 26, 18, 15, 17, 18, 11, 17],
+    "trend": -1
+  },
+  {
+    "name": "Justin McInerney",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [19, 27, 13, 22, 20, 20, 17, 22, 23, 27, 24, 22, 24, 29, 17, 23, 16],
+    "trend": -1
+  },
+  {
+    "name": "Jack Ross",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [20, 19, 26, 23, 24, 25, 21, 16, 23, 19, 6, 17, 18, 21, 17, 13, 24, 17, 12, 19],
+    "trend": 0
+  },
+  {
+    "name": "James Rowbottom",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [11, 14, 17, 12, 9, 17, 15, 11, 14, 14, 15, 20, 12, 19, 21, 14, 20, 23, 22, 20],
+    "trend": 0
+  },
+  {
+    "name": "Noah Answerth",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [7, 11, 13, 13, 12, 20, 15, 11, 18, 14, 14, 13, 12, 9, 17, 16, 11],
+    "trend": -1
+  },
+  {
+    "name": "Liam Stocker",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [12, 10, 11, 9, 12, 8, 12, 10, 13, 14, 8, 11, 10, 15, 15, 14, 5],
+    "trend": 0
+  },
+  {
+    "name": "Oskar Baker",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [20, 16, 21, 14, 13, 15, 20, 14, 5],
+    "trend": 1
+  },
+  {
+    "name": "Mitchell Hinge",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [9, 7, 13, 21, 16, 14, 12, 1, 14, 12, 23, 15, 16, 13, 20, 21, 11, 10, 19, 25],
+    "trend": -1
+  },
+  {
+    "name": "Darcy Fort",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [9, 8, 11, 15, 12, 13, 9, 9, 7, 9, 10, 6, 8, 12, 12, 10, 8, 11, 11, 10],
+    "trend": 0
+  },
+  {
+    "name": "Ben King",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [6, 11, 8, 5, 6, 9, 10, 8, 4, 8, 6, 9, 7, 4, 7, 4, 6, 10, 2, 11],
+    "trend": 0
+  },
+  {
+    "name": "Peter Ladhams",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [17, 6, 4, 11, 9, 10, 9, 15, 14, 12],
+    "trend": -1
+  },
+  {
+    "name": "Callum Coleman-Jones",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [0],
+    "trend": 0
+  },
+  {
+    "name": "Ryan Gardner",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [5],
+    "trend": 0
+  },
+  {
+    "name": "Isaac Quaynor",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [15, 16, 15, 13, 10, 10, 17, 18, 17, 18, 9, 8, 25, 20, 23, 17, 5, 13, 10, 10],
+    "trend": 0
+  },
+  {
+    "name": "John Noble",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [22, 20, 32, 27, 18, 24, 30, 31, 20, 30, 29, 29, 21, 12, 22, 27, 36, 23, 26, 30],
+    "trend": 0
+  },
+  {
+    "name": "Bobby Hill",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [4, 6, 10, 14, 6, 14, 7, 7, 8, 12, 6, 8, 10, 12],
+    "trend": -1
+  },
+  {
+    "name": "Hayden McLean",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [10, 9, 10, 0, 12, 6, 11, 10, 6, 14, 11, 7, 7, 10, 11, 16, 10, 8, 9],
+    "trend": 0
+  },
+  {
+    "name": "Rhylee West",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [17, 13, 11, 7, 16, 14, 10, 13, 11, 18, 16, 11, 13, 19, 16, 15, 7, 10, 24, 15],
+    "trend": 0
+  },
+  {
+    "name": "Connor Idun",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [9, 14, 14, 17, 23, 17, 21, 13, 20, 15, 23, 19, 25, 20, 18, 17, 22, 16, 26, 18],
+    "trend": -1
+  },
+  {
+    "name": "Jye Caldwell",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [15, 32, 28, 26, 30, 29, 17, 22, 23, 27, 36],
+    "trend": 0
+  },
+  {
+    "name": "Changkuoth Jiath",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [5, 6, 7, 13, 14, 12, 9, 18, 15, 13, 5, 12, 21, 12, 25, 32, 6, 17, 14, 20],
+    "trend": -1
+  },
+  {
+    "name": "Kade Chandler",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [15, 15, 10, 18, 13, 14, 15, 18, 11, 16, 14, 12, 16, 11, 14, 26, 18, 9, 11, 11],
+    "trend": -1
+  },
+  {
+    "name": "Brandon Zerk-Thatcher",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [14, 12, 11, 8, 12, 14, 11, 8, 8, 13, 8, 11, 13],
+    "trend": 1
+  },
+  {
+    "name": "Tom Green",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [34, 33, 29, 25, 25, 16, 30, 24, 35, 31, 26, 31, 30, 25, 25, 37, 34, 27, 36, 28],
+    "trend": 1
+  },
+  {
+    "name": "Noah Anderson",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [26, 32, 34, 21, 32, 19, 38, 33, 27, 32, 30, 27, 42, 19, 39, 36, 35, 28, 27, 21],
+    "trend": 1
+  },
+  {
+    "name": "Connor Budarick",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [11, 10, 10, 8, 10, 14, 14, 22, 24, 7, 12, 9, 3, 9, 3, 17, 8, 14, 17],
+    "trend": -1
+  },
+  {
+    "name": "Matt Rowell",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [23, 34, 31, 21, 25, 30, 27, 37, 30, 32, 15, 24, 34, 24, 27, 24, 29, 20, 16, 16],
+    "trend": 0
+  },
+  {
+    "name": "Mitch Georgiades",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [15, 10, 12, 12, 18, 10, 13, 10, 11, 7, 18, 8, 8, 14, 10, 11, 17, 9, 14, 14],
+    "trend": 0
+  },
+  {
+    "name": "Deven Robertson",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [6, 4, 3, 1],
+    "trend": 0
+  },
+  {
+    "name": "Toby Bedford",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [13, 11, 12, 15, 9, 10, 8, 9, 14, 14, 10, 13, 12, 11, 8, 9, 9, 9, 8, 14],
+    "trend": 0
+  },
+  {
+    "name": "Kysaiah Pickett",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [16, 10, 22, 26, 19, 23, 20, 24, 25, 16, 15, 12, 24, 21, 17, 14, 18, 24, 23, 22],
+    "trend": -1
+  },
+  {
+    "name": "Hayden Young",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [28, 16, 2, 23, 11, 8, 20, 25, 18],
+    "trend": -1
+  },
+  {
+    "name": "Trent Rivers",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [22, 20, 22, 18, 25, 27, 17, 23, 27, 13, 22, 14, 17, 24, 23, 25, 28, 26, 22, 13],
+    "trend": 0
+  },
+  {
+    "name": "Luke Jackson",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [18, 12, 11, 23, 27, 21, 16, 13, 13, 15, 21, 15, 27, 21, 21, 19, 11, 16, 17, 20],
+    "trend": -1
+  },
+  {
+    "name": "Laitham Vandermeer",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [11, 4, 0, 5, 13, 17, 9, 11, 12, 11, 13, 15, 9, 15, 6, 5, 11, 14, 16],
+    "trend": -1
+  },
+  {
+    "name": "Lachie Ash",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [28, 32, 26, 13, 36, 13, 27, 27, 29, 33, 31, 30, 36, 28, 29, 25, 29, 31, 29, 33],
+    "trend": 1
+  },
+  {
+    "name": "Caleb Serong",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [35, 24, 26, 28, 19, 20, 37, 29, 11, 18, 35, 36, 27, 29, 36, 25, 15, 32, 27, 29],
+    "trend": 1
+  },
+  {
+    "name": "Tristan Xerri",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [25, 22, 11, 7, 17, 18, 12, 13, 22, 17, 19, 19, 25, 23, 14, 9, 18, 17, 20, 17],
+    "trend": 1
+  },
+  {
+    "name": "Will Day",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [19, 15, 24, 26, 16, 26],
+    "trend": -1
+  },
+  {
+    "name": "Izak Rankine",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [18, 23, 16, 15, 15, 18, 16, 20, 23, 18, 18, 23, 26, 16, 29, 19, 20, 25, 21, 30],
+    "trend": 0
+  },
+  {
+    "name": "Dylan Stephens",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [22, 22, 14, 20, 17, 10, 15, 16, 11, 13, 27, 19, 23, 18, 22, 25, 15, 21, 21, 18],
+    "trend": 1
+  },
+  {
+    "name": "Chad Warner",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [17, 23, 26, 26, 19, 26, 20, 24, 19, 17, 22, 19, 27, 30, 25, 24, 24, 21, 24, 10],
+    "trend": 0
+  },
+  {
+    "name": "Michael Frederick",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [7, 13, 13, 17, 10, 10, 8, 13, 14, 14, 5, 8, 7, 10, 16, 13, 10, 11, 8, 13],
+    "trend": 0
+  },
+  {
+    "name": "Ryan Byrnes",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [8, 11, 17, 11, 18, 20, 20, 17, 22, 16, 18, 13, 23, 17, 18, 20, 17],
+    "trend": -1
+  },
+  {
+    "name": "Brad Close",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [12, 15, 18, 8, 8, 15, 16, 11, 14, 14, 14, 9, 12, 17, 13, 8, 15, 7, 18, 10],
+    "trend": 1
+  },
+  {
+    "name": "Sam Draper",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [14, 22, 9, 10, 12],
+    "trend": 1
+  },
+  {
+    "name": "Harry Edwards",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [6, 13, 17, 10, 12, 2, 12, 13, 6, 10, 15, 8, 9, 7, 7, 3],
+    "trend": 1
+  },
+  {
+    "name": "Mark Keane",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [19, 16, 11, 23, 17, 21, 16, 13, 12, 17, 18, 15, 9, 23, 14, 8, 18, 9, 12, 11],
+    "trend": -1
+  },
+  {
+    "name": "Jack Payne",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [1, 18, 17, 9, 10, 13, 10, 12, 16, 17, 11, 9, 8],
+    "trend": 0
+  },
+  {
+    "name": "Harry Schoenberg",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [5],
+    "trend": 0
+  },
+  {
+    "name": "Lachlan Sholl",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [7, 13, 9, 19, 22],
+    "trend": -1
+  },
+  {
+    "name": "Sam Wicks",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [12, 21, 18, 9, 18, 12, 11, 14, 18, 7, 13, 10, 20, 13, 18, 19, 13, 14, 15, 14],
+    "trend": 1
+  },
+  {
+    "name": "Jeremy Sharp",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [12, 14, 4, 11, 3, 13, 17, 5, 18, 21, 21, 9, 18, 19],
+    "trend": -1
+  },
+  {
+    "name": "Xavier O'Halloran",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [17, 15, 13, 23, 13, 16, 19, 15, 27, 20, 14, 14, 19, 19, 13, 15, 17, 6, 7, 7],
+    "trend": -1
+  },
+  {
+    "name": "Matthew Cottrell",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [15, 20, 19, 14, 20, 11],
+    "trend": 1
+  },
+  {
+    "name": "Sam Flanders",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [20, 14, 20, 8, 16, 15, 18, 28, 18, 24, 28, 29, 7, 16, 19, 13, 10, 21, 21, 13],
+    "trend": 0
+  },
+  {
+    "name": "Liam Henry",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [4, 9, 9, 9, 12, 1],
+    "trend": 0
+  },
+  {
+    "name": "Jordon Butts",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [2, 6, 10, 9, 4, 4, 9, 5, 8, 7],
+    "trend": 0
+  },
+  {
+    "name": "Tom Fullarton",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [3, 6],
+    "trend": 0
+  },
+  {
+    "name": "Jake Riccardi",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [15, 8, 16, 8, 9, 13, 17, 10, 12, 15, 9, 16, 17, 9, 11, 17, 16, 6, 11, 16],
+    "trend": 0
+  },
+  {
+    "name": "Thomson Dow",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [11, 17, 14, 18, 28, 18, 20, 21, 20, 15, 22],
+    "trend": -1
+  },
+  {
+    "name": "Bailey J. Williams",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [7, 9, 6, 10, 13, 6, 6, 9, 10, 10, 8, 14, 7, 11, 13, 4],
+    "trend": -1
+  },
+  {
+    "name": "Keidean Coleman",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [19],
+    "trend": 0
+  },
+  {
+    "name": "Matthew Owies",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [9, 3, 9, 3, 13, 13, 3, 11, 15, 10, 8, 10, 6, 6, 13, 11],
+    "trend": -1
+  },
+  {
+    "name": "Jack Buckley",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [11, 10, 12, 12, 10, 7, 24, 17, 8, 16, 12, 6, 21, 14, 13, 8, 14, 10, 8],
+    "trend": -1
+  },
+  {
+    "name": "Finn Maginness",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [9, 8, 11, 5, 10, 14, 16, 22, 12, 25, 13, 15, 13],
+    "trend": -1
+  },
+  {
+    "name": "Joel Amartey",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [8, 15, 10, 3, 8, 8, 8, 11],
+    "trend": 1
+  },
+  {
+    "name": "Jy Farrar",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [8, 9, 8, 5, 12, 9, 11, 13],
+    "trend": -1
+  },
+  {
+    "name": "Oliver Henry",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [4, 10, 10, 6, 9, 12, 7, 6, 2, 6, 9, 9, 9, 9, 9],
+    "trend": 0
+  },
+  {
+    "name": "Lachlan McNeil",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [4, 5, 7, 11, 7, 7, 0, 3, 14, 15, 4, 13, 15, 10, 16, 7, 18, 10, 12, 6],
+    "trend": -1
+  },
+  {
+    "name": "James Jordon",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [17, 9, 20, 12, 14, 13, 11, 9, 11, 16, 17, 11, 10, 14, 9, 18, 11, 17, 16, 16],
+    "trend": 1
+  },
+  {
+    "name": "Lloyd Meek",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [13, 15, 18, 15, 10, 10, 17, 13, 12, 11, 20, 11, 15, 15, 15, 9, 6, 10, 19, 19],
+    "trend": 1
+  },
+  {
+    "name": "Sam Berry",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [12, 12, 24, 14, 13, 13, 20, 15, 11, 16, 23, 15, 17, 16, 26, 9, 7, 10, 6],
+    "trend": 0
+  },
+  {
+    "name": "Harrison Jones",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [7, 12, 9, 7, 13, 9, 14],
+    "trend": 0
+  },
+  {
+    "name": "Tyler Brockman",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [6, 6, 11, 8, 10, 12, 10, 12, 10, 9, 17, 16, 16, 16, 18, 14, 7, 6, 9, 15],
+    "trend": -1
+  },
+  {
+    "name": "Jacob Koschitzke",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [9, 6],
+    "trend": 0
+  },
+  {
+    "name": "Harry Sharp",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [1, 8, 2, 10, 2, 8, 10, 7, 10, 8, 4, 4, 3, 3, 5, 12, 10, 9],
+    "trend": -1
+  },
+  {
+    "name": "Errol Gulden",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [36, 23, 29, 30, 32, 20, 23, 25, 30, 18],
+    "trend": 1
+  },
+  {
+    "name": "Braeden Campbell",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [13, 12, 9, 17, 7, 12, 11, 12, 8, 15, 12, 8, 9, 15, 15, 11, 15, 16, 15, 15],
+    "trend": 0
+  },
+  {
+    "name": "Tom Powell",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [16, 22, 11, 24, 24, 24, 27, 25, 14, 34, 23, 30, 28, 24, 16, 28, 19, 19, 20, 22],
+    "trend": -1
+  },
+  {
+    "name": "Miles Bergman",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [14, 12, 13, 17, 25, 14, 22, 23, 23, 19, 23, 14, 11, 12, 7, 26, 26, 21, 16],
+    "trend": -1
+  },
+  {
+    "name": "Matt Flynn",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [14, 11, 12, 8, 11, 9, 15, 15, 12, 12, 15, 8, 17, 13, 9, 16, 19, 13],
+    "trend": 0
+  },
+  {
+    "name": "Francis Evans",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [19, 15, 16, 12, 8, 12, 12, 6, 7, 7],
+    "trend": 1
+  },
+  {
+    "name": "Jaxon Prior",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [13, 17, 20, 14, 19, 17, 10, 14, 6, 15, 28, 13, 14, 23, 17, 23, 13, 9, 18, 12],
+    "trend": 1
+  },
+  {
+    "name": "Nick Murray",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [6, 5, 7, 4, 11, 7, 4, 11, 10, 9, 13, 14],
+    "trend": -1
+  },
+  {
+    "name": "Heath Chapman",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [15, 14, 7, 10, 8, 10, 10, 12, 13, 9, 22, 13, 13, 21, 15, 17, 8, 7, 26, 15],
+    "trend": 1
+  },
+  {
+    "name": "Beau McCreery",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [13, 14, 18, 11, 15, 3, 13, 11, 14, 12, 13, 6, 10, 11, 9, 7, 10, 12, 12],
+    "trend": 1
+  },
+  {
+    "name": "Will Phillips",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [17, 20, 16, 15, 12, 10, 11],
+    "trend": 1
+  },
+  {
+    "name": "Archie Perkins",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [12, 19, 13, 15, 10, 8, 16, 9, 10, 7, 11, 15, 24, 14, 15, 15, 14, 12, 17, 17],
+    "trend": 1
+  },
+  {
+    "name": "Max Holmes",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [33, 25, 23, 26, 21, 29, 35, 29, 32, 17, 36, 23, 36, 40, 27, 33, 22, 30, 21, 20],
+    "trend": 0
+  },
+  {
+    "name": "Lachie Jones",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [17, 14, 8, 12, 11, 12, 12, 12, 10, 7, 13, 5, 5, 11, 15, 13, 15, 4],
+    "trend": 1
+  },
+  {
+    "name": "Rhyan Mansell",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [15, 12, 17, 11, 12, 15, 5, 22, 7, 10, 2, 11, 11, 11, 13, 10, 7, 8, 16, 10],
+    "trend": 1
+  },
+  {
+    "name": "Conor Stone",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [18, 15, 12, 13, 18, 11, 11],
+    "trend": 0
+  },
+  {
+    "name": "Josh Treacy",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [15, 13, 13, 10, 13, 9, 9, 13, 11, 8, 11, 14, 15, 12, 11, 11, 6, 15, 6, 11],
+    "trend": 1
+  },
+  {
+    "name": "Jordon Sweet",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [9, 18, 14, 16, 11, 22, 5, 13, 6, 5, 7, 9, 8, 9, 12, 10, 14, 11, 14],
+    "trend": 1
+  },
+  {
+    "name": "Zach Reid",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [15, 15, 27, 15, 16, 8, 21, 16, 10, 11],
+    "trend": 1
+  },
+  {
+    "name": "Sam De Koning",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [10, 18, 9, 11, 14, 8, 12, 10, 11, 7, 13, 12, 12, 10, 21, 14, 16, 12, 14, 18],
+    "trend": 1
+  },
+  {
+    "name": "Riley Thilthorpe",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [12, 15, 18, 11, 15, 12, 19, 9, 17, 9, 16, 11, 11, 14, 17, 16, 15, 9, 9, 13],
+    "trend": 1
+  },
+  {
+    "name": "Caleb Poulter",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [10, 13, 11, 1, 4, 10, 17],
+    "trend": 1
+  },
+  {
+    "name": "Nick Bryan",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [3, 12, 14, 10],
+    "trend": 0
+  },
+  {
+    "name": "Buku Khamis",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [2, 6, 4, 7, 13, 14, 6, 8, 8, 9, 12, 11, 10, 14],
+    "trend": -1
+  },
+  {
+    "name": "Malcolm Rosas",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [2, 2, 9, 10],
+    "trend": -1
+  },
+  {
+    "name": "Hugo Ralphsmith",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [8, 17, 8, 12, 23, 17, 16, 10, 12, 11, 11, 16],
+    "trend": -1
+  },
+  {
+    "name": "Kieren Briggs",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [16, 17, 13, 8, 8, 11, 11, 14, 10, 9, 9, 13, 10, 12, 11, 7, 12, 15, 15, 1],
+    "trend": 1
+  },
+  {
+    "name": "Ned Reeves",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [6],
+    "trend": 0
+  },
+  {
+    "name": "Riley Garcia",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [9, 18, 7, 15, 19, 14, 13, 18],
+    "trend": -1
+  },
+  {
+    "name": "Callum Brown",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [11, 11, 9, 8, 8, 11, 12, 15, 16, 12, 11, 13, 10, 9, 13, 13, 16, 10, 14, 9],
+    "trend": 0
+  },
+  {
+    "name": "Jai Newcombe",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [20, 28, 32, 23, 22, 28, 19, 8, 11, 24, 22, 27, 15, 27, 18, 23, 29, 19, 27, 20],
+    "trend": 1
+  },
+  {
+    "name": "Brandon Walker",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [5, 13],
+    "trend": 0
+  },
+  {
+    "name": "Josh Worrell",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [33, 26, 19, 27, 15, 20, 19, 25, 21, 18, 24, 17, 18, 24, 26, 15, 23, 23, 20, 19],
+    "trend": 1
+  },
+  {
+    "name": "Lachlan Bramble",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [14, 14, 17, 15, 23, 19, 21, 20, 28, 23, 17, 15, 3, 14, 16, 15, 14, 25, 22, 16],
+    "trend": -1
+  },
+  {
+    "name": "Samson Ryan",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [11, 4],
+    "trend": 0
+  },
+  {
+    "name": "Dylan Williams",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [8, 1],
+    "trend": 0
+  },
+  {
+    "name": "Luke Pedlar",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [4, 9, 8, 6, 7, 5, 3, 10, 11],
+    "trend": 0
+  },
+  {
+    "name": "Jed McEntee",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [10, 7, 12, 15, 4, 4],
+    "trend": 0
+  },
+  {
+    "name": "Sam Durham",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [13, 28, 18, 22, 27, 11, 22, 27, 27, 8, 26, 24, 21, 25, 19, 19, 28, 28, 21, 23],
+    "trend": 0
+  },
+  {
+    "name": "Jack Ginnivan",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [24, 8, 17, 23, 21, 26, 20, 18, 21, 27, 19, 19, 12, 23, 31, 13, 22, 17, 23, 17],
+    "trend": -1
+  },
+  {
+    "name": "Cooper Sharman",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [13, 17, 16, 6, 9, 10, 11, 9, 10, 10, 12, 14, 13, 6, 14, 16, 11, 8, 13, 13],
+    "trend": 1
+  },
+  {
+    "name": "Joel Jeffrey",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [18, 19, 20, 9, 15, 14, 26, 32, 22, 15, 32, 18, 17, 25, 15, 27, 12, 17, 20, 14],
+    "trend": 0
+  },
+  {
+    "name": "Jake Bowey",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [24, 27, 21, 25, 13, 26, 16, 26, 25, 21, 22, 17, 17, 22, 28, 18, 32, 29, 23, 20],
+    "trend": 1
+  },
+  {
+    "name": "James Peatling",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [17, 9, 19, 19, 10, 10, 26, 21, 12, 25, 20, 17, 21, 16, 22, 24, 22, 18, 22, 24],
+    "trend": -1
+  },
+  {
+    "name": "Maurice Rioli",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [5, 11, 9, 7, 8, 13, 9, 19, 4, 5, 4, 10, 6],
+    "trend": 0
+  },
+  {
+    "name": "Brayden Cook",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [1, 10, 7],
+    "trend": 0
+  },
+  {
+    "name": "Corey Durdin",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [15, 6, 3, 11, 9, 3, 9, 7, 8, 6, 12, 7, 4, 6, 11, 11],
+    "trend": 0
+  },
+  {
+    "name": "Brodie Kemp",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [10, 7, 12, 6, 8],
+    "trend": 1
+  },
+  {
+    "name": "Charlie Comben",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [12, 12, 14, 14, 13, 7, 8, 14, 6, 18, 10, 21, 12, 7, 15, 10, 15, 13, 16, 8],
+    "trend": 0
+  },
+  {
+    "name": "Ben Miller",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [16, 13, 15, 13, 13, 10, 14, 13, 11, 11, 14, 11, 14, 12, 10, 9, 14, 7, 12, 10],
+    "trend": 1
+  },
+  {
+    "name": "Alex Davies",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [12, 19, 17, 15, 11, 18, 14, 30],
+    "trend": 0
+  },
+  {
+    "name": "Josh Gibcus",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [7],
+    "trend": 0
+  },
+  {
+    "name": "Mitch Owens",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [8, 10, 15, 13, 10, 14, 12, 9, 13, 25, 12, 14, 18, 17, 11, 12, 8, 14, 10],
+    "trend": -1
+  },
+  {
+    "name": "Nasiah Wanganeen-Milera",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [23, 24, 33, 36, 34, 36, 24, 43, 28, 35, 31, 29, 36, 27, 30, 28, 32, 25, 24, 25],
+    "trend": -1
+  },
+  {
+    "name": "Nick Daicos",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [27, 24, 27, 29, 24, 29, 42, 43, 26, 36, 34, 30, 19, 32, 38, 28, 18, 28, 31, 38],
+    "trend": -1
+  },
+  {
+    "name": "Nic Martin",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [5, 22, 21, 26, 32, 29, 35, 25, 38, 21, 17, 26, 28, 20, 20, 24],
+    "trend": -1
+  },
+  {
+    "name": "Angus Sheldrick",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [10, 21, 26, 24, 12, 19, 18, 12, 16, 21, 19, 22, 26, 21, 13, 4, 13, 12, 3, 9],
+    "trend": 1
+  },
+  {
+    "name": "Jackson Mead",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [8, 10, 14, 18, 9, 7, 12, 16, 8, 5, 20, 11, 7, 14, 15, 14, 16, 14, 30, 16],
+    "trend": 0
+  },
+  {
+    "name": "Connor Macdonald",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [13, 18, 17, 13, 28, 18, 15, 16, 12, 14, 9, 16, 14, 15, 15, 20, 15, 11, 12, 16],
+    "trend": 0
+  },
+  {
+    "name": "Josh Ward",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [8, 31, 19, 16, 22, 21, 15, 22, 26, 17, 14, 20, 20, 28, 26, 20, 23, 22, 19, 23],
+    "trend": 0
+  },
+  {
+    "name": "Jason Horne-Francis",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [27, 19, 9, 16, 29, 3, 20, 22, 27, 20, 29, 28, 22, 17, 25],
+    "trend": 0
+  },
+  {
+    "name": "Jake Soligo",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [15, 21, 14, 20, 22, 15, 35, 24, 22, 21, 15, 21, 19, 15, 19, 23, 17, 19, 18, 22],
+    "trend": -1
+  },
+  {
+    "name": "Josh Rachele",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [4, 4, 6, 17, 10, 13, 16, 14, 7, 19, 9, 5, 16, 21],
+    "trend": -1
+  },
+  {
+    "name": "Brady Hough",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [20, 13, 18, 11, 13, 24, 9, 18, 27, 17, 9, 9, 24, 15, 12, 23, 14, 12, 9, 13],
+    "trend": 0
+  },
+  {
+    "name": "Jack Williams",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [0, 7, 1, 11, 11, 9, 8, 13, 5, 15, 3, 11, 8],
+    "trend": -1
+  },
+  {
+    "name": "Josh Sinn",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [3, 17, 10, 12, 9, 9, 10, 17, 15, 14, 8, 0, 16, 3, 9, 12, 12, 18, 22, 13],
+    "trend": -1
+  },
+  {
+    "name": "Nathan O'Driscoll",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [12, 5, 12, 10, 8, 13, 18, 26, 17, 17, 12, 22, 25, 25],
+    "trend": -1
+  },
+  {
+    "name": "Jordan Boyd",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [11, 6, 9],
+    "trend": 0
+  },
+  {
+    "name": "Reef McInnes",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [0, 11, 13],
+    "trend": 0
+  },
+  {
+    "name": "Neil Erasmus",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [18, 20, 17, 26, 16, 6, 11, 17, 21, 12, 19, 17, 19, 4, 18, 14],
+    "trend": 1
+  },
+  {
+    "name": "Marcus Windhager",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [23, 26, 32, 20, 22, 22, 36, 27, 21, 15, 16, 28, 19, 19, 13, 21, 21, 21, 25, 18],
+    "trend": 1
+  },
+  {
+    "name": "Kai Lohmann",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [17, 17, 13, 11, 10, 10, 10, 14, 13, 6, 11, 15, 12, 5, 8, 5, 4, 2],
+    "trend": 1
+  },
+  {
+    "name": "Finn Callaghan",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [34, 26, 29, 31, 23, 21, 33, 29, 37, 28, 32, 24, 29, 33, 26, 27, 24, 25, 21, 31],
+    "trend": 0
+  },
+  {
+    "name": "Ben Hobbs",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [14, 10, 10, 18, 19, 16, 8, 19, 9, 15, 15, 12, 20, 15, 20, 21, 14, 13],
+    "trend": -1
+  },
+  {
+    "name": "Paul Curtis",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [11, 15, 10, 9, 6, 12, 7, 11, 10, 12, 8, 12, 16, 12, 14, 14, 9, 22, 13],
+    "trend": 1
+  },
+  {
+    "name": "Oliver Dempsey",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [19, 14, 25, 17, 21, 12, 14, 16, 25, 18, 18, 10, 17, 14, 14, 15, 24, 19, 14, 11],
+    "trend": 1
+  },
+  {
+    "name": "Jack Carroll",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [0, 5, 11],
+    "trend": 0
+  },
+  {
+    "name": "Jye Amiss",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [2, 10, 3, 5, 8, 10, 3, 8, 7, 4, 10, 7, 9, 9, 8, 12, 8, 6, 8, 2],
+    "trend": 0
+  },
+  {
+    "name": "Mitch Knevitt",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [3, 17, 7, 13, 4, 16, 21],
+    "trend": -1
+  },
+  {
+    "name": "Luke Cleary",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [11, 16, 14, 13, 17, 16, 11, 10, 10, 18, 15, 13, 11, 16, 12, 8],
+    "trend": 0
+  },
+  {
+    "name": "Sam Butler",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [7, 15, 7, 8, 20, 14],
+    "trend": -1
+  },
+  {
+    "name": "Jesse Motlop",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [22, 8, 12, 7, 10, 10, 17, 8, 10, 10, 7, 12, 9, 7, 6, 6, 5, 13, 17, 11],
+    "trend": 1
+  },
+  {
+    "name": "Jacob Wehr",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [11, 1, 14, 11, 12, 9, 17, 20, 18, 20, 17, 5, 16, 16],
+    "trend": -1
+  },
+  {
+    "name": "Matt Roberts",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [20, 17, 18, 8, 13, 19, 21, 23, 20, 26, 25, 28, 30, 24, 20, 25, 19, 26],
+    "trend": 0
+  },
+  {
+    "name": "Shannon Neale",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [5, 3, 6, 10, 7, 15, 15, 7, 7, 14, 10, 13, 3, 8, 16, 11, 8, 8, 4, 8],
+    "trend": -1
+  },
+  {
+    "name": "Daniel Turner",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [13, 10, 16, 12, 9, 10, 7, 20, 12, 15, 12, 14, 16, 11, 16, 19, 5, 8, 7],
+    "trend": 0
+  },
+  {
+    "name": "Massimo D'Ambrosio",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [12, 16, 16, 11, 19, 24, 25, 22, 17, 20, 20, 16, 19, 16, 18, 19, 12, 26, 30, 15],
+    "trend": -1
+  },
+  {
+    "name": "Brynn Teakle",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [4, 7, 13, 17],
+    "trend": -1
+  },
+  {
+    "name": "Rhett Bazzo",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [16, 15, 8, 10, 10, 10, 7],
+    "trend": 1
+  },
+  {
+    "name": "Ryan Angwin",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [18, 16, 19, 14, 7, 25, 15, 12, 24, 16],
+    "trend": 1
+  },
+  {
+    "name": "James Tunstill",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [3, 5, 15],
+    "trend": 0
+  },
+  {
+    "name": "Jackson Archer",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [1, 12, 11],
+    "trend": 0
+  },
+  {
+    "name": "Jase Burgoyne",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [14, 15, 26, 9, 15, 15, 20, 21, 21, 18, 22, 19, 21, 22, 15, 23, 13, 27, 32, 16],
+    "trend": 0
+  },
+  {
+    "name": "Tyler Sonsie",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [21, 12, 20, 13, 28, 21, 14, 17, 12, 10, 18, 17, 12, 12, 10, 7],
+    "trend": 0
+  },
+  {
+    "name": "Jai Culley",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [10, 15, 16, 13],
+    "trend": 0
+  },
+  {
+    "name": "Elijah Hollands",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [20, 17, 13, 25, 10],
+    "trend": 0
+  },
+  {
+    "name": "Leek Aleer",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [10, 12, 7, 5, 12, 8, 16, 9, 6, 9, 6, 15, 8],
+    "trend": 0
+  },
+  {
+    "name": "Mac Andrew",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [9, 20, 14, 20, 16, 16, 24, 18, 14, 13, 12, 8, 4, 11, 20, 13, 9, 13, 19, 13],
+    "trend": -1
+  },
+  {
+    "name": "Jye Menzie",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [10, 7, 11, 2, 4, 3, 10, 15, 10, 3],
+    "trend": 1
+  },
+  {
+    "name": "Kallan Dawson",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [8, 8, 7],
+    "trend": 0
+  },
+  {
+    "name": "Sam Darcy",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [14, 10, 18, 13, 16, 13, 14, 12, 10, 19, 19, 3, 16, 21, 17, 15, 12],
+    "trend": 0
+  },
+  {
+    "name": "Ned Long",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [13, 23, 17, 22, 10, 9, 23, 19, 12, 16, 21, 14, 21, 24, 29, 19, 12, 18, 22, 21],
+    "trend": 1
+  },
+  {
+    "name": "Darcy Wilmot",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [17, 25, 26, 24, 27, 21, 27, 19, 20, 17, 31, 18, 16, 18, 14, 14, 13, 20, 20, 16],
+    "trend": 0
+  },
+  {
+    "name": "Lachlan Cowan",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [22, 20, 22, 16, 12, 16, 22, 20, 7, 5, 1, 13, 9, 18],
+    "trend": 1
+  },
+  {
+    "name": "Oliver Hollands",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [21, 20, 29, 19, 20, 14, 21, 24, 18, 20, 24, 23, 17, 19, 15, 18, 23, 14, 17, 21],
+    "trend": 1
+  },
+  {
+    "name": "Harry Sheezel",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [32, 54, 31, 33, 27, 27, 29, 22, 20, 30, 32, 28, 20, 20, 29, 32, 30, 32, 27, 34],
+    "trend": 1
+  },
+  {
+    "name": "Noah Long",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [12, 11, 4, 9, 9, 3, 4, 11, 7, 6],
+    "trend": 1
+  },
+  {
+    "name": "Reuben Ginbey",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [7, 22, 11, 15, 14, 13, 14, 16, 15, 16, 11, 16, 11, 11, 11, 19, 11, 8, 11, 17],
+    "trend": 0
+  },
+  {
+    "name": "Campbell Chesser",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [15, 22, 13, 17],
+    "trend": 0
+  },
+  {
+    "name": "Will Ashcroft",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [32, 20, 28, 30, 28, 23, 31, 30, 25, 26, 29, 23, 28, 22, 31, 30, 26, 30, 26, 34],
+    "trend": 0
+  },
+  {
+    "name": "Bailey Laurie",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [3],
+    "trend": 0
+  },
+  {
+    "name": "Judd McVee",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [17, 10, 17, 11, 12, 15, 9, 14, 12, 13, 11, 20, 21, 13, 20, 7, 22],
+    "trend": 1
+  },
+  {
+    "name": "Bodhi Uwland",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [19, 13, 19, 17, 18, 16, 15, 15, 10, 19, 16, 13, 17, 11, 15, 19, 22, 18, 20, 17],
+    "trend": 0
+  },
+  {
+    "name": "Max Michalanney",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [22, 10, 7, 22, 16, 14, 10, 15, 8, 10, 16, 8, 7, 27, 16, 14, 10, 9, 10, 15],
+    "trend": 0
+  },
+  {
+    "name": "Cam Mackenzie",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [8, 14, 20, 5, 13, 20, 14, 18, 30, 19, 21, 16],
+    "trend": -1
+  },
+  {
+    "name": "Anthony Caminiti",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [8, 6, 9, 8, 11, 13, 9, 9, 14, 11, 13, 17, 11, 16, 10, 12, 15, 11, 10, 17],
+    "trend": -1
+  },
+  {
+    "name": "Mattaes Phillipou",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [3, 4, 3, 1, 23, 14, 12],
+    "trend": -1
+  },
+  {
+    "name": "Tylar Young",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [17, 13, 17, 11, 8, 14, 18],
+    "trend": 1
+  },
+  {
+    "name": "Elijah Hewett",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [14, 16, 19, 23, 14, 14, 21, 16, 17, 22, 20, 19, 13, 13, 15, 17, 22, 6, 13, 11],
+    "trend": -1
+  },
+  {
+    "name": "Harry Rowston",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [12, 12, 7, 5, 6, 20, 12, 20, 18, 2],
+    "trend": -1
+  },
+  {
+    "name": "Arthur Jones",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [6, 3, 7, 2],
+    "trend": 0
+  },
+  {
+    "name": "Jacob van Rooyen",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [12, 13, 11, 15, 10, 10, 17, 12, 8, 8, 10, 7, 10, 7, 9, 6],
+    "trend": 0
+  },
+  {
+    "name": "Matthew Johnson",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [14, 21, 20, 18, 18, 20, 18, 21, 14, 22, 21, 27, 13, 17, 13, 17, 17, 27],
+    "trend": 0
+  },
+  {
+    "name": "Bailey Humphrey",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [14, 10, 15, 14, 10, 19, 12, 14, 18, 12, 23, 12, 12, 11, 19, 24, 20, 18, 7, 14],
+    "trend": 0
+  },
+  {
+    "name": "Ned Moyle",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [9, 3, 4],
+    "trend": 0
+  },
+  {
+    "name": "Corey Warner",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [14, 6, 10, 14, 13, 11, 10, 18, 9, 13, 11, 14, 15, 10],
+    "trend": -1
+  },
+  {
+    "name": "Aaron Cadman",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [10, 6, 13, 12, 8, 11, 9, 15, 11, 7, 19, 10, 10, 8, 5, 9, 12, 11, 10, 9],
+    "trend": 0
+  },
+  {
+    "name": "Seamus Mitchell",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [1, 8, 6, 10],
+    "trend": -1
+  },
+  {
+    "name": "Ollie Lord",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [3, 5, 6, 5, 4, 4, 9, 4, 5, 5, 7, 12, 6, 9, 8],
+    "trend": 0
+  },
+  {
+    "name": "Alex Cincotta",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [7, 8, 7, 14, 3],
+    "trend": 0
+  },
+  {
+    "name": "Josh Weddle",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [12, 15, 16, 12, 23, 18, 12, 23, 19, 22, 20, 13, 19, 18, 20, 10, 6, 12],
+    "trend": -1
+  },
+  {
+    "name": "Max Ramsden",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [5, 12, 10, 9],
+    "trend": 0
+  },
+  {
+    "name": "Jhye Clark",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [14, 14, 1, 6, 3, 12, 10, 12, 14, 5],
+    "trend": 0
+  },
+  {
+    "name": "James O'Donnell",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [8, 17, 10, 9, 11, 8, 14, 10, 9, 7, 8, 13, 9, 16, 18, 10, 3, 13, 7, 10],
+    "trend": 1
+  },
+  {
+    "name": "George Wardlaw",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [18, 25, 18, 17, 2, 11, 17, 9, 11, 14, 19, 20, 21],
+    "trend": 1
+  },
+  {
+    "name": "Oisin Mullin",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [5, 8, 7, 14, 9, 9, 10, 17, 10, 12, 10, 10, 13, 8, 9, 10, 8, 8, 9, 8],
+    "trend": -1
+  },
+  {
+    "name": "Bailey Macdonald",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [3, 4, 5, 7, 5, 8],
+    "trend": -1
+  },
+  {
+    "name": "Ryan Maric",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [26, 16, 29, 21, 17, 16, 20, 21, 17, 18, 15, 20, 22, 25, 26, 25, 20, 21, 22, 28],
+    "trend": 1
+  },
+  {
+    "name": "Jaspa Fletcher",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [29, 18, 21, 20, 22, 32, 21, 22, 20, 24, 22, 19, 23, 16, 27, 21, 21, 22, 25, 21],
+    "trend": 0
+  },
+  {
+    "name": "Jack Buller",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [14, 8, 10, 12, 10, 10, 7, 5, 6],
+    "trend": 1
+  },
+  {
+    "name": "Dante Visentini",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [0, 12, 5, 6, 12, 14, 11, 9],
+    "trend": -1
+  },
+  {
+    "name": "Sam Banks",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [30, 14, 19, 26, 19, 24, 20, 26, 25, 18, 21, 25, 29, 25, 28, 15, 18, 20, 21, 12],
+    "trend": -1
+  },
+  {
+    "name": "Jacob Bauer",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [3, 2, 4, 8, 9],
+    "trend": -1
+  },
+  {
+    "name": "Taj Woewodin",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [10],
+    "trend": 0
+  },
+  {
+    "name": "Cooper Harvey",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [6, 4, 9, 9, 4, 13, 15],
+    "trend": -1
+  },
+  {
+    "name": "Karl Worner",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [14, 12, 13, 15, 15, 13, 15, 12, 16, 12, 18, 15, 10, 18, 8, 12, 15, 17, 15, 19],
+    "trend": 0
+  },
+  {
+    "name": "Luke Nankervis",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [10, 16, 8, 12, 18, 18, 6],
+    "trend": -1
+  },
+  {
+    "name": "Robert Hansen Jr",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [8, 4, 8, 11, 10, 9, 7, 4, 7, 6, 15, 15],
+    "trend": 0
+  },
+  {
+    "name": "Elijah Tsatas",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [19, 6, 16, 25, 18],
+    "trend": -1
+  },
+  {
+    "name": "James Borlase",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [8, 8],
+    "trend": 0
+  },
+  {
+    "name": "Toby McMullin",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [7, 5, 15, 6, 20, 5, 16, 19, 14, 15, 5],
+    "trend": -1
+  },
+  {
+    "name": "Henry Hustwaite",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [4, 8, 19, 24],
+    "trend": -1
+  },
+  {
+    "name": "Ted Clohesy",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [15, 4, 2, 1, 6, 5, 9, 13, 16],
+    "trend": 0
+  },
+  {
+    "name": "James Trezise",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [13, 18, 10, 19, 12, 8, 9, 2, 7, 15, 13, 17, 21, 15, 9, 19],
+    "trend": 1
+  },
+  {
+    "name": "Tom Brown",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [20, 12, 5, 14, 13, 14, 23, 15, 11, 8, 17, 12, 21, 11, 16, 14, 8, 14, 24, 12],
+    "trend": -1
+  },
+  {
+    "name": "Blake Howes",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [12, 8, 5, 12, 16, 5, 15, 11, 14, 9, 11, 12],
+    "trend": -1
+  },
+  {
+    "name": "Caleb Windsor",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [21, 16, 9, 16, 1, 10, 6, 9, 24, 6, 23, 20, 20, 16, 13, 16, 16],
+    "trend": 1
+  },
+  {
+    "name": "Seth Campbell",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [19, 10, 9, 11, 11, 13, 19, 11, 15, 13, 13, 11, 15, 19, 11, 12, 15, 9, 15, 12],
+    "trend": 0
+  },
+  {
+    "name": "Harvey Thomas",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [14, 13, 23, 19, 11, 1, 6, 12, 14, 9, 9, 20, 3, 6, 11, 15, 10, 13],
+    "trend": 1
+  },
+  {
+    "name": "Charlie Dean",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [8, 19, 11, 4],
+    "trend": 1
+  },
+  {
+    "name": "Nick Watson",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [5, 13, 9, 15, 3, 14, 14, 16, 13, 8, 10, 13, 10, 9, 4, 12, 8, 10, 10, 13],
+    "trend": -1
+  },
+  {
+    "name": "Zane Duursma",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [8, 8, 12, 6, 1, 7, 9, 3, 5, 9],
+    "trend": 1
+  },
+  {
+    "name": "Colby McKercher",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [23, 29, 27, 36, 32, 22, 29, 32, 34, 29, 27, 35, 13, 22, 13, 11, 19, 16, 8, 22],
+    "trend": -1
+  },
+  {
+    "name": "Toby Pink",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [10, 10, 5, 15, 15, 8, 11, 10, 7, 13, 10, 10, 13, 12, 6, 13, 12],
+    "trend": -1
+  },
+  {
+    "name": "Shaun Mannagh",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [16, 15, 15, 18, 19, 20, 26, 19, 24, 15, 20, 10, 14, 23, 18, 21, 21, 15, 18, 26],
+    "trend": -1
+  },
+  {
+    "name": "Lance Collard",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [4, 4, 1, 6, 0, 6, 6, 8, 3, 9, 12, 6],
+    "trend": -1
+  },
+  {
+    "name": "Darcy Wilson",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [23, 14, 11, 8, 11, 12, 14, 5, 17, 24, 13, 19, 17, 13, 19, 20, 17, 23],
+    "trend": 1
+  },
+  {
+    "name": "Harvey Gallagher",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [5, 9, 9, 16, 16],
+    "trend": -1
+  },
+  {
+    "name": "Ryley Sanders",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [6, 12, 11, 17, 20, 16, 23, 25, 21, 17, 13, 24, 19, 17, 20, 32, 22, 20, 24, 16],
+    "trend": -1
+  },
+  {
+    "name": "Harley Reid",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [15, 27, 27, 24, 17, 28, 19, 19, 17, 15, 18, 13, 19, 17, 16, 25, 15, 15, 12],
+    "trend": 1
+  },
+  {
+    "name": "Joshua Draper",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [8, 3, 3, 13, 11, 10, 10, 8, 4, 7, 9],
+    "trend": -1
+  },
+  {
+    "name": "Jed Walter",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [4, 6, 10, 8, 4, 7, 10, 9, 4, 5, 8, 6, 3, 8, 10, 12],
+    "trend": 0
+  },
+  {
+    "name": "Mykelti Lefau",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [2],
+    "trend": 0
+  },
+  {
+    "name": "Angus Hastie",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [7, 10, 8, 12, 14, 7, 4, 7, 12],
+    "trend": 0
+  },
+  {
+    "name": "Caleb Mitchell",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [13],
+    "trend": 0
+  },
+  {
+    "name": "Sam Clohesy",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [11, 13, 15, 11, 16, 12, 18, 22, 23, 17, 16, 10, 21, 9],
+    "trend": -1
+  },
+  {
+    "name": "Will Graham",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [11, 11, 7, 9, 11, 10, 16, 9],
+    "trend": 0
+  },
+  {
+    "name": "Ethan Read",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [4, 7, 12, 11, 6, 9, 13, 8, 9, 7, 6, 7, 10, 5, 5, 7, 1, 12, 3, 7],
+    "trend": 0
+  },
+  {
+    "name": "Kane McAuliffe",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [19, 18, 21, 22, 12],
+    "trend": 0
+  },
+  {
+    "name": "Koltyn Tholstrup",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [6, 7, 6, 10, 9, 2, 14, 4, 6],
+    "trend": 0
+  },
+  {
+    "name": "Hugo Garcia",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [12, 20, 20, 15, 15, 17, 24, 12, 11, 19, 4, 16, 23, 12, 23, 5, 18],
+    "trend": 0
+  },
+  {
+    "name": "Connor O'Sullivan",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [12, 7, 10, 11, 12, 11, 11, 12, 12, 18, 10, 16, 13, 12, 20, 5, 12, 10, 17, 9],
+    "trend": -1
+  },
+  {
+    "name": "Jake Rogers",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [6, 0, 7, 10, 4, 14, 2, 9, 13],
+    "trend": -1
+  },
+  {
+    "name": "Darcy Jones",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [5, 18, 18, 18, 8, 12, 13, 15, 17, 9, 20, 9, 17, 16, 17, 10, 17, 11, 13, 24],
+    "trend": 0
+  },
+  {
+    "name": "Riley Hardeman",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [2, 14, 19, 18, 12, 20, 5, 15, 11, 10, 28, 12, 15, 15, 12, 3, 10],
+    "trend": 0
+  },
+  {
+    "name": "Jaxon Binns",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [17, 26, 5, 14, 22],
+    "trend": 0
+  },
+  {
+    "name": "Cooper Simpson",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [0, 14, 18],
+    "trend": 0
+  },
+  {
+    "name": "Patrick Voss",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [9, 10, 7, 10, 10, 9, 12, 9, 6, 8, 13, 11, 7, 13, 11, 5, 10, 9, 12, 13],
+    "trend": 0
+  },
+  {
+    "name": "Daniel Curtin",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [12, 17, 7, 14, 8, 20, 22, 20, 26, 9, 26, 13, 14, 16, 14, 12, 3, 13, 8, 8],
+    "trend": -1
+  },
+  {
+    "name": "Lachlan Sullivan",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [9, 11, 9, 20, 13, 6, 9, 5, 10, 10, 17, 4, 15, 12],
+    "trend": 0
+  },
+  {
+    "name": "Calsher Dear",
+    "team": "Hawthorn",
+    "opponent": "GWS GIANTS",
+    "disposals": [5, 6, 9, 8, 3, 11, 10, 9, 5],
+    "trend": 0
+  },
+  {
+    "name": "Logan Morris",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [9, 13, 9, 6, 6, 12, 6, 14, 2, 13, 11, 8, 13, 15, 12, 11, 6, 11, 3, 6],
+    "trend": 1
+  },
+  {
+    "name": "Bruce Reville",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [11, 10, 2, 15, 13, 7, 11, 11, 2, 14, 9, 7, 8],
+    "trend": -1
+  },
+  {
+    "name": "Joel Freijah",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [18, 17, 22, 14, 15, 14, 14, 12, 23, 18, 21, 20, 15, 21, 24, 19, 27, 24, 17, 15],
+    "trend": 1
+  },
+  {
+    "name": "Joe Richards",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [14, 13, 13, 13, 12, 11, 23, 14, 22, 19, 15, 15, 13, 12, 18, 13, 10, 16, 16, 13],
+    "trend": -1
+  },
+  {
+    "name": "Tyrell Dewar",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [7, 5, 2, 16, 15, 27, 21, 18, 2, 7, 5, 11, 14, 19, 20, 15],
+    "trend": -1
+  },
+  {
+    "name": "Steely Green",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [2, 0, 4, 11, 4, 7, 5, 7, 9, 8, 5, 8, 6, 11, 9, 14, 10, 13, 7],
+    "trend": -1
+  },
+  {
+    "name": "Wil Dawson",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [7, 4, 7, 8, 9],
+    "trend": 0
+  },
+  {
+    "name": "Edward Allan",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [1, 17, 11, 16, 17, 11, 23, 24, 13, 11, 7, 1, 19],
+    "trend": -1
+  },
+  {
+    "name": "Wil Parker",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [12, 10, 5, 7],
+    "trend": 0
+  },
+  {
+    "name": "Nate Caddy",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [12, 4, 12, 15, 9, 10, 10, 11, 8, 16, 15, 19, 8, 7, 13, 5, 12],
+    "trend": -1
+  },
+  {
+    "name": "Kaleb Smith",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [14, 14, 13, 20, 3, 11, 7, 7],
+    "trend": 1
+  },
+  {
+    "name": "Billy Dowling",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [14],
+    "trend": 0
+  },
+  {
+    "name": "Jack Hutchinson",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [16, 12, 20, 11, 19, 7, 12, 15, 8, 12, 13, 16, 19, 9, 12, 12],
+    "trend": 1
+  },
+  {
+    "name": "Arie Schoenmaker",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [11, 19, 18],
+    "trend": 0
+  },
+  {
+    "name": "Logan Evans",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [8, 11, 5, 21, 20, 14, 6, 10, 24, 10],
+    "trend": -1
+  },
+  {
+    "name": "Max Gruzewski",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [9, 9, 8, 7, 2, 0, 9],
+    "trend": 1
+  },
+  {
+    "name": "Caiden Cleary",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [8, 8, 7, 4, 13, 14, 10, 8, 17, 13, 18, 12],
+    "trend": -1
+  },
+  {
+    "name": "Zac Taylor",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [15, 8, 7, 6, 20, 9, 8, 11, 7, 5, 5, 12, 8, 17, 8, 10, 8],
+    "trend": 0
+  },
+  {
+    "name": "Lawson Humphries",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [23, 8, 13, 10, 12, 11, 24, 8, 15, 13, 13, 15, 19, 15, 12, 19, 19, 13, 21, 16],
+    "trend": 0
+  },
+  {
+    "name": "Will Lorenz",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [7, 20, 16, 11, 1, 15],
+    "trend": 1
+  },
+  {
+    "name": "Jacob Blight",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [17, 12, 7, 10, 18, 12, 6],
+    "trend": 0
+  },
+  {
+    "name": "Joe Fonti",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [9, 15, 8, 9, 10, 14, 12, 15, 16, 9, 5, 14, 17, 11, 11, 7, 17],
+    "trend": -1
+  },
+  {
+    "name": "Hugh Bond",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [12, 3, 7, 11, 14],
+    "trend": -1
+  },
+  {
+    "name": "Henry Smith",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [2, 5],
+    "trend": 0
+  },
+  {
+    "name": "Clay Hall",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [17, 15, 16, 15, 14, 19, 21, 18, 22, 9, 12, 18, 15],
+    "trend": 0
+  },
+  {
+    "name": "Archie Roberts",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [29, 28, 27, 33, 21, 26, 17, 31, 20, 25, 27, 14, 20, 34, 29, 27, 26, 25, 17, 28],
+    "trend": 1
+  },
+  {
+    "name": "Angus McLennan",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [7],
+    "trend": 0
+  },
+  {
+    "name": "Liam Reidy",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [6],
+    "trend": 0
+  },
+  {
+    "name": "Ashton Moir",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [8, 8, 9, 11, 8, 11, 9, 9, 2],
+    "trend": 0
+  },
+  {
+    "name": "Cooper Lord",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [16, 24, 22, 8, 16, 5, 18, 16, 7, 14, 21, 21, 19, 12, 9, 10, 6, 15, 18, 3],
+    "trend": 1
+  },
+  {
+    "name": "Tom Hanily",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [2, 3, 3, 11, 13, 7, 12, 6],
+    "trend": -1
+  },
+  {
+    "name": "James Leake",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [10, 3, 11],
+    "trend": 0
+  },
+  {
+    "name": "Harry Armstrong",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [8, 3, 8, 4, 11, 2, 12, 5],
+    "trend": 0
+  },
+  {
+    "name": "Sam Lalor",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [0, 2, 16, 15, 12, 10, 16, 24, 9, 10, 18],
+    "trend": -1
+  },
+  {
+    "name": "Luke Trainor",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [10, 14, 19, 6, 16, 16, 9, 15, 19, 9, 8, 12, 18, 21, 16, 1, 22, 19, 18, 10],
+    "trend": 1
+  },
+  {
+    "name": "Lucas Camporeale",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [5, 9, 20],
+    "trend": 0
+  },
+  {
+    "name": "Isaac Kako",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [17, 19, 12, 11, 7, 7, 8, 12, 17, 12, 13, 10, 11, 15, 7, 6, 12, 10, 9, 9],
+    "trend": 1
+  },
+  {
+    "name": "Murphy Reid",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [20, 19, 13, 14, 10, 23, 14, 13, 15, 15, 13, 16, 14, 18, 15, 6, 15, 6, 17, 9],
+    "trend": 1
+  },
+  {
+    "name": "Riley Bice",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [11, 6, 7, 2, 22, 2, 16, 11, 17, 12, 20, 22, 21, 26, 14, 12],
+    "trend": -1
+  },
+  {
+    "name": "Levi Ashcroft",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [17, 14, 15, 13, 19, 19, 27, 22, 15, 18, 14, 19, 23, 11, 23, 15, 22, 22, 20, 29],
+    "trend": -1
+  },
+  {
+    "name": "Sam Davidson",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [12, 15, 7, 12, 12, 27, 19, 8, 14, 16, 15, 14, 15, 21, 14, 18, 31, 15, 10],
+    "trend": -1
+  },
+  {
+    "name": "Josh Dolan",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [10, 8, 12, 5, 3, 12, 11, 8, 5, 7, 5],
+    "trend": 1
+  },
+  {
+    "name": "Jacob Konstanty",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [14, 12, 6, 12, 4, 7, 13, 8, 11, 9, 12, 10, 8, 7, 12, 5, 6, 4, 8, 16],
+    "trend": 1
+  },
+  {
+    "name": "Finn O'Sullivan",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [17, 21, 15, 18, 16, 20, 15, 11, 10, 18, 14, 17, 13, 10, 8, 11, 12, 10, 15, 16],
+    "trend": 1
+  },
+  {
+    "name": "Joe Berry",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [14, 9, 13, 12, 6, 3, 9, 2, 6, 15, 10, 9],
+    "trend": 1
+  },
+  {
+    "name": "Sid Draper",
+    "team": "Adelaide",
+    "opponent": "Collingwood",
+    "disposals": [5, 4, 9, 2, 6, 7, 15, 7, 9, 8],
+    "trend": -1
+  },
+  {
+    "name": "Harry Boyd",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [12],
+    "trend": 0
+  },
+  {
+    "name": "Max Hall",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [16, 20, 14, 14, 19, 21, 15, 27, 21, 12, 9, 15, 6, 13, 14, 15, 15, 13, 17, 8],
+    "trend": -1
+  },
+  {
+    "name": "Liam O'Connell",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [9, 11, 6, 6, 0, 4, 7],
+    "trend": 1
+  },
+  {
+    "name": "Jack Henderson",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [4, 9, 11, 13, 13],
+    "trend": -1
+  },
+  {
+    "name": "Matthew Jefferson",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [9, 9, 5, 6, 4, 0, 5],
+    "trend": 1
+  },
+  {
+    "name": "Aidan Johnson",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [4, 6, 5, 5, 7],
+    "trend": 0
+  },
+  {
+    "name": "Harvey Langford",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [26, 11, 14, 16, 10, 20, 24, 17, 19, 19, 19, 10, 21, 19, 22, 25, 21, 17, 23, 11],
+    "trend": 0
+  },
+  {
+    "name": "Xavier Lindsay",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [9, 7, 6, 18, 12, 8, 8, 14, 22, 19, 15, 11, 21, 16, 14, 2, 20, 22],
+    "trend": -1
+  },
+  {
+    "name": "Archer Reid",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [4, 8, 2, 4, 6, 3, 5, 5, 6, 5, 10, 8, 7, 6],
+    "trend": 0
+  },
+  {
+    "name": "Thomas Edwards",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [6, 8],
+    "trend": 0
+  },
+  {
+    "name": "Christian Moraes",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [12, 19, 1, 11, 1, 14, 18, 5, 10, 10, 12, 14, 27, 17],
+    "trend": 0
+  },
+  {
+    "name": "Liam Fawcett",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [5],
+    "trend": 0
+  },
+  {
+    "name": "Isaac Keeler",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [13, 1, 3, 8, 9, 10, 15, 3, 3, 9, 7],
+    "trend": -1
+  },
+  {
+    "name": "Will McLachlan",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [3, 8, 3, 2, 3, 8],
+    "trend": 0
+  },
+  {
+    "name": "Saad El-Hawli",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [7, 16, 8, 13, 9, 21, 1, 18, 7],
+    "trend": 0
+  },
+  {
+    "name": "Tom Cochrane",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [7, 11, 2],
+    "trend": 0
+  },
+  {
+    "name": "Tobie Travaglia",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [6, 8, 12, 2, 10, 13, 19, 6, 0, 8, 9, 18],
+    "trend": 0
+  },
+  {
+    "name": "Isaiah Dudley",
+    "team": "Fremantle",
+    "opponent": "Geelong Cats",
+    "disposals": [5, 2, 8, 10, 2, 10, 5, 12, 8, 7, 7, 4, 5, 6, 12, 10],
+    "trend": -1
+  },
+  {
+    "name": "Will White",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [4, 5, 8, 12, 5, 4, 13, 6, 8, 9, 9, 12, 15, 10],
+    "trend": -1
+  },
+  {
+    "name": "Matt Whitlock",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [2, 10],
+    "trend": 0
+  },
+  {
+    "name": "Sandy Brock",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [13, 13, 12, 6, 14, 13, 8, 10, 14, 11, 11, 10, 7, 12],
+    "trend": 1
+  },
+  {
+    "name": "Hamish Davis",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [13, 18, 13, 4, 12, 15, 5, 5],
+    "trend": 1
+  },
+  {
+    "name": "Tom Gross",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [1, 13, 3, 10, 6, 2, 18, 17],
+    "trend": -1
+  },
+  {
+    "name": "Jonty Faull",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [0, 8, 11, 8, 9, 7, 9, 6, 8, 9, 3, 12, 7, 7, 6, 6],
+    "trend": -1
+  },
+  {
+    "name": "Matthew Carroll",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [15, 12, 12, 8, 9, 15, 14, 11, 14, 16, 11, 12, 8, 7, 15, 14, 12],
+    "trend": 0
+  },
+  {
+    "name": "Cooper Hynes",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [2, 11, 10, 10, 2, 3, 9, 3],
+    "trend": 1
+  },
+  {
+    "name": "Sam Marshall",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [4, 17, 11, 4, 23, 21, 11, 12, 9, 5, 6],
+    "trend": -1
+  },
+  {
+    "name": "Campbell Gray",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [13, 11, 5],
+    "trend": 0
+  },
+  {
+    "name": "Jedd Busslinger",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [8, 16, 8, 7, 15, 2, 12],
+    "trend": 0
+  },
+  {
+    "name": "Oliver Wiltshire",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [7, 6],
+    "trend": 0
+  },
+  {
+    "name": "Finnbar Maley",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [8, 3, 8, 9, 6, 4, 8],
+    "trend": 0
+  },
+  {
+    "name": "Hugh Boxshall",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [15, 16, 14, 12, 15, 15, 8, 9, 9, 10, 16],
+    "trend": 1
+  },
+  {
+    "name": "Bo Allan",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [10, 11, 14, 0, 4, 7],
+    "trend": 1
+  },
+  {
+    "name": "Josaia Delana",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [7, 5, 3],
+    "trend": 0
+  },
+  {
+    "name": "Archer Day-Wicks",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [10, 6, 9, 12, 6],
+    "trend": 0
+  },
+  {
+    "name": "Lewis Hayes",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [16],
+    "trend": 0
+  },
+  {
+    "name": "Thomas Sims",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [3, 8, 6, 7, 7, 6, 3, 13, 9, 7, 6],
+    "trend": -1
+  },
+  {
+    "name": "Cody Angove",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [7, 15, 9, 13],
+    "trend": 0
+  },
+  {
+    "name": "Angus Clarke",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [21, 27, 18, 17, 11, 9, 17, 6, 13, 21, 10, 14, 11, 16],
+    "trend": 1
+  },
+  {
+    "name": "Harry O'Farrell",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [4, 19, 10, 11, 8, 9],
+    "trend": 0
+  },
+  {
+    "name": "William Hayes",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [9, 7],
+    "trend": 0
+  },
+  {
+    "name": "Hugh Jackson",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [4, 2, 13, 12, 12, 17, 2, 14, 8],
+    "trend": -1
+  },
+  {
+    "name": "Zak Johnson",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [10, 9, 5, 11, 16, 9, 29, 18, 11],
+    "trend": -1
+  },
+  {
+    "name": "Leonardo Lombard",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [2, 7, 2, 8],
+    "trend": -1
+  },
+  {
+    "name": "Ty Gallop",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [10, 11, 12, 8, 5, 6],
+    "trend": 1
+  },
+  {
+    "name": "Nicholas Madden",
+    "team": "Greater Western Sydney",
+    "opponent": "TBC",
+    "disposals": [11, 7, 15],
+    "trend": 0
+  },
+  {
+    "name": "Hudson O'Keeffe",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [7, 10, 4, 7, 7],
+    "trend": 0
+  },
+  {
+    "name": "Luamon Lual",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [7, 12, 10, 3, 10, 11, 4, 7, 10, 9, 9, 11],
+    "trend": 1
+  },
+  {
+    "name": "Lachlan Blakiston",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [10, 7, 14, 6, 11, 10, 15, 10, 11, 11, 4],
+    "trend": 0
+  },
+  {
+    "name": "Archer May",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [7, 8, 7, 11, 8, 14, 7],
+    "trend": -1
+  },
+  {
+    "name": "Mani Liddy",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [17, 16, 16, 18, 4, 18, 11, 17, 10],
+    "trend": 1
+  },
+  {
+    "name": "Tom McCarthy",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [17, 25, 29, 26, 21, 18, 21, 19, 29, 31],
+    "trend": 0
+  },
+  {
+    "name": "Vigo Visentini",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [10, 15],
+    "trend": 0
+  },
+  {
+    "name": "Alixzander Tauru",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [4, 8, 16, 7, 5, 7, 12, 13, 9, 9],
+    "trend": 0
+  },
+  {
+    "name": "Jasper Alger",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [3, 3, 11, 3],
+    "trend": 0
+  },
+  {
+    "name": "Billy Wilson",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [19, 13, 9, 7],
+    "trend": 1
+  },
+  {
+    "name": "Flynn Young",
+    "team": "Carlton",
+    "opponent": "Sydney Swans",
+    "disposals": [19, 15, 9, 12, 8, 10, 6, 5],
+    "trend": 1
+  },
+  {
+    "name": "Charlie West",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [4],
+    "trend": 0
+  },
+  {
+    "name": "Jobe Shanahan",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [6, 9, 6, 4, 5, 6, 11, 14, 8],
+    "trend": 0
+  },
+  {
+    "name": "Roan Steele",
+    "team": "Collingwood",
+    "opponent": "St Kilda",
+    "disposals": [12, 2, 7, 8, 19],
+    "trend": -1
+  },
+  {
+    "name": "Malakai Champion",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [7, 6],
+    "trend": 0
+  },
+  {
+    "name": "Oscar Adams",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [9, 2, 5, 14, 5, 7, 3, 9],
+    "trend": -1
+  },
+  {
+    "name": "George Stevens",
+    "team": "Geelong",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [7, 21],
+    "trend": 0
+  },
+  {
+    "name": "Taj Hotton",
+    "team": "Richmond",
+    "opponent": "Carlton",
+    "disposals": [12, 16, 10, 14, 11, 16, 10],
+    "trend": 0
+  },
+  {
+    "name": "Oskar Smartt",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [1, 6, 9, 6],
+    "trend": 0
+  },
+  {
+    "name": "Max Heath",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [2, 10, 7, 8],
+    "trend": 0
+  },
+  {
+    "name": "Liam McMahon",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [8, 2, 8, 11, 4, 8, 5],
+    "trend": 0
+  },
+  {
+    "name": "Zac Banch",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [9, 6, 10, 2],
+    "trend": 1
+  },
+  {
+    "name": "Ben Jepson",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [12],
+    "trend": 0
+  },
+  {
+    "name": "Jesse Dattoli",
+    "team": "Sydney",
+    "opponent": "Carlton",
+    "disposals": [7, 7, 13],
+    "trend": 0
+  },
+  {
+    "name": "Jayden Nguyen",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [8, 10, 10, 5, 5],
+    "trend": 1
+  },
+  {
+    "name": "Jack Whitlock",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [8, 8, 7, 3],
+    "trend": 1
+  },
+  {
+    "name": "Geordie Payne",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [2, 8, 6],
+    "trend": 0
+  },
+  {
+    "name": "Cooper Trembath",
+    "team": "North Melbourne",
+    "opponent": "Port Adelaide",
+    "disposals": [11, 9, 6],
+    "trend": 0
+  },
+  {
+    "name": "Jed Adams",
+    "team": "Melbourne",
+    "opponent": "St Kilda",
+    "disposals": [5],
+    "trend": 0
+  },
+  {
+    "name": "Rhys Unwin",
+    "team": "Essendon",
+    "opponent": "Hawthorn",
+    "disposals": [5, 6, 9],
+    "trend": 0
+  },
+  {
+    "name": "Alex Dodson",
+    "team": "St Kilda",
+    "opponent": "Collingwood",
+    "disposals": [8],
+    "trend": 0
+  },
+  {
+    "name": "Luke Beecken",
+    "team": "Brisbane Lions",
+    "opponent": "Western Bulldogs",
+    "disposals": [3],
+    "trend": 0
+  },
+  {
+    "name": "Jordan Croft",
+    "team": "Western Bulldogs",
+    "opponent": "Brisbane Lions",
+    "disposals": [13, 10],
+    "trend": 0
+  },
+  {
+    "name": "Jacob Newton",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [5, 1],
+    "trend": 0
+  },
+  {
+    "name": "Ewan Mackinlay",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [15],
+    "trend": 0
+  },
+  {
+    "name": "Harrison Ramm",
+    "team": "Port Adelaide",
+    "opponent": "North Melbourne",
+    "disposals": [5],
+    "trend": 0
+  },
+  {
+    "name": "Lachlan Gulbin",
+    "team": "Gold Coast",
+    "opponent": "TBC",
+    "disposals": [9],
+    "trend": 0
+  },
+  {
+    "name": "Lucca Grego",
+    "team": "West Coast",
+    "opponent": "Gold Coast SUNS",
+    "disposals": [14],
+    "trend": 0
   }
 ]
