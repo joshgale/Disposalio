@@ -1,6 +1,9 @@
 name: Data Sync
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 18 * * *' # 4:00 AM AEST (18:00 UTC)
   workflow_dispatch:
