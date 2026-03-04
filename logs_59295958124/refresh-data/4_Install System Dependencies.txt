@@ -1,0 +1,90 @@
+﻿2026-03-04T09:26:44.2525245Z ##[group]Run sudo apt-get update
+2026-03-04T09:26:44.2525585Z [36;1msudo apt-get update[0m
+2026-03-04T09:26:44.2525990Z [36;1msudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev[0m
+2026-03-04T09:26:44.2582181Z shell: /usr/bin/bash -e {0}
+2026-03-04T09:26:44.2582423Z env:
+2026-03-04T09:26:44.2582629Z   R_LIBS_USER: /home/runner/work/_temp/Library
+2026-03-04T09:26:44.2582897Z   TZ: UTC
+2026-03-04T09:26:44.2583076Z   _R_CHECK_SYSTEM_CLOCK_: FALSE
+2026-03-04T09:26:44.2583310Z   NOT_CRAN: true
+2026-03-04T09:26:44.2583492Z ##[endgroup]
+2026-03-04T09:26:44.3348561Z Get:1 file:/etc/apt/apt-mirrors.txt Mirrorlist [144 B]
+2026-03-04T09:26:44.3734863Z Hit:2 http://azure.archive.ubuntu.com/ubuntu noble InRelease
+2026-03-04T09:26:44.3743967Z Hit:3 http://azure.archive.ubuntu.com/ubuntu noble-updates InRelease
+2026-03-04T09:26:44.3752378Z Hit:4 http://azure.archive.ubuntu.com/ubuntu noble-backports InRelease
+2026-03-04T09:26:44.3764705Z Hit:5 http://azure.archive.ubuntu.com/ubuntu noble-security InRelease
+2026-03-04T09:26:44.4116359Z Hit:6 https://packages.microsoft.com/repos/azure-cli noble InRelease
+2026-03-04T09:26:44.4175775Z Hit:7 https://packages.microsoft.com/ubuntu/24.04/prod noble InRelease
+2026-03-04T09:26:46.4753828Z Reading package lists...
+2026-03-04T09:26:46.5082358Z Reading package lists...
+2026-03-04T09:26:46.6605660Z Building dependency tree...
+2026-03-04T09:26:46.6614535Z Reading state information...
+2026-03-04T09:26:46.8091261Z libssl-dev is already the newest version (3.0.13-0ubuntu3.7).
+2026-03-04T09:26:46.8092082Z libxml2-dev is already the newest version (2.9.14+dfsg-1.3ubuntu3.7).
+2026-03-04T09:26:46.8092613Z libxml2-dev set to manually installed.
+2026-03-04T09:26:46.8093080Z The following additional packages will be installed:
+2026-03-04T09:26:46.8097066Z   curl libcurl3t64-gnutls libcurl4t64
+2026-03-04T09:26:46.8104482Z Suggested packages:
+2026-03-04T09:26:46.8105203Z   libcurl4-doc libidn-dev libkrb5-dev libldap2-dev librtmp-dev libssh2-1-dev
+2026-03-04T09:26:46.8293492Z The following NEW packages will be installed:
+2026-03-04T09:26:46.8299041Z   libcurl4-openssl-dev
+2026-03-04T09:26:46.8303293Z The following packages will be upgraded:
+2026-03-04T09:26:46.8309573Z   curl libcurl3t64-gnutls libcurl4t64
+2026-03-04T09:26:46.8475635Z 3 upgraded, 1 newly installed, 0 to remove and 31 not upgraded.
+2026-03-04T09:26:46.8476218Z Need to get 1348 kB of archives.
+2026-03-04T09:26:46.8476632Z After this operation, 1960 kB of additional disk space will be used.
+2026-03-04T09:26:46.8477182Z Get:1 file:/etc/apt/apt-mirrors.txt Mirrorlist [144 B]
+2026-03-04T09:26:46.8663133Z Get:2 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 curl amd64 8.5.0-2ubuntu10.7 [227 kB]
+2026-03-04T09:26:46.8721525Z Get:3 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libcurl4t64 amd64 8.5.0-2ubuntu10.7 [342 kB]
+2026-03-04T09:26:46.8779953Z Get:4 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libcurl3t64-gnutls amd64 8.5.0-2ubuntu10.7 [334 kB]
+2026-03-04T09:26:46.8832091Z Get:5 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libcurl4-openssl-dev amd64 8.5.0-2ubuntu10.7 [446 kB]
+2026-03-04T09:26:47.1401559Z Fetched 1348 kB in 0s (26.9 MB/s)
+2026-03-04T09:26:47.1667536Z (Reading database ... 
+2026-03-04T09:26:47.1668057Z (Reading database ... 5%
+2026-03-04T09:26:47.1668627Z (Reading database ... 10%
+2026-03-04T09:26:47.1669182Z (Reading database ... 15%
+2026-03-04T09:26:47.1670684Z (Reading database ... 20%
+2026-03-04T09:26:47.1671738Z (Reading database ... 25%
+2026-03-04T09:26:47.1672311Z (Reading database ... 30%
+2026-03-04T09:26:47.1672896Z (Reading database ... 35%
+2026-03-04T09:26:47.1673494Z (Reading database ... 40%
+2026-03-04T09:26:47.1674064Z (Reading database ... 45%
+2026-03-04T09:26:47.1674630Z (Reading database ... 50%
+2026-03-04T09:26:47.1792898Z (Reading database ... 55%
+2026-03-04T09:26:47.1824514Z (Reading database ... 60%
+2026-03-04T09:26:47.1844531Z (Reading database ... 65%
+2026-03-04T09:26:47.1871824Z (Reading database ... 70%
+2026-03-04T09:26:47.1904689Z (Reading database ... 75%
+2026-03-04T09:26:47.1928074Z (Reading database ... 80%
+2026-03-04T09:26:47.2080717Z (Reading database ... 85%
+2026-03-04T09:26:47.2326809Z (Reading database ... 90%
+2026-03-04T09:26:47.2415045Z (Reading database ... 95%
+2026-03-04T09:26:47.2415297Z (Reading database ... 100%
+2026-03-04T09:26:47.2415696Z (Reading database ... 229109 files and directories currently installed.)
+2026-03-04T09:26:47.2456330Z Preparing to unpack .../curl_8.5.0-2ubuntu10.7_amd64.deb ...
+2026-03-04T09:26:47.2482655Z Unpacking curl (8.5.0-2ubuntu10.7) over (8.5.0-2ubuntu10.6) ...
+2026-03-04T09:26:47.2968982Z Preparing to unpack .../libcurl4t64_8.5.0-2ubuntu10.7_amd64.deb ...
+2026-03-04T09:26:47.3082933Z Unpacking libcurl4t64:amd64 (8.5.0-2ubuntu10.7) over (8.5.0-2ubuntu10.6) ...
+2026-03-04T09:26:47.3510887Z Preparing to unpack .../libcurl3t64-gnutls_8.5.0-2ubuntu10.7_amd64.deb ...
+2026-03-04T09:26:47.3577385Z Unpacking libcurl3t64-gnutls:amd64 (8.5.0-2ubuntu10.7) over (8.5.0-2ubuntu10.6) ...
+2026-03-04T09:26:47.3898764Z Selecting previously unselected package libcurl4-openssl-dev:amd64.
+2026-03-04T09:26:47.4063554Z Preparing to unpack .../libcurl4-openssl-dev_8.5.0-2ubuntu10.7_amd64.deb ...
+2026-03-04T09:26:47.4071703Z Unpacking libcurl4-openssl-dev:amd64 (8.5.0-2ubuntu10.7) ...
+2026-03-04T09:26:47.4565854Z Setting up libcurl4t64:amd64 (8.5.0-2ubuntu10.7) ...
+2026-03-04T09:26:47.4589034Z Setting up libcurl3t64-gnutls:amd64 (8.5.0-2ubuntu10.7) ...
+2026-03-04T09:26:47.4607963Z Setting up libcurl4-openssl-dev:amd64 (8.5.0-2ubuntu10.7) ...
+2026-03-04T09:26:47.4632147Z Setting up curl (8.5.0-2ubuntu10.7) ...
+2026-03-04T09:26:47.4654259Z Processing triggers for man-db (2.12.0-4build2) ...
+2026-03-04T09:26:47.4669358Z Not building database; man-db/auto-update is not 'true'.
+2026-03-04T09:26:47.4681688Z Processing triggers for libc-bin (2.39-0ubuntu8.7) ...
+2026-03-04T09:26:48.0422302Z 
+2026-03-04T09:26:48.0422778Z Running kernel seems to be up-to-date.
+2026-03-04T09:26:48.0423023Z 
+2026-03-04T09:26:48.0423176Z Restarting services...
+2026-03-04T09:26:48.0607991Z  systemctl restart packagekit.service php8.3-fpm.service
+2026-03-04T09:26:48.1743964Z 
+2026-03-04T09:26:48.1745553Z No containers need to be restarted.
+2026-03-04T09:26:48.1745917Z 
+2026-03-04T09:26:48.1746222Z No user sessions are running outdated binaries.
+2026-03-04T09:26:48.1746570Z 
+2026-03-04T09:26:48.1747023Z No VM guests are running outdated hypervisor (qemu) binaries on this host.

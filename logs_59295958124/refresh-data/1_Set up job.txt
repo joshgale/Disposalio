@@ -1,0 +1,45 @@
+﻿2026-03-04T09:26:14.3234822Z Current runner version: '2.331.0'
+2026-03-04T09:26:14.3268912Z ##[group]Runner Image Provisioner
+2026-03-04T09:26:14.3270521Z Hosted Compute Agent
+2026-03-04T09:26:14.3271521Z Version: 20260213.493
+2026-03-04T09:26:14.3272639Z Commit: 5c115507f6dd24b8de37d8bbe0bb4509d0cc0fa3
+2026-03-04T09:26:14.3273719Z Build Date: 2026-02-13T00:28:41Z
+2026-03-04T09:26:14.3274768Z Worker ID: {f768e316-2c94-4f0b-90fc-92de9cab5606}
+2026-03-04T09:26:14.3276026Z Azure Region: eastus2
+2026-03-04T09:26:14.3276923Z ##[endgroup]
+2026-03-04T09:26:14.3279111Z ##[group]Operating System
+2026-03-04T09:26:14.3280331Z Ubuntu
+2026-03-04T09:26:14.3281195Z 24.04.3
+2026-03-04T09:26:14.3282024Z LTS
+2026-03-04T09:26:14.3282960Z ##[endgroup]
+2026-03-04T09:26:14.3283861Z ##[group]Runner Image
+2026-03-04T09:26:14.3284890Z Image: ubuntu-24.04
+2026-03-04T09:26:14.3285853Z Version: 20260224.36.1
+2026-03-04T09:26:14.3287501Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260224.36/images/ubuntu/Ubuntu2404-Readme.md
+2026-03-04T09:26:14.3290701Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260224.36
+2026-03-04T09:26:14.3292311Z ##[endgroup]
+2026-03-04T09:26:14.3296955Z ##[group]GITHUB_TOKEN Permissions
+2026-03-04T09:26:14.3300078Z Actions: write
+2026-03-04T09:26:14.3300927Z ArtifactMetadata: write
+2026-03-04T09:26:14.3301894Z Attestations: write
+2026-03-04T09:26:14.3302634Z Checks: write
+2026-03-04T09:26:14.3303503Z Contents: write
+2026-03-04T09:26:14.3304386Z Deployments: write
+2026-03-04T09:26:14.3305245Z Discussions: write
+2026-03-04T09:26:14.3306019Z Issues: write
+2026-03-04T09:26:14.3306904Z Metadata: read
+2026-03-04T09:26:14.3307704Z Models: read
+2026-03-04T09:26:14.3308457Z Packages: write
+2026-03-04T09:26:14.3309363Z Pages: write
+2026-03-04T09:26:14.3310472Z PullRequests: write
+2026-03-04T09:26:14.3311332Z RepositoryProjects: write
+2026-03-04T09:26:14.3312373Z SecurityEvents: write
+2026-03-04T09:26:14.3313254Z Statuses: write
+2026-03-04T09:26:14.3314076Z ##[endgroup]
+2026-03-04T09:26:14.3317348Z Secret source: Actions
+2026-03-04T09:26:14.3318953Z Prepare workflow directory
+2026-03-04T09:26:14.3768992Z Prepare all required actions
+2026-03-04T09:26:14.3824656Z Getting action download info
+2026-03-04T09:26:14.7347022Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+2026-03-04T09:26:14.8865084Z Download action repository 'r-lib/actions@v2' (SHA:6f6e5bc62fba3a704f74e7ad7ef7676c5c6a2590)
+2026-03-04T09:26:15.4192781Z Complete job name: refresh-data

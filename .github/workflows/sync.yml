@@ -24,7 +24,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          install.packages(c("fitzRoy", "dplyr", "jsonlite", "tidyr", "remotes"), repos = "https://cloud.r-project.org")
+          install.packages(c("fitzRoy", "dplyr", "jsonlite", "tidyr", "remotes", "lubridate", "janitor"), repos = "https://cloud.r-project.org")
         shell: Rscript {0}
 
       - name: Fetch AFL Data
