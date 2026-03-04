@@ -15,29 +15,31 @@ message("--- AFL DATA SYNC START ---")
 standardize_team <- function(x) {
   if (is.null(x) || length(x) == 0) return(x)
   x <- as.character(x)
-  x %>% 
-    gsub("Greater Western Sydney", "GWS Giants", ., ignore.case = TRUE) %>%
-    gsub("GWS GIANTS", "GWS Giants", ., ignore.case = TRUE) %>%
-    gsub("GWS", "GWS Giants", ., ignore.case = TRUE) %>%
-    gsub("Gold Coast SUNS", "Gold Coast", ., ignore.case = TRUE) %>%
-    gsub("Gold Coast Suns", "Gold Coast", ., ignore.case = TRUE) %>%
-    gsub("Geelong Cats", "Geelong", ., ignore.case = TRUE) %>%
-    gsub("Sydney Swans", "Sydney", ., ignore.case = TRUE) %>%
-    gsub("Adelaide Crows", "Adelaide", ., ignore.case = TRUE) %>%
-    gsub("Brisbane Lions", "Brisbane", ., ignore.case = TRUE) %>%
-    gsub("Carlton Blues", "Carlton", ., ignore.case = TRUE) %>%
-    gsub("Collingwood Magpies", "Collingwood", ., ignore.case = TRUE) %>%
-    gsub("Essendon Bombers", "Essendon", ., ignore.case = TRUE) %>%
-    gsub("Fremantle Dockers", "Fremantle", ., ignore.case = TRUE) %>%
-    gsub("Hawthorn Hawks", "Hawthorn", ., ignore.case = TRUE) %>%
-    gsub("Melbourne Demons", "Melbourne", ., ignore.case = TRUE) %>%
-    gsub("North Melbourne Kangaroos", "North Melbourne", ., ignore.case = TRUE) %>%
-    gsub("Port Adelaide Power", "Port Adelaide", ., ignore.case = TRUE) %>%
-    gsub("Richmond Tigers", "Richmond", ., ignore.case = TRUE) %>%
-    gsub("St Kilda Saints", "St Kilda", ., ignore.case = TRUE) %>%
-    gsub("West Coast Eagles", "West Coast", ., ignore.case = TRUE) %>%
-    gsub("Western Bulldogs", "Western Bulldogs", ., ignore.case = TRUE) %>%
-    trimws()
+  x <- trimws(x)
+  
+  # Logic: Replace common variations with a single canonical name.
+  # Using case_when ensures we don't double-process names.
+  case_when(
+    grepl("Greater Western Sydney|GWS|GIANTS", x, ignore.case = TRUE) ~ "GWS Giants",
+    grepl("Gold Coast", x, ignore.case = TRUE) ~ "Gold Coast",
+    grepl("Geelong", x, ignore.case = TRUE) ~ "Geelong",
+    grepl("Sydney", x, ignore.case = TRUE) ~ "Sydney",
+    grepl("Adelaide", x, ignore.case = TRUE) & !grepl("Port", x, ignore.case = TRUE) ~ "Adelaide",
+    grepl("Brisbane", x, ignore.case = TRUE) ~ "Brisbane",
+    grepl("Carlton", x, ignore.case = TRUE) ~ "Carlton",
+    grepl("Collingwood", x, ignore.case = TRUE) ~ "Collingwood",
+    grepl("Essendon", x, ignore.case = TRUE) ~ "Essendon",
+    grepl("Fremantle", x, ignore.case = TRUE) ~ "Fremantle",
+    grepl("Hawthorn", x, ignore.case = TRUE) ~ "Hawthorn",
+    grepl("Melbourne", x, ignore.case = TRUE) ~ "Melbourne",
+    grepl("North Melbourne", x, ignore.case = TRUE) ~ "North Melbourne",
+    grepl("Port Adelaide", x, ignore.case = TRUE) ~ "Port Adelaide",
+    grepl("Richmond", x, ignore.case = TRUE) ~ "Richmond",
+    grepl("St Kilda", x, ignore.case = TRUE) ~ "St Kilda",
+    grepl("West Coast", x, ignore.case = TRUE) ~ "West Coast",
+    grepl("Western Bulldogs", x, ignore.case = TRUE) ~ "Western Bulldogs",
+    TRUE ~ x
+  )
 }
 
 # 1. Fetch player stats
@@ -56,8 +58,9 @@ message("Fetching current lineups...")
 lineups <- tryCatch({
   raw_l <- fetch_lineup(season = current_season)
   if (!is.null(raw_l) && nrow(raw_l) > 0) {
-    l_cleaned <- raw_l %>% clean_names()
-    l_cleaned %>% mutate(team_name = standardize_team(team_name))
+    raw_l %>% 
+      clean_names() %>%
+      mutate(team_name = standardize_team(team_name))
   } else {
     NULL
   }
@@ -145,11 +148,14 @@ if (!is.null(lineups) && nrow(lineups) > 0) {
   lineups <- lineups %>%
     mutate(
       clean_pname = tolower(gsub("[^a-zA-Z]", "", p_name_final)),
-      is_playing = ifelse(grepl("Selected|Interchange|Follower|Forward|Back|Midfield", status, ignore.case = TRUE) & 
-                          !grepl("Emergency", status, ignore.case = TRUE), 1, -1)
+      is_playing = case_when(
+        grepl("Emergency", status, ignore.case = TRUE) ~ -1,
+        grepl("Omitted", status, ignore.case = TRUE) ~ -1,
+        grepl("Selected|Interchange|Follower|Forward|Back|Midfield|Ruck", status, ignore.case = TRUE) ~ 1,
+        TRUE ~ 1
+      )
     )
   
-  # Group by player to handle multiple lineup entries if they exist
   lineups_status <- lineups %>%
     group_by(clean_pname) %>%
     summarise(lineup_status = max(is_playing), .groups = "drop")

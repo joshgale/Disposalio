@@ -48,7 +48,13 @@ export default function DisposalIO() {
     fetch("/data/players.json")
       .then((res) => res.json())
       .then((data) => {
-        setPlayers(data);
+        // Defensive cleanup for team/opponent names
+        const cleanedData = data.map((p: Player) => ({
+          ...p,
+          team: p.team.replace("GWS Giants Giants", "GWS Giants"),
+          opponent: p.opponent.replace("GWS Giants Giants", "GWS Giants")
+        }));
+        setPlayers(cleanedData);
         setLoading(false);
       })
       .catch((err) => {
