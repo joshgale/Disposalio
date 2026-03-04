@@ -11,44 +11,78 @@ current_season <- 2026
 
 message("--- AFL DATA SYNC START ---")
 
+# Standardized Team Names Mapping
+# This ensures that GWS, Gold Coast, and others always match between sources.
+standardize_team <- function(x) {
+  x %>% 
+    gsub("Greater Western Sydney", "GWS Giants", ., ignore.case = TRUE) %>%
+    gsub("GWS GIANTS", "GWS Giants", ., ignore.case = TRUE) %>%
+    gsub("GWS", "GWS Giants", ., ignore.case = TRUE) %>%
+    gsub("Gold Coast SUNS", "Gold Coast", ., ignore.case = TRUE) %>%
+    gsub("Gold Coast Suns", "Gold Coast", ., ignore.case = TRUE) %>%
+    gsub("Geelong Cats", "Geelong", ., ignore.case = TRUE) %>%
+    gsub("Sydney Swans", "Sydney", ., ignore.case = TRUE) %>%
+    gsub("Adelaide Crows", "Adelaide", ., ignore.case = TRUE) %>%
+    gsub("Brisbane Lions", "Brisbane", ., ignore.case = TRUE) %>%
+    gsub("Carlton Blues", "Carlton", ., ignore.case = TRUE) %>%
+    gsub("Collingwood Magpies", "Collingwood", ., ignore.case = TRUE) %>%
+    gsub("Essendon Bombers", "Essendon", ., ignore.case = TRUE) %>%
+    gsub("Fremantle Dockers", "Fremantle", ., ignore.case = TRUE) %>%
+    gsub("Hawthorn Hawks", "Hawthorn", ., ignore.case = TRUE) %>%
+    gsub("Melbourne Demons", "Melbourne", ., ignore.case = TRUE) %>%
+    gsub("North Melbourne Kangaroos", "North Melbourne", ., ignore.case = TRUE) %>%
+    gsub("Port Adelaide Power", "Port Adelaide", ., ignore.case = TRUE) %>%
+    gsub("Richmond Tigers", "Richmond", ., ignore.case = TRUE) %>%
+    gsub("St Kilda Saints", "St Kilda", ., ignore.case = TRUE) %>%
+    gsub("West Coast Eagles", "West Coast", ., ignore.case = TRUE) %>%
+    gsub("Western Bulldogs", "Western Bulldogs", ., ignore.case = TRUE) %>%
+    trimws()
+}
+
 # 1. Fetch player stats
-message("Fetching player stats for seasons: ", paste(seasons, collapse = ", "))
-# Use fryzigg for stats as it's very reliable for player-level data
-player_stats <- fetch_player_stats(season = seasons, source = "fryzigg") %>% clean_names()
-message("Player stats fetched. Rows: ", nrow(player_stats))
+message("Fetching player stats...")
+player_stats <- fetch_player_stats(season = seasons, source = "fryzigg") %>% 
+  clean_names() %>%
+  mutate(player_team = standardize_team(player_team))
 
 # 2. Fetch fixture
-message("Fetching fixture for season: ", current_season)
-# Use "AFL" as source because "fryzigg" does not support fetch_fixture
-fixture <- fetch_fixture(season = current_season, source = "AFL") %>% clean_names()
-message("Fixture fetched. Rows: ", nrow(fixture))
+message("Fetching 2026 fixture...")
+fixture <- fetch_fixture(season = current_season, source = "AFL") %>% 
+  clean_names()
 
-# 3. Standardize Date Columns
-# Detect date column in stats
+# 3. Fetch Lineups
+message("Fetching current lineups...")
+lineups <- tryCatch({
+  fetch_lineup(season = current_season) %>% 
+    clean_names() %>%
+    mutate(team_name = standardize_team(team_name))
+}, error = function(e) {
+  message("Warning: fetch_lineup failed or no data yet.")
+  NULL
+})
+
+# 4. Standardize Date Columns
 stats_date_col <- intersect(names(player_stats), c("match_date", "date", "utc_start_time", "start_time"))[1]
 if (!is.na(stats_date_col)) {
   player_stats <- player_stats %>% mutate(match_date_parsed = as_datetime(.data[[stats_date_col]]))
 }
 
-# Detect date column in fixture
-# AFL source usually uses 'start_time'
 fix_date_col <- intersect(names(fixture), c("start_time", "utc_start_time", "match_date", "date"))[1]
 if (!is.na(fix_date_col)) {
   fixture <- fixture %>% mutate(match_date_parsed = as_datetime(.data[[fix_date_col]]))
 }
 
-# 4. Standardize Disposals Column
+# 5. Standardize Disposals Column
 if ("total_disposals" %in% names(player_stats) && !"disposals" %in% names(player_stats)) {
   player_stats <- player_stats %>% rename(disposals = total_disposals)
 }
 
-# 5. Identify Upcoming Opponents
+# 6. Identify Upcoming Opponents
 now <- now(tzone = "Australia/Melbourne")
 upcoming_fixture <- fixture %>%
   filter(match_date_parsed > now) %>%
   arrange(match_date_parsed)
 
-# AFL source uses 'home_team_name' and 'away_team_name' usually
 home_col <- intersect(names(fixture), c("home_team_name", "home_team"))[1]
 away_col <- intersect(names(fixture), c("away_team_name", "away_team"))[1]
 
@@ -56,13 +90,17 @@ team_opponents <- bind_rows(
   upcoming_fixture %>% select(team = !!sym(home_col), opponent = !!sym(away_col), match_date_parsed),
   upcoming_fixture %>% select(team = !!sym(away_col), opponent = !!sym(home_col), match_date_parsed)
 ) %>%
+  mutate(
+    team = standardize_team(team),
+    opponent = standardize_team(opponent)
+  ) %>%
   group_by(team) %>%
   arrange(match_date_parsed) %>%
   slice(1) %>%
   ungroup() %>%
   select(team, opponent)
 
-# 6. Process Player Data
+# 7. Process Player Data
 message("Processing player stats...")
 processed_players <- player_stats %>%
   arrange(desc(match_date_parsed)) %>%
@@ -74,7 +112,6 @@ processed_players <- player_stats %>%
     disposals = list(head(disposals, 20)),
     .groups = "drop"
   ) %>%
-  # Calculate trends after summarising
   mutate(
     avg_3 = sapply(disposals, function(x) mean(head(unlist(x), 3), na.rm = TRUE)),
     avg_10 = sapply(disposals, function(x) mean(head(unlist(x), 10), na.rm = TRUE)),
@@ -85,46 +122,35 @@ processed_players <- player_stats %>%
     )
   )
 
-# 7. Join and Finalize
-# Note: Team names between Fryzigg and AFL source might differ slightly (e.g. "Adelaide Crows" vs "Adelaide")
-# We'll do a basic cleaning to help the join
-clean_team_name <- function(x) {
-  x %>% 
-    gsub(" Crows", "", .) %>%
-    gsub(" Lions", "", .) %>%
-    gsub(" Blues", "", .) %>%
-    gsub(" Magpies", "", .) %>%
-    gsub(" Bombers", "", .) %>%
-    gsub(" Dockers", "", .) %>%
-    gsub(" Cats", "", .) %>%
-    gsub(" Suns", "", .) %>%
-    gsub(" Giants", "", .) %>%
-    gsub(" Hawks", "", .) %>%
-    gsub(" Demons", "", .) %>%
-    gsub(" Kangaroos", "", .) %>%
-    gsub(" Power", "", .) %>%
-    gsub(" Tigers", "", .) %>%
-    gsub(" Saints", "", .) %>%
-    gsub(" Swans", "", .) %>%
-    gsub(" Eagles", "", .) %>%
-    gsub(" Bulldogs", "", .) %>%
-    trimws()
+# 8. Determine 'Named' Status
+if (!is.null(lineups) && nrow(lineups) > 0) {
+  lineups <- lineups %>%
+    mutate(
+      clean_pname = tolower(gsub("[^a-zA-Z]", "", player_name)),
+      is_playing = ifelse(grepl("Selected|Interchange|Follower|Forward|Back|Midfield", status, ignore.case = TRUE) & 
+                          !grepl("Emergency", status, ignore.case = TRUE), 1, -1)
+    )
+  
+  processed_players <- processed_players %>%
+    mutate(clean_pname = tolower(gsub("[^a-zA-Z]", "", name))) %>%
+    left_join(lineups %>% select(clean_pname, team_name, lineup_status = is_playing), 
+              by = "clean_pname") %>%
+    mutate(status = ifelse(is.na(lineup_status), 0, lineup_status)) %>%
+    select(-clean_pname, -lineup_status, -team_name)
+} else {
+  processed_players$status <- 0
 }
 
+# 9. Join Team Opponents
 final_players <- processed_players %>%
-  mutate(join_team = clean_team_name(team)) %>%
-  left_join(
-    team_opponents %>% mutate(join_team = clean_team_name(team)) %>% select(-team), 
-    by = "join_team"
-  ) %>%
+  left_join(team_opponents, by = "team") %>%
   mutate(opponent = ifelse(is.na(opponent), "TBC", opponent)) %>%
-  select(name, team, opponent, disposals, trend)
+  select(name, team, opponent, disposals, trend, status)
 
-# 8. Export
+# 10. Export
 if (!dir.exists("public/data")) {
   dir.create("public/data", recursive = TRUE)
 }
-
 message("Exporting to public/data/players.json...")
 write_json(final_players, "public/data/players.json", pretty = TRUE)
 message("--- AFL DATA SYNC COMPLETE ---")

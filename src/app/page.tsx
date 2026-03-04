@@ -22,6 +22,13 @@ type Player = {
   opponent: string;
   disposals: number[];
   trend: number;
+  status: number; // 1: Named, -1: Not Named, 0: Unknown
+};
+
+const StatusIndicator = ({ status }: { status: number }) => {
+  if (status === 1) return <div className="h-3 w-3 rounded-full bg-emerald-500 shadow-[0_0_8px_rgba(16,185,129,0.5)]" title="Named to play" />;
+  if (status === -1) return <div className="h-3 w-3 rounded-full bg-rose-500 shadow-[0_0_8px_rgba(244,63,94,0.5)]" title="Not named / Omitted" />;
+  return <div className="h-3 w-3 rounded-sm bg-slate-300" title="Selection unknown" />;
 };
 
 const DISPOSAL_BADGE_COLORS = (val: number) => {
@@ -172,7 +179,12 @@ export default function DisposalIO() {
 
                     return (
                       <tr key={idx} className="hover:bg-slate-50/50 transition-colors">
-                        <td className="px-6 py-5 font-bold text-slate-900">{player.name}</td>
+                        <td className="px-6 py-5">
+  <div className="flex items-center gap-3">
+    <StatusIndicator status={player.status} />
+    <span className="font-bold text-slate-900">{player.name}</span>
+  </div>
+</td>
                         <td className="px-6 py-5 text-slate-600 text-sm font-medium">{player.team}</td>
                         <td className="px-6 py-5">
                           <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-tight">
