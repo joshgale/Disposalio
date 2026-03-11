@@ -181,7 +181,7 @@
     "opponent": "Carlton",
     "disposals": [11, 13, 12, 2, 8, 8, 10, 13, 17, 7, 13, 14, 5, 7, 7, 13],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Luke Parker",
@@ -869,7 +869,7 @@
     "opponent": "Carlton",
     "disposals": [14, 21, 15, 11, 18, 17, 18, 18, 17, 9, 17, 15, 15, 18, 14, 15, 10, 17, 15, 21],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Brayden Maynard",
@@ -1077,7 +1077,7 @@
     "opponent": "Carlton",
     "disposals": [26, 14, 19, 23, 25, 14, 25, 15, 25, 16, 25, 25, 26, 21, 19],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Dougal Howard",
@@ -1165,7 +1165,7 @@
     "opponent": "Carlton",
     "disposals": [29, 27, 20, 25, 33, 33, 27, 27, 28, 19, 22, 29, 23, 27, 24, 28, 23, 27, 33, 32],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Bailey Williams",
@@ -1221,7 +1221,7 @@
     "opponent": "Carlton",
     "disposals": [6, 8, 15, 15, 16, 13, 17, 14, 13, 13, 17, 22, 12, 16, 13, 9, 15, 19, 19, 18],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Jack Silvagni",
@@ -1365,7 +1365,7 @@
     "opponent": "Carlton",
     "disposals": [27, 19, 23, 30, 34, 25, 19, 28, 25, 23, 23, 30, 27, 26, 22, 35, 26, 29, 20, 17],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Tom Stewart",
@@ -2029,7 +2029,7 @@
     "opponent": "Carlton",
     "disposals": [13, 7, 12, 8, 14, 7, 14, 12, 12, 11, 16, 14, 14],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Tom Atkins",
@@ -2181,7 +2181,7 @@
     "opponent": "Carlton",
     "disposals": [20, 19, 26, 23, 24, 25, 21, 16, 23, 19, 6, 17, 18, 21, 17, 13, 24, 17, 12, 19],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "James Rowbottom",
@@ -2893,7 +2893,7 @@
     "opponent": "Carlton",
     "disposals": [15, 12, 17, 11, 12, 15, 5, 22, 7, 10, 2, 11, 11, 11, 13, 10, 7, 8, 16, 10],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Conor Stone",
@@ -2981,7 +2981,7 @@
     "opponent": "Carlton",
     "disposals": [8, 17, 8, 12, 23, 17, 16, 10, 12, 11, 11, 16],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Kieren Briggs",
@@ -3133,7 +3133,7 @@
     "opponent": "Carlton",
     "disposals": [5, 11, 9, 7, 8, 13, 9, 19, 4, 5, 4, 10, 6],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Brayden Cook",
@@ -3173,7 +3173,7 @@
     "opponent": "Carlton",
     "disposals": [16, 13, 15, 13, 13, 10, 14, 13, 11, 11, 14, 11, 14, 12, 10, 9, 14, 7, 12, 10],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Alex Davies",
@@ -3189,7 +3189,7 @@
     "opponent": "Carlton",
     "disposals": [7],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Mitch Owens",
@@ -3525,7 +3525,7 @@
     "opponent": "Carlton",
     "disposals": [21, 12, 20, 13, 28, 21, 14, 17, 12, 10, 18, 17, 12, 12, 10, 7],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Jai Culley",
@@ -3605,7 +3605,7 @@
     "opponent": "Richmond",
     "disposals": [22, 20, 22, 16, 12, 16, 22, 20, 7, 5, 1, 13, 9, 18],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Oliver Hollands",
@@ -3909,7 +3909,7 @@
     "opponent": "Carlton",
     "disposals": [30, 14, 19, 26, 19, 24, 20, 26, 25, 18, 21, 25, 29, 25, 28, 15, 18, 20, 21, 12],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Jacob Bauer",
@@ -4005,7 +4005,7 @@
     "opponent": "Carlton",
     "disposals": [13, 18, 10, 19, 12, 8, 9, 2, 7, 15, 13, 17, 21, 15, 9, 19],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Tom Brown",
@@ -4013,7 +4013,7 @@
     "opponent": "Carlton",
     "disposals": [20, 12, 5, 14, 13, 14, 23, 15, 11, 8, 17, 12, 21, 11, 16, 14, 8, 14, 24, 12],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Blake Howes",
@@ -4037,7 +4037,7 @@
     "opponent": "Carlton",
     "disposals": [19, 10, 9, 11, 11, 13, 19, 11, 15, 13, 13, 11, 15, 19, 11, 12, 15, 9, 15, 12],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Harvey Thomas",
@@ -4205,7 +4205,7 @@
     "opponent": "Carlton",
     "disposals": [19, 18, 21, 22, 12],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Koltyn Tholstrup",
@@ -4349,7 +4349,7 @@
     "opponent": "Carlton",
     "disposals": [2, 0, 4, 11, 4, 7, 5, 7, 9, 8, 5, 8, 6, 11, 9, 14, 10, 13, 7],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Wil Dawson",
@@ -4565,7 +4565,7 @@
     "opponent": "Carlton",
     "disposals": [8, 3, 8, 4, 11, 2, 12, 5],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Sam Lalor",
@@ -4573,7 +4573,7 @@
     "opponent": "Carlton",
     "disposals": [0, 2, 16, 15, 12, 10, 16, 24, 9, 10, 18],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Luke Trainor",
@@ -4581,7 +4581,7 @@
     "opponent": "Carlton",
     "disposals": [10, 14, 19, 6, 16, 16, 9, 15, 19, 9, 8, 12, 18, 21, 16, 1, 22, 19, 18, 10],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Lucas Camporeale",
@@ -4861,7 +4861,7 @@
     "opponent": "Carlton",
     "disposals": [0, 8, 11, 8, 9, 7, 9, 6, 8, 9, 3, 12, 7, 7, 6, 6],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Matthew Carroll",
@@ -4869,7 +4869,7 @@
     "opponent": "Richmond",
     "disposals": [15, 12, 12, 8, 9, 15, 14, 11, 14, 16, 11, 12, 8, 7, 15, 14, 12],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Cooper Hynes",
@@ -4893,7 +4893,7 @@
     "opponent": "Carlton",
     "disposals": [13, 11, 5],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Jedd Busslinger",
