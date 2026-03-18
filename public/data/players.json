@@ -837,7 +837,7 @@
     "opponent": "Hawthorn",
     "disposals": [6, 7, 5, 11, 9, 5, 3, 6, 8, 7, 9, 7, 12, 11],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Peter Wright",
@@ -4301,7 +4301,7 @@
     "opponent": "Sydney",
     "disposals": [5, 6, 9, 8, 3, 11, 10, 9, 5],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Logan Morris",
@@ -4437,7 +4437,7 @@
     "opponent": "Hawthorn",
     "disposals": [8, 8, 7, 4, 13, 14, 10, 8, 17, 13, 18, 12],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Zac Taylor",
