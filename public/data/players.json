@@ -82,7 +82,7 @@
   {
     "name": "Jack Gunston",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [15, 16, 8, 9, 14, 11, 10, 18, 13, 11, 9, 15, 12, 11, 10, 8, 14, 15, 14, 16],
     "trend": 0,
     "status": 1
@@ -141,7 +141,7 @@
     "opponent": "Gold Coast",
     "disposals": [29, 14, 18, 23, 23, 21, 28, 20, 29, 19, 21, 31],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "David Swallow",
@@ -194,7 +194,7 @@
   {
     "name": "Luke Breust",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [5, 9, 4, 9, 10, 8, 8, 1],
     "trend": 0,
     "status": 0
@@ -274,7 +274,7 @@
   {
     "name": "Harry Cunningham",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [14, 15, 16, 14, 9, 12, 8, 16, 16, 10, 20],
     "trend": 1,
     "status": 0
@@ -314,7 +314,7 @@
   {
     "name": "Taylor Adams",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [6, 11, 12, 8],
     "trend": 0,
     "status": 0
@@ -354,7 +354,7 @@
   {
     "name": "Sam Frost",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [5, 3],
     "trend": 0,
     "status": 0
@@ -378,7 +378,7 @@
   {
     "name": "Dane Rampe",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [15, 13, 16, 25, 13, 9, 5, 9, 18, 13, 8, 8, 10, 12, 15, 19, 16, 13, 12, 21],
     "trend": 1,
     "status": 1
@@ -461,7 +461,7 @@
     "opponent": "Gold Coast",
     "disposals": [2, 19, 20, 25, 25, 23, 21, 15, 28, 15, 19, 24, 14, 18, 20, 22, 27, 20, 16, 13],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Zac Williams",
@@ -506,7 +506,7 @@
   {
     "name": "Brodie Grundy",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [13, 14, 39, 24, 22, 20, 20, 23, 22, 19, 23, 23, 19, 23, 8, 9, 26, 23, 20, 11],
     "trend": 0,
     "status": 1
@@ -530,7 +530,7 @@
   {
     "name": "Jarman Impey",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [14, 11, 28, 20, 29, 25, 22, 25, 26, 21, 22, 17, 28, 23, 16, 22, 24, 17, 19, 10],
     "trend": -1,
     "status": 1
@@ -602,7 +602,7 @@
   {
     "name": "Jake Lloyd",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [22, 21, 20, 17, 25, 14, 15, 20, 22, 22, 11, 17, 23, 22, 15, 28, 22, 18, 24, 25],
     "trend": 1,
     "status": 1
@@ -746,7 +746,7 @@
   {
     "name": "Isaac Heeney",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [26, 15, 23, 28, 22, 34, 21, 21, 21, 28, 25, 23, 22, 38, 19, 22, 20, 22, 28, 19],
     "trend": -1,
     "status": 1
@@ -778,7 +778,7 @@
   {
     "name": "James Sicily",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [16, 21, 17, 19, 22, 26, 18, 25, 21, 21, 16, 6, 17, 15, 24, 24, 23, 19, 20, 16],
     "trend": -1,
     "status": 1
@@ -826,7 +826,7 @@
   {
     "name": "Karl Amon",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [28, 17, 23, 34, 24, 27, 23, 17, 22, 30, 21, 33, 17, 19, 22, 29, 30, 18, 18, 29],
     "trend": -1,
     "status": 1
@@ -834,7 +834,7 @@
   {
     "name": "Joel Hamling",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [6, 7, 5, 11, 9, 5, 3, 6, 8, 7, 9, 7, 12, 11],
     "trend": 0,
     "status": 1
@@ -922,7 +922,7 @@
   {
     "name": "Tom Barrass",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [10, 7, 8, 10, 11, 8, 7, 13, 5, 13, 13, 8, 8, 7, 9, 12, 6, 14, 9, 12],
     "trend": 0,
     "status": 1
@@ -1034,7 +1034,7 @@
   {
     "name": "Callum Mills",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [29, 25, 22, 23, 22, 28, 19, 26, 22, 27, 25, 17],
     "trend": 1,
     "status": 1
@@ -1042,7 +1042,7 @@
   {
     "name": "Tom Papley",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [27, 20, 10, 13, 14, 8, 17, 16, 19, 8, 13],
     "trend": 1,
     "status": 1
@@ -1061,7 +1061,7 @@
     "opponent": "Port Adelaide",
     "disposals": [14, 12, 19, 20, 12, 17, 1, 9, 9, 19, 13, 10, 16, 12, 5, 18, 20, 11, 12],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Marc Pittonet",
@@ -1085,7 +1085,7 @@
     "opponent": "GWS Giants",
     "disposals": [11, 11, 11],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Charlie Curnow",
@@ -1250,7 +1250,7 @@
   {
     "name": "Aaron Francis",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [10, 5, 7, 5, 10, 3, 8, 11, 15, 14],
     "trend": -1,
     "status": 0
@@ -1258,7 +1258,7 @@
   {
     "name": "Blake Hardwick",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [10, 21, 20, 14, 19, 11, 15, 19, 27, 13, 14, 10, 17, 17, 9, 16, 11, 16, 19, 13],
     "trend": 0,
     "status": 1
@@ -1269,7 +1269,7 @@
     "opponent": "Western Bulldogs",
     "disposals": [7, 9, 11, 6, 17, 18, 10, 10, 17, 10, 14, 15, 9, 13, 18, 13, 17, 7, 14, 17],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Ryan Burton",
@@ -1290,7 +1290,7 @@
   {
     "name": "Mabior Chol",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [14, 12, 9, 9, 8, 14, 9, 7, 7, 14, 12, 11, 11, 6, 10, 6, 11, 17, 15, 5],
     "trend": 1,
     "status": 1
@@ -1306,7 +1306,7 @@
   {
     "name": "Oliver Florent",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [17, 18, 19, 12, 7, 13, 11, 17, 16, 10, 18, 23, 18, 11, 17, 16],
     "trend": 1,
     "status": 1
@@ -1378,7 +1378,7 @@
   {
     "name": "Will Hayward",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [11, 8, 9, 15, 13, 12, 12, 11, 16, 10, 12, 18, 14, 10, 6, 9, 13, 15, 7, 11],
     "trend": -1,
     "status": 1
@@ -1434,7 +1434,7 @@
   {
     "name": "Lewis Melican",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [6, 6, 10, 10, 5, 11, 6, 12, 17, 11, 10, 12, 8, 12, 5, 13, 11],
     "trend": -1,
     "status": 1
@@ -1485,7 +1485,7 @@
     "opponent": "Melbourne",
     "disposals": [23, 20, 18, 17, 17, 15, 25, 22, 21, 18, 32, 19, 18, 22, 18, 30, 24, 23, 17, 16],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Brennan Cox",
@@ -1530,7 +1530,7 @@
   {
     "name": "Josh Battle",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [18, 17, 19, 16, 17, 26, 22, 14, 17, 15, 23, 18, 15, 16, 15, 23, 13, 15, 33, 29],
     "trend": 0,
     "status": 1
@@ -1562,7 +1562,7 @@
   {
     "name": "Jack Scrimshaw",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [15, 18, 13, 12, 17, 15, 11, 15, 18, 8, 12, 16, 5, 22, 4, 18],
     "trend": 1,
     "status": 1
@@ -1610,7 +1610,7 @@
   {
     "name": "Harry Morrison",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [19, 17, 21, 18, 18, 12, 12, 21, 12, 28, 17, 15, 20, 22, 23, 16, 16, 12, 14, 15],
     "trend": 1,
     "status": 1
@@ -1826,7 +1826,7 @@
   {
     "name": "James Worpel",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [16, 22, 20, 22, 27, 21, 13, 17, 26, 22, 14, 11, 21, 23, 20, 28, 18, 24, 22, 23],
     "trend": -1,
     "status": 1
@@ -1853,12 +1853,12 @@
     "opponent": "Richmond",
     "disposals": [6],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Tom McCartin",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [22, 13, 18, 11, 12, 15, 11, 19, 20, 11, 14, 15, 10, 10, 7, 11, 12, 15, 12, 7],
     "trend": 1,
     "status": 1
@@ -1882,7 +1882,7 @@
   {
     "name": "Mitch Lewis",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [9, 4, 1, 10, 11, 7, 14, 7],
     "trend": -1,
     "status": 1
@@ -1957,7 +1957,7 @@
     "opponent": "Melbourne",
     "disposals": [26, 24, 14, 18, 24, 25, 18, 11, 35, 21, 20, 29, 18, 18, 22, 24, 24, 22, 23, 24],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Kane Farrell",
@@ -1978,7 +1978,7 @@
   {
     "name": "Ben Paton",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [3, 8, 10, 12],
     "trend": -1,
     "status": 0
@@ -1986,7 +1986,7 @@
   {
     "name": "Conor Nash",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [23, 17, 24, 19, 19, 23, 17, 21, 19, 22, 19, 21, 10, 21, 25, 13, 12, 4, 17, 16],
     "trend": 0,
     "status": 1
@@ -2114,7 +2114,7 @@
   {
     "name": "Nick Blakey",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [20, 23, 20, 28, 21, 29, 23, 19, 24, 22, 34, 11, 19, 13, 22, 18, 17, 27, 18, 14],
     "trend": -1,
     "status": 1
@@ -2162,7 +2162,7 @@
   {
     "name": "Dylan Moore",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [26, 17, 19, 17, 32, 25, 15, 27, 32, 17, 17, 15, 23, 26, 18, 15, 17, 18, 11, 17],
     "trend": -1,
     "status": 1
@@ -2170,7 +2170,7 @@
   {
     "name": "Justin McInerney",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [19, 27, 13, 22, 20, 20, 17, 22, 23, 27, 24, 22, 24, 29, 17, 23, 16],
     "trend": -1,
     "status": 1
@@ -2186,7 +2186,7 @@
   {
     "name": "James Rowbottom",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [11, 14, 17, 12, 9, 17, 15, 11, 14, 14, 15, 20, 12, 19, 21, 14, 20, 23, 22, 20],
     "trend": 0,
     "status": 1
@@ -2242,7 +2242,7 @@
   {
     "name": "Peter Ladhams",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [17, 6, 4, 11, 9, 10, 9, 15, 14, 12],
     "trend": -1,
     "status": 1
@@ -2290,7 +2290,7 @@
   {
     "name": "Hayden McLean",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [10, 9, 10, 0, 12, 6, 11, 10, 6, 14, 11, 7, 7, 10, 11, 16, 10, 8, 9],
     "trend": 0,
     "status": 1
@@ -2322,7 +2322,7 @@
   {
     "name": "Changkuoth Jiath",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [5, 6, 7, 13, 14, 12, 9, 18, 15, 13, 5, 12, 21, 12, 25, 32, 6, 17, 14, 20],
     "trend": -1,
     "status": 1
@@ -2466,7 +2466,7 @@
   {
     "name": "Will Day",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [19, 15, 24, 26, 16, 26],
     "trend": -1,
     "status": 0
@@ -2477,7 +2477,7 @@
     "opponent": "Western Bulldogs",
     "disposals": [18, 23, 16, 15, 15, 18, 16, 20, 23, 18, 18, 23, 26, 16, 29, 19, 20, 25, 21, 30],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Dylan Stephens",
@@ -2490,7 +2490,7 @@
   {
     "name": "Chad Warner",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [17, 23, 26, 26, 19, 26, 20, 24, 19, 17, 22, 19, 27, 30, 25, 24, 24, 21, 24, 10],
     "trend": 0,
     "status": 1
@@ -2533,7 +2533,7 @@
     "opponent": "Melbourne",
     "disposals": [6, 13, 17, 10, 12, 2, 12, 13, 6, 10, 15, 8, 9, 7, 7, 3],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Mark Keane",
@@ -2557,7 +2557,7 @@
     "opponent": "Western Bulldogs",
     "disposals": [5],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Lachlan Sholl",
@@ -2570,7 +2570,7 @@
   {
     "name": "Sam Wicks",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [12, 21, 18, 9, 18, 12, 11, 14, 18, 7, 13, 10, 20, 13, 18, 19, 13, 14, 15, 14],
     "trend": 1,
     "status": 1
@@ -2581,7 +2581,7 @@
     "opponent": "Melbourne",
     "disposals": [12, 14, 4, 11, 3, 13, 17, 5, 18, 21, 21, 9, 18, 19],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Xavier O'Halloran",
@@ -2682,7 +2682,7 @@
   {
     "name": "Finn Maginness",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [9, 8, 11, 5, 10, 14, 16, 22, 12, 25, 13, 15, 13],
     "trend": -1,
     "status": 1
@@ -2690,7 +2690,7 @@
   {
     "name": "Joel Amartey",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [8, 15, 10, 3, 8, 8, 8, 11],
     "trend": 1,
     "status": 1
@@ -2722,7 +2722,7 @@
   {
     "name": "James Jordon",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [17, 9, 20, 12, 14, 13, 11, 9, 11, 16, 17, 11, 10, 14, 9, 18, 11, 17, 16, 16],
     "trend": 1,
     "status": 1
@@ -2730,7 +2730,7 @@
   {
     "name": "Lloyd Meek",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [13, 15, 18, 15, 10, 10, 17, 13, 12, 11, 20, 11, 15, 15, 15, 9, 6, 10, 19, 19],
     "trend": 1,
     "status": 1
@@ -2778,7 +2778,7 @@
   {
     "name": "Errol Gulden",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [36, 23, 29, 30, 32, 20, 23, 25, 30, 18],
     "trend": 1,
     "status": 1
@@ -2786,7 +2786,7 @@
   {
     "name": "Braeden Campbell",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [13, 12, 9, 17, 7, 12, 11, 12, 8, 15, 12, 8, 9, 15, 15, 11, 15, 16, 15, 15],
     "trend": 0,
     "status": 0
@@ -2994,7 +2994,7 @@
   {
     "name": "Ned Reeves",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [6],
     "trend": 0,
     "status": 1
@@ -3018,7 +3018,7 @@
   {
     "name": "Jai Newcombe",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [20, 28, 32, 23, 22, 28, 19, 8, 11, 24, 22, 27, 15, 27, 18, 23, 29, 19, 27, 20],
     "trend": 1,
     "status": 1
@@ -3090,7 +3090,7 @@
   {
     "name": "Jack Ginnivan",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [24, 8, 17, 23, 21, 26, 20, 18, 21, 27, 19, 19, 12, 23, 31, 13, 22, 17, 23, 17],
     "trend": -1,
     "status": 1
@@ -3226,7 +3226,7 @@
   {
     "name": "Angus Sheldrick",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [10, 21, 26, 24, 12, 19, 18, 12, 16, 21, 19, 22, 26, 21, 13, 4, 13, 12, 3, 9],
     "trend": 1,
     "status": 1
@@ -3242,7 +3242,7 @@
   {
     "name": "Connor Macdonald",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [13, 18, 17, 13, 28, 18, 15, 16, 12, 14, 9, 16, 14, 15, 15, 20, 15, 11, 12, 16],
     "trend": 0,
     "status": 1
@@ -3250,7 +3250,7 @@
   {
     "name": "Josh Ward",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [8, 31, 19, 16, 22, 21, 15, 22, 26, 17, 14, 20, 20, 28, 26, 20, 23, 22, 19, 23],
     "trend": 0,
     "status": 1
@@ -3418,7 +3418,7 @@
   {
     "name": "Sam Butler",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [7, 15, 7, 8, 20, 14],
     "trend": -1,
     "status": 1
@@ -3442,7 +3442,7 @@
   {
     "name": "Matt Roberts",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [20, 17, 18, 8, 13, 19, 21, 23, 20, 26, 25, 28, 30, 24, 20, 25, 19, 26],
     "trend": 0,
     "status": 1
@@ -3466,7 +3466,7 @@
   {
     "name": "Massimo D'Ambrosio",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [12, 16, 16, 11, 19, 24, 25, 22, 17, 20, 20, 16, 19, 16, 18, 19, 12, 26, 30, 15],
     "trend": -1,
     "status": 1
@@ -3661,7 +3661,7 @@
     "opponent": "Fremantle",
     "disposals": [3],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Judd McVee",
@@ -3690,7 +3690,7 @@
   {
     "name": "Cam Mackenzie",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [8, 14, 20, 5, 13, 20, 14, 18, 30, 19, 21, 16],
     "trend": -1,
     "status": 1
@@ -3778,7 +3778,7 @@
   {
     "name": "Corey Warner",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [14, 6, 10, 14, 13, 11, 10, 18, 9, 13, 11, 14, 15, 10],
     "trend": -1,
     "status": 1
@@ -3794,7 +3794,7 @@
   {
     "name": "Seamus Mitchell",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [1, 8, 6, 10],
     "trend": -1,
     "status": 0
@@ -3818,7 +3818,7 @@
   {
     "name": "Josh Weddle",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [12, 15, 16, 12, 23, 18, 12, 23, 19, 22, 20, 13, 19, 18, 20, 10, 6, 12],
     "trend": -1,
     "status": 1
@@ -3826,7 +3826,7 @@
   {
     "name": "Max Ramsden",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [5, 12, 10, 9],
     "trend": 0,
     "status": 0
@@ -3866,7 +3866,7 @@
   {
     "name": "Bailey Macdonald",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [3, 4, 5, 7, 5, 8],
     "trend": -1,
     "status": 1
@@ -3890,7 +3890,7 @@
   {
     "name": "Jack Buller",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [14, 8, 10, 12, 10, 10, 7, 5, 6],
     "trend": 1,
     "status": 1
@@ -3986,7 +3986,7 @@
   {
     "name": "Henry Hustwaite",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [4, 8, 19, 24],
     "trend": -1,
     "status": 0
@@ -4058,7 +4058,7 @@
   {
     "name": "Nick Watson",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [5, 13, 9, 15, 3, 14, 14, 16, 13, 8, 10, 13, 10, 9, 4, 12, 8, 10, 10, 13],
     "trend": -1,
     "status": 1
@@ -4101,7 +4101,7 @@
     "opponent": "GWS Giants",
     "disposals": [4, 4, 1, 6, 0, 6, 6, 8, 3, 9, 12, 6],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Darcy Wilson",
@@ -4157,7 +4157,7 @@
     "opponent": "Gold Coast",
     "disposals": [2],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Angus Hastie",
@@ -4165,12 +4165,12 @@
     "opponent": "GWS Giants",
     "disposals": [7, 10, 8, 12, 14, 7, 4, 7, 12],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Caleb Mitchell",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [13],
     "trend": 0,
     "status": 0
@@ -4298,7 +4298,7 @@
   {
     "name": "Calsher Dear",
     "team": "Hawthorn",
-    "opponent": "Sydney",
+    "opponent": "Geelong",
     "disposals": [5, 6, 9, 8, 3, 11, 10, 9, 5],
     "trend": 0,
     "status": 1
@@ -4434,7 +4434,7 @@
   {
     "name": "Caiden Cleary",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [8, 8, 7, 4, 13, 14, 10, 8, 17, 13, 18, 12],
     "trend": -1,
     "status": 1
@@ -4546,7 +4546,7 @@
   {
     "name": "Tom Hanily",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [2, 3, 3, 11, 13, 7, 12, 6],
     "trend": -1,
     "status": 0
@@ -4597,7 +4597,7 @@
     "opponent": "Port Adelaide",
     "disposals": [17, 19, 12, 11, 7, 7, 8, 12, 17, 12, 13, 10, 11, 15, 7, 6, 12, 10, 9, 9],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Murphy Reid",
@@ -4610,7 +4610,7 @@
   {
     "name": "Riley Bice",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [11, 6, 7, 2, 22, 2, 16, 11, 17, 12, 20, 22, 21, 26, 14, 12],
     "trend": -1,
     "status": 1
@@ -4901,7 +4901,7 @@
     "opponent": "Adelaide",
     "disposals": [8, 16, 8, 7, 15, 2, 12],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Oliver Wiltshire",
@@ -5226,7 +5226,7 @@
   {
     "name": "Jesse Dattoli",
     "team": "Sydney",
-    "opponent": "Hawthorn",
+    "opponent": "West Coast",
     "disposals": [7, 7, 13],
     "trend": 0,
     "status": 0
