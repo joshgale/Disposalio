@@ -4445,7 +4445,7 @@
     "opponent": "Geelong",
     "disposals": [15, 8, 7, 6, 20, 9, 8, 11, 7, 5, 5, 12, 8, 17, 8, 10, 8],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Lawson Humphries",
@@ -4909,7 +4909,7 @@
     "opponent": "Adelaide",
     "disposals": [7, 6],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Finnbar Maley",
@@ -4917,7 +4917,7 @@
     "opponent": "Essendon",
     "disposals": [8, 3, 8, 9, 6, 4, 8],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Hugh Boxshall",
