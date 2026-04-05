@@ -26,7 +26,7 @@
   {
     "name": "Todd Goldstein",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [5, 16, 14, 17, 7, 8, 16, 9, 21, 9, 8, 11, 8, 19, 11, 13],
     "trend": 0,
     "status": 0
@@ -66,7 +66,7 @@
   {
     "name": "Jake Melksham",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [12, 5, 15, 10, 8, 7, 10, 8, 18, 7, 8, 9, 10, 11, 12, 13, 7, 8, 8],
     "trend": 0,
     "status": 1
@@ -98,7 +98,7 @@
   {
     "name": "Liam Jones",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [6, 12, 10, 12, 7],
     "trend": 0,
     "status": 0
@@ -122,7 +122,7 @@
   {
     "name": "Tom Liberatore",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [27, 22, 24, 26, 22, 23, 26, 27, 21, 27, 29, 14, 31, 33, 35, 19, 28, 29, 24, 30],
     "trend": 0,
     "status": 1
@@ -130,7 +130,7 @@
   {
     "name": "Jack Darling",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [5, 10, 9, 14, 11, 8, 9, 7, 6, 9, 10, 9, 17, 9, 5, 9, 6, 16, 6, 11],
     "trend": 0,
     "status": 1
@@ -146,7 +146,7 @@
   {
     "name": "David Swallow",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [6, 4, 7, 10, 12, 3, 7, 4, 8],
     "trend": -1,
     "status": 0
@@ -162,7 +162,7 @@
   {
     "name": "Steven May",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [23, 19, 18, 23, 11, 16, 16, 21, 12, 15, 20, 10, 20, 12, 27, 20],
     "trend": 1,
     "status": 0
@@ -186,7 +186,7 @@
   {
     "name": "Luke Parker",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [27, 30, 29, 17, 31, 14, 27, 29, 28, 20, 22, 16, 15, 23, 20, 27, 23, 24, 27, 21],
     "trend": 1,
     "status": 1
@@ -202,7 +202,7 @@
   {
     "name": "Max Gawn",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [23, 27, 23, 21, 17, 19, 15, 16, 14, 23, 20, 22, 21, 22, 19, 35, 25, 28, 22, 15],
     "trend": 1,
     "status": 1
@@ -226,7 +226,7 @@
   {
     "name": "Tom McDonald",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [12, 6, 15, 12, 12, 12, 17, 16, 16, 13, 16, 18, 15, 17, 17, 13, 18],
     "trend": -1,
     "status": 1
@@ -266,7 +266,7 @@
   {
     "name": "Dylan Shiel",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [28, 30, 23, 11, 29, 21, 8, 5, 19, 23, 30, 25, 21, 23],
     "trend": 1,
     "status": 0
@@ -282,7 +282,7 @@
   {
     "name": "Adam Treloar",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [10, 28, 20, 27],
     "trend": -1,
     "status": 0
@@ -330,7 +330,7 @@
   {
     "name": "Alex Sexton",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [8, 6, 1, 2, 3],
     "trend": 0,
     "status": 0
@@ -362,7 +362,7 @@
   {
     "name": "Jason Johannisen",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [19, 18, 16, 14, 24, 17, 20, 15, 10, 13, 20, 21, 17, 15, 25, 9],
     "trend": 1,
     "status": 0
@@ -394,7 +394,7 @@
   {
     "name": "Jack Viney",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [22, 22, 18, 25, 23, 21, 18, 30, 24, 20, 18, 19, 25, 21, 15, 19, 27, 27],
     "trend": -1,
     "status": 0
@@ -418,7 +418,7 @@
   {
     "name": "Taylor Duryea",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [8, 9, 16, 11, 10],
     "trend": 0,
     "status": 0
@@ -474,7 +474,7 @@
   {
     "name": "Jarrod Witts",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [8, 21, 13, 10, 11, 15, 11, 13, 11, 14, 10, 20, 10, 10, 12, 15, 11, 9, 18, 12],
     "trend": 1,
     "status": 1
@@ -482,7 +482,7 @@
   {
     "name": "Aidan Corr",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [4, 14, 8, 12, 18, 14, 18, 14, 17, 18],
     "trend": -1,
     "status": 1
@@ -514,7 +514,7 @@
   {
     "name": "Sean Lemmens",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [10],
     "trend": 0,
     "status": 0
@@ -538,7 +538,7 @@
   {
     "name": "Luke McDonald",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [9, 18, 27, 23, 18, 8, 9, 14, 13, 13, 12, 18, 15, 15, 20],
     "trend": 1,
     "status": 1
@@ -546,7 +546,7 @@
   {
     "name": "Zach Merrett",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [28, 24, 27, 19, 30, 29, 31, 40, 17, 29, 14, 28, 37, 20, 19, 35, 25, 26, 37, 34],
     "trend": -1,
     "status": 1
@@ -562,7 +562,7 @@
   {
     "name": "Jack Billings",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [14],
     "trend": 0,
     "status": 0
@@ -610,7 +610,7 @@
   {
     "name": "Marcus Bontempelli",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [33, 31, 33, 27, 35, 24, 37, 25, 18, 36, 14, 24, 23, 24, 28, 23, 22, 30],
     "trend": 1,
     "status": 1
@@ -626,7 +626,7 @@
   {
     "name": "Christian Salem",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [27, 30, 24, 30, 22, 25, 25, 23, 22, 16, 15, 14, 31, 20, 19, 14, 34, 23, 21, 18],
     "trend": 1,
     "status": 1
@@ -658,7 +658,7 @@
   {
     "name": "Rory Lobb",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [11, 7, 7, 13, 11, 12, 11, 15, 7, 21, 17, 15, 14, 11, 9, 11, 6, 14, 19, 12],
     "trend": -1,
     "status": 1
@@ -698,7 +698,7 @@
   {
     "name": "Nick Holman",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [6, 4, 2, 7, 1, 8, 12, 7, 13, 10, 12, 16, 10, 5, 8, 14],
     "trend": -1,
     "status": 0
@@ -730,7 +730,7 @@
   {
     "name": "Touk Miller",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [28, 18, 21, 20, 28, 25, 25, 11, 25, 24, 37, 20, 24, 30, 22, 25, 29, 24, 33, 27],
     "trend": 0,
     "status": 1
@@ -794,7 +794,7 @@
   {
     "name": "Kyle Langford",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [13, 14, 15, 3, 10, 11, 13, 10, 11],
     "trend": 1,
     "status": 1
@@ -802,7 +802,7 @@
   {
     "name": "Jake Lever",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [8, 14, 12, 9, 9, 12, 10, 22],
     "trend": 0,
     "status": 1
@@ -818,7 +818,7 @@
   {
     "name": "Bailey Dale",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [23, 34, 30, 22, 20, 33, 21, 13, 25, 23, 36, 30, 22, 49, 31, 31, 20, 32, 21, 26],
     "trend": 1,
     "status": 1
@@ -842,7 +842,7 @@
   {
     "name": "Peter Wright",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [11, 8, 10, 10, 14, 13, 11, 7, 9, 8, 11, 10, 15, 18, 16, 11, 15, 11, 17],
     "trend": 0,
     "status": 1
@@ -890,7 +890,7 @@
   {
     "name": "Caleb Daniel",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [22, 25, 23, 32, 18, 27, 28, 25, 26, 24, 23, 29, 30, 25, 18, 23, 22, 24, 32, 25],
     "trend": -1,
     "status": 1
@@ -898,7 +898,7 @@
   {
     "name": "Jayden Laverde",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [11, 13, 15, 22, 16, 13, 20, 9, 18, 19, 10, 15, 17, 18],
     "trend": -1,
     "status": 1
@@ -906,7 +906,7 @@
   {
     "name": "James Harmes",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [21, 13, 18, 16, 27, 13, 20, 22, 0, 24, 22, 14, 16],
     "trend": 0,
     "status": 0
@@ -930,7 +930,7 @@
   {
     "name": "Lachie Weller",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [13, 17, 26, 17, 17, 13, 13, 19, 14, 17, 12, 14, 2, 20, 23, 14, 10, 10, 21],
     "trend": 1,
     "status": 1
@@ -954,7 +954,7 @@
   {
     "name": "Ed Langdon",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [14, 22, 18, 11, 14, 21, 18, 25, 11, 17, 4, 13, 31, 25, 21, 18, 28, 22, 25, 15],
     "trend": 0,
     "status": 1
@@ -970,7 +970,7 @@
   {
     "name": "Daniel Rioli",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [16, 13, 17, 11, 22, 19, 17, 19, 16, 27, 17, 21, 24, 18, 21, 11, 16, 26, 20, 21],
     "trend": -1,
     "status": 1
@@ -986,7 +986,7 @@
   {
     "name": "Clayton Oliver",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [30, 28, 27, 28, 23, 26, 21, 23, 24, 26, 30, 16, 31, 23, 13, 22, 25, 24, 30, 31],
     "trend": 1,
     "status": 1
@@ -1002,7 +1002,7 @@
   {
     "name": "Darcy Parish",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [31, 26, 31],
     "trend": 0,
     "status": 1
@@ -1058,7 +1058,7 @@
   {
     "name": "Jade Gresham",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [14, 12, 19, 20, 12, 17, 1, 9, 9, 19, 13, 10, 16, 12, 5, 18, 20, 11, 12],
     "trend": 1,
     "status": 1
@@ -1114,7 +1114,7 @@
   {
     "name": "Darcy Tucker",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [0, 15, 21, 20, 19, 16, 2],
     "trend": -1,
     "status": 0
@@ -1130,7 +1130,7 @@
   {
     "name": "Christian Petracca",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [28, 28, 23, 23, 21, 23, 31, 23, 32, 17, 27, 22, 28, 31, 26, 29, 28, 25, 27, 21],
     "trend": 1,
     "status": 1
@@ -1154,7 +1154,7 @@
   {
     "name": "Mason Redman",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [22, 34, 36, 24, 20, 23, 22, 17, 26, 15, 27, 32, 21, 17, 18, 22, 22, 18, 19],
     "trend": 1,
     "status": 1
@@ -1170,7 +1170,7 @@
   {
     "name": "Bailey Williams",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [16, 20, 20, 15, 26, 18, 15, 17, 18, 25, 27, 18, 12, 19, 21, 21, 20, 30, 19, 16],
     "trend": 0,
     "status": 1
@@ -1178,7 +1178,7 @@
   {
     "name": "Sam Collins",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [12, 13, 9, 11, 9, 14, 18, 10, 9, 15, 8, 10, 16, 15, 10, 15, 11, 6, 9, 10],
     "trend": 0,
     "status": 1
@@ -1210,7 +1210,7 @@
   {
     "name": "Matthew Kennedy",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [23, 22, 24, 23, 23, 21, 6, 25, 15, 25, 29, 29, 25, 31, 19, 26, 26, 22, 27, 26],
     "trend": 1,
     "status": 1
@@ -1282,7 +1282,7 @@
   {
     "name": "Brayden Fiorini",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [17, 14, 20, 27, 15, 22, 24, 32, 28, 21, 20, 17, 22, 25, 19, 19, 16, 19],
     "trend": -1,
     "status": 1
@@ -1330,7 +1330,7 @@
   {
     "name": "Andrew McGrath",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [21, 30, 35, 23, 26, 22, 20, 22, 12, 22, 19, 23, 15, 31, 25, 35, 18, 18, 25, 26],
     "trend": 1,
     "status": 1
@@ -1338,7 +1338,7 @@
   {
     "name": "Ben Ainsworth",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [10, 5, 17, 13, 11, 12, 11, 27, 12, 11, 14, 10, 16, 3, 13, 15, 8, 14, 12, 15],
     "trend": -1,
     "status": 1
@@ -1354,7 +1354,7 @@
   {
     "name": "Jy Simpkin",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [33, 24, 24, 28, 21, 16, 16, 18, 11, 23, 23, 20, 17, 21, 19, 20, 24, 22, 31, 24],
     "trend": 1,
     "status": 1
@@ -1394,7 +1394,7 @@
   {
     "name": "Griffin Logue",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [14, 16, 13, 12, 13, 17, 12, 13, 10, 8, 10, 9, 9, 11, 13, 6],
     "trend": 1,
     "status": 1
@@ -1418,7 +1418,7 @@
   {
     "name": "Zac Fisher",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [9, 10, 13, 14, 6, 10, 27],
     "trend": -1,
     "status": 0
@@ -1426,7 +1426,7 @@
   {
     "name": "Ben Long",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [4, 9, 12, 13, 8, 13, 14, 11, 8, 12, 8, 10, 10, 8, 11, 11, 10, 15, 9, 13],
     "trend": -1,
     "status": 1
@@ -1474,7 +1474,7 @@
   {
     "name": "Tim English",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [15, 20, 18, 20, 22, 10, 20, 13, 16, 24, 18, 20, 10, 26, 13, 27, 23, 17, 18, 19],
     "trend": 0,
     "status": 1
@@ -1538,7 +1538,7 @@
   {
     "name": "Cameron Zurhaar",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [2, 10, 10, 10, 12, 13, 10, 8, 11, 8, 10, 7, 9, 15, 9, 11, 11, 9, 12, 8],
     "trend": -1,
     "status": 1
@@ -1554,7 +1554,7 @@
   {
     "name": "Nick Larkey",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [7, 9, 14, 7, 12, 11, 9, 10, 7, 10, 12, 7, 12, 9, 11, 10, 8],
     "trend": 0,
     "status": 1
@@ -1578,7 +1578,7 @@
   {
     "name": "Will Setterfield",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [18, 22, 17, 31, 17, 23, 19, 26, 28, 21, 19, 20, 21],
     "trend": -1,
     "status": 0
@@ -1626,7 +1626,7 @@
   {
     "name": "Ben McKay",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [8, 15, 12, 3, 4, 8, 16, 10, 5, 7],
     "trend": 1,
     "status": 1
@@ -1690,7 +1690,7 @@
   {
     "name": "Luke Davies-Uniacke",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [31, 40, 20, 21, 21, 26, 6, 28, 30, 27, 18, 26, 27, 32, 28, 25, 25, 26, 25, 19],
     "trend": 1,
     "status": 1
@@ -1698,7 +1698,7 @@
   {
     "name": "Aaron Naughton",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [9, 7, 17, 20, 15, 10, 11, 14, 18, 8, 8, 9, 10, 11, 8, 19, 14, 12, 8, 9],
     "trend": -1,
     "status": 1
@@ -1706,7 +1706,7 @@
   {
     "name": "Bayley Fritsch",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [17, 8, 14, 17, 11, 20, 21, 10, 9, 20, 17, 15, 13, 7, 4, 7, 8, 10, 17, 15],
     "trend": -1,
     "status": 1
@@ -1762,7 +1762,7 @@
   {
     "name": "Ed Richards",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [21, 25, 31, 21, 24, 27, 29, 26, 16, 27, 25, 25, 28, 27, 31, 30, 27, 23, 29, 23],
     "trend": 0,
     "status": 1
@@ -1786,7 +1786,7 @@
   {
     "name": "Nick Coffield",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [14, 12, 9, 16],
     "trend": -1,
     "status": 0
@@ -1810,7 +1810,7 @@
   {
     "name": "Matt Guelfi",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [5, 13, 8, 9, 3, 11, 14, 7, 12, 9, 10, 9],
     "trend": 0,
     "status": 1
@@ -1834,7 +1834,7 @@
   {
     "name": "Charlie Spargo",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [2, 4, 13, 13, 14, 7, 19, 12, 1, 11],
     "trend": -1,
     "status": 0
@@ -1850,7 +1850,7 @@
   {
     "name": "Charlie Ballard",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [6],
     "trend": 0,
     "status": 1
@@ -1874,7 +1874,7 @@
   {
     "name": "Jordan Ridley",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [9, 23, 20, 18, 9, 18, 16, 26, 22, 9],
     "trend": 0,
     "status": 0
@@ -1914,7 +1914,7 @@
   {
     "name": "Wil Powell",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [12, 18, 23, 21, 21, 11, 17, 26, 16, 7, 20, 17, 17, 20, 10, 11, 18, 19, 13, 14],
     "trend": 0,
     "status": 1
@@ -1922,7 +1922,7 @@
   {
     "name": "Harrison Petty",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [5, 11, 15, 11, 5, 4, 7, 9, 8, 7, 10, 4, 9, 10, 10, 5, 11, 7, 16],
     "trend": 1,
     "status": 1
@@ -2058,7 +2058,7 @@
   {
     "name": "Tom Sparrow",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [15, 23, 8, 14, 15, 9, 12, 10, 11, 15, 11, 11, 16, 11, 7, 16, 13, 5, 5, 14],
     "trend": 1,
     "status": 1
@@ -2082,7 +2082,7 @@
   {
     "name": "Xavier Duursma",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [17, 19, 24, 14, 21, 20, 22, 16, 11, 20, 20, 12, 27, 20, 19, 25, 19, 24, 17, 29],
     "trend": 1,
     "status": 1
@@ -2154,7 +2154,7 @@
   {
     "name": "Bailey Scott",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [10, 17, 6, 5, 18, 5, 3, 3, 12, 12, 17, 18],
     "trend": 1,
     "status": 0
@@ -2210,7 +2210,7 @@
   {
     "name": "Oskar Baker",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [20, 16, 21, 14, 13, 15, 20, 14, 5],
     "trend": 1,
     "status": 1
@@ -2234,7 +2234,7 @@
   {
     "name": "Ben King",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [6, 11, 8, 5, 6, 9, 10, 8, 4, 8, 6, 9, 7, 4, 7, 4, 6, 10, 2, 11],
     "trend": 0,
     "status": 1
@@ -2250,7 +2250,7 @@
   {
     "name": "Callum Coleman-Jones",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [0],
     "trend": 0,
     "status": 1
@@ -2258,7 +2258,7 @@
   {
     "name": "Ryan Gardner",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [5],
     "trend": 0,
     "status": 0
@@ -2274,7 +2274,7 @@
   {
     "name": "John Noble",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [22, 20, 32, 27, 18, 24, 30, 31, 20, 30, 29, 29, 21, 12, 22, 27, 36, 23, 26, 30],
     "trend": 0,
     "status": 1
@@ -2298,7 +2298,7 @@
   {
     "name": "Rhylee West",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [17, 13, 11, 7, 16, 14, 10, 13, 11, 18, 16, 11, 13, 19, 16, 15, 7, 10, 24, 15],
     "trend": 0,
     "status": 1
@@ -2314,7 +2314,7 @@
   {
     "name": "Jye Caldwell",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [15, 32, 28, 26, 30, 29, 17, 22, 23, 27, 36],
     "trend": 0,
     "status": 1
@@ -2330,7 +2330,7 @@
   {
     "name": "Kade Chandler",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [15, 15, 10, 18, 13, 14, 15, 18, 11, 16, 14, 12, 16, 11, 14, 26, 18, 9, 11, 11],
     "trend": -1,
     "status": 1
@@ -2354,7 +2354,7 @@
   {
     "name": "Noah Anderson",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [26, 32, 34, 21, 32, 19, 38, 33, 27, 32, 30, 27, 42, 19, 39, 36, 35, 28, 27, 21],
     "trend": 1,
     "status": 1
@@ -2362,7 +2362,7 @@
   {
     "name": "Connor Budarick",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [11, 10, 10, 8, 10, 14, 14, 22, 24, 7, 12, 9, 3, 9, 3, 17, 8, 14, 17],
     "trend": -1,
     "status": 1
@@ -2370,7 +2370,7 @@
   {
     "name": "Matt Rowell",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [23, 34, 31, 21, 25, 30, 27, 37, 30, 32, 15, 24, 34, 24, 27, 24, 29, 20, 16, 16],
     "trend": 0,
     "status": 1
@@ -2402,7 +2402,7 @@
   {
     "name": "Kysaiah Pickett",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [16, 10, 22, 26, 19, 23, 20, 24, 25, 16, 15, 12, 24, 21, 17, 14, 18, 24, 23, 22],
     "trend": -1,
     "status": 1
@@ -2418,7 +2418,7 @@
   {
     "name": "Trent Rivers",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [22, 20, 22, 18, 25, 27, 17, 23, 27, 13, 22, 14, 17, 24, 23, 25, 28, 26, 22, 13],
     "trend": 0,
     "status": 1
@@ -2434,7 +2434,7 @@
   {
     "name": "Laitham Vandermeer",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [11, 4, 0, 5, 13, 17, 9, 11, 12, 11, 13, 15, 9, 15, 6, 5, 11, 14, 16],
     "trend": -1,
     "status": 0
@@ -2458,7 +2458,7 @@
   {
     "name": "Tristan Xerri",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [25, 22, 11, 7, 17, 18, 12, 13, 22, 17, 19, 19, 25, 23, 14, 9, 18, 17, 20, 17],
     "trend": 1,
     "status": 1
@@ -2482,7 +2482,7 @@
   {
     "name": "Dylan Stephens",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [22, 22, 14, 20, 17, 10, 15, 16, 11, 13, 27, 19, 23, 18, 22, 25, 15, 21, 21, 18],
     "trend": 1,
     "status": 1
@@ -2522,7 +2522,7 @@
   {
     "name": "Sam Draper",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [14, 22, 9, 10, 12],
     "trend": 1,
     "status": 1
@@ -2602,7 +2602,7 @@
   {
     "name": "Sam Flanders",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [20, 14, 20, 8, 16, 15, 18, 28, 18, 24, 28, 29, 7, 16, 19, 13, 10, 21, 21, 13],
     "trend": 0,
     "status": 1
@@ -2626,7 +2626,7 @@
   {
     "name": "Tom Fullarton",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [3, 6],
     "trend": 0,
     "status": 0
@@ -2698,7 +2698,7 @@
   {
     "name": "Jy Farrar",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [8, 9, 8, 5, 12, 9, 11, 13],
     "trend": -1,
     "status": 1
@@ -2714,7 +2714,7 @@
   {
     "name": "Lachlan McNeil",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [4, 5, 7, 11, 7, 7, 0, 3, 14, 15, 4, 13, 15, 10, 16, 7, 18, 10, 12, 6],
     "trend": -1,
     "status": 1
@@ -2746,7 +2746,7 @@
   {
     "name": "Harrison Jones",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [7, 12, 9, 7, 13, 9, 14],
     "trend": 0,
     "status": 0
@@ -2770,7 +2770,7 @@
   {
     "name": "Harry Sharp",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [1, 8, 2, 10, 2, 8, 10, 7, 10, 8, 4, 4, 3, 3, 5, 12, 10, 9],
     "trend": -1,
     "status": 1
@@ -2794,7 +2794,7 @@
   {
     "name": "Tom Powell",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [16, 22, 11, 24, 24, 24, 27, 25, 14, 34, 23, 30, 28, 24, 16, 28, 19, 19, 20, 22],
     "trend": -1,
     "status": 1
@@ -2826,7 +2826,7 @@
   {
     "name": "Jaxon Prior",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [13, 17, 20, 14, 19, 17, 10, 14, 6, 15, 28, 13, 14, 23, 17, 23, 13, 9, 18, 12],
     "trend": 1,
     "status": 1
@@ -2858,7 +2858,7 @@
   {
     "name": "Will Phillips",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [17, 20, 16, 15, 12, 10, 11],
     "trend": 1,
     "status": 0
@@ -2866,7 +2866,7 @@
   {
     "name": "Archie Perkins",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [12, 19, 13, 15, 10, 8, 16, 9, 10, 7, 11, 15, 24, 14, 15, 15, 14, 12, 17, 17],
     "trend": 1,
     "status": 1
@@ -2922,7 +2922,7 @@
   {
     "name": "Zach Reid",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [15, 15, 27, 15, 16, 8, 21, 16, 10, 11],
     "trend": 1,
     "status": 1
@@ -2946,7 +2946,7 @@
   {
     "name": "Caleb Poulter",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [10, 13, 11, 1, 4, 10, 17],
     "trend": 1,
     "status": 0
@@ -2954,7 +2954,7 @@
   {
     "name": "Nick Bryan",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [3, 12, 14, 10],
     "trend": 0,
     "status": 0
@@ -2962,7 +2962,7 @@
   {
     "name": "Buku Khamis",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [2, 6, 4, 7, 13, 14, 6, 8, 8, 9, 12, 11, 10, 14],
     "trend": -1,
     "status": 1
@@ -2970,7 +2970,7 @@
   {
     "name": "Malcolm Rosas",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [2, 2, 9, 10],
     "trend": -1,
     "status": 1
@@ -3002,7 +3002,7 @@
   {
     "name": "Riley Garcia",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [9, 18, 7, 15, 19, 14, 13, 18],
     "trend": -1,
     "status": 0
@@ -3042,7 +3042,7 @@
   {
     "name": "Lachlan Bramble",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [14, 14, 17, 15, 23, 19, 21, 20, 28, 23, 17, 15, 3, 14, 16, 15, 14, 25, 22, 16],
     "trend": -1,
     "status": 1
@@ -3082,7 +3082,7 @@
   {
     "name": "Sam Durham",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [13, 28, 18, 22, 27, 11, 22, 27, 27, 8, 26, 24, 21, 25, 19, 19, 28, 28, 21, 23],
     "trend": 0,
     "status": 1
@@ -3106,7 +3106,7 @@
   {
     "name": "Joel Jeffrey",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [18, 19, 20, 9, 15, 14, 26, 32, 22, 15, 32, 18, 17, 25, 15, 27, 12, 17, 20, 14],
     "trend": 0,
     "status": 1
@@ -3114,7 +3114,7 @@
   {
     "name": "Jake Bowey",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [24, 27, 21, 25, 13, 26, 16, 26, 25, 21, 22, 17, 17, 22, 28, 18, 32, 29, 23, 20],
     "trend": 1,
     "status": 0
@@ -3162,7 +3162,7 @@
   {
     "name": "Charlie Comben",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [12, 12, 14, 14, 13, 7, 8, 14, 6, 18, 10, 21, 12, 7, 15, 10, 15, 13, 16, 8],
     "trend": 0,
     "status": 1
@@ -3178,7 +3178,7 @@
   {
     "name": "Alex Davies",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [12, 19, 17, 15, 11, 18, 14, 30],
     "trend": 0,
     "status": 1
@@ -3218,7 +3218,7 @@
   {
     "name": "Nic Martin",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [5, 22, 21, 26, 32, 29, 35, 25, 38, 21, 17, 26, 28, 20, 20, 24],
     "trend": -1,
     "status": 0
@@ -3362,7 +3362,7 @@
   {
     "name": "Ben Hobbs",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [14, 10, 10, 18, 19, 16, 8, 19, 9, 15, 15, 12, 20, 15, 20, 21, 14, 13],
     "trend": -1,
     "status": 0
@@ -3370,7 +3370,7 @@
   {
     "name": "Paul Curtis",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [11, 15, 10, 9, 6, 12, 7, 11, 10, 12, 8, 12, 16, 12, 14, 14, 9, 22, 13],
     "trend": 1,
     "status": 1
@@ -3410,7 +3410,7 @@
   {
     "name": "Luke Cleary",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [11, 16, 14, 13, 17, 16, 11, 10, 10, 18, 15, 13, 11, 16, 12, 8],
     "trend": 0,
     "status": 0
@@ -3458,7 +3458,7 @@
   {
     "name": "Daniel Turner",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [13, 10, 16, 12, 9, 10, 7, 20, 12, 15, 12, 14, 16, 11, 16, 19, 5, 8, 7],
     "trend": 0,
     "status": 1
@@ -3474,7 +3474,7 @@
   {
     "name": "Brynn Teakle",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [4, 7, 13, 17],
     "trend": -1,
     "status": 0
@@ -3506,7 +3506,7 @@
   {
     "name": "Jackson Archer",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [1, 12, 11],
     "trend": 0,
     "status": 0
@@ -3530,7 +3530,7 @@
   {
     "name": "Jai Culley",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [10, 15, 16, 13],
     "trend": 0,
     "status": 1
@@ -3554,7 +3554,7 @@
   {
     "name": "Mac Andrew",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [9, 20, 14, 20, 16, 16, 24, 18, 14, 13, 12, 8, 4, 11, 20, 13, 9, 13, 19, 13],
     "trend": -1,
     "status": 1
@@ -3562,7 +3562,7 @@
   {
     "name": "Jye Menzie",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [10, 7, 11, 2, 4, 3, 10, 15, 10, 3],
     "trend": 1,
     "status": 0
@@ -3570,7 +3570,7 @@
   {
     "name": "Kallan Dawson",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [8, 8, 7],
     "trend": 0,
     "status": 0
@@ -3578,7 +3578,7 @@
   {
     "name": "Sam Darcy",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [14, 10, 18, 13, 16, 13, 14, 12, 10, 19, 19, 3, 16, 21, 17, 15, 12],
     "trend": 0,
     "status": 1
@@ -3618,7 +3618,7 @@
   {
     "name": "Harry Sheezel",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [32, 54, 31, 33, 27, 27, 29, 22, 20, 30, 32, 28, 20, 20, 29, 32, 30, 32, 27, 34],
     "trend": 1,
     "status": 1
@@ -3658,7 +3658,7 @@
   {
     "name": "Bailey Laurie",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [3],
     "trend": 0,
     "status": 1
@@ -3666,7 +3666,7 @@
   {
     "name": "Judd McVee",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [17, 10, 17, 11, 12, 15, 9, 14, 12, 13, 11, 20, 21, 13, 20, 7, 22],
     "trend": 1,
     "status": 1
@@ -3674,7 +3674,7 @@
   {
     "name": "Bodhi Uwland",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [19, 13, 19, 17, 18, 16, 15, 15, 10, 19, 16, 13, 17, 11, 15, 19, 22, 18, 20, 17],
     "trend": 0,
     "status": 1
@@ -3738,7 +3738,7 @@
   {
     "name": "Arthur Jones",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [6, 3, 7, 2],
     "trend": 0,
     "status": 1
@@ -3746,7 +3746,7 @@
   {
     "name": "Jacob van Rooyen",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [12, 13, 11, 15, 10, 10, 17, 12, 8, 8, 10, 7, 10, 7, 9, 6],
     "trend": 0,
     "status": 1
@@ -3762,7 +3762,7 @@
   {
     "name": "Bailey Humphrey",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [14, 10, 15, 14, 10, 19, 12, 14, 18, 12, 23, 12, 12, 11, 19, 24, 20, 18, 7, 14],
     "trend": 0,
     "status": 1
@@ -3770,7 +3770,7 @@
   {
     "name": "Ned Moyle",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [9, 3, 4],
     "trend": 0,
     "status": 1
@@ -3829,7 +3829,7 @@
     "opponent": "Geelong",
     "disposals": [5, 12, 10, 9],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Jhye Clark",
@@ -3842,7 +3842,7 @@
   {
     "name": "James O'Donnell",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [8, 17, 10, 9, 11, 8, 14, 10, 9, 7, 8, 13, 9, 16, 18, 10, 3, 13, 7, 10],
     "trend": 1,
     "status": 1
@@ -3850,7 +3850,7 @@
   {
     "name": "George Wardlaw",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [18, 25, 18, 17, 2, 11, 17, 9, 11, 14, 19, 20, 21],
     "trend": 1,
     "status": 1
@@ -3922,7 +3922,7 @@
   {
     "name": "Taj Woewodin",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [10],
     "trend": 0,
     "status": 0
@@ -3930,7 +3930,7 @@
   {
     "name": "Cooper Harvey",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [6, 4, 9, 9, 4, 13, 15],
     "trend": -1,
     "status": 0
@@ -3954,7 +3954,7 @@
   {
     "name": "Robert Hansen Jr",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [8, 4, 8, 11, 10, 9, 7, 4, 7, 6, 15, 15],
     "trend": 0,
     "status": 1
@@ -3962,7 +3962,7 @@
   {
     "name": "Elijah Tsatas",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [19, 6, 16, 25, 18],
     "trend": -1,
     "status": 0
@@ -4018,7 +4018,7 @@
   {
     "name": "Blake Howes",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [12, 8, 5, 12, 16, 5, 15, 11, 14, 9, 11, 12],
     "trend": -1,
     "status": 1
@@ -4026,7 +4026,7 @@
   {
     "name": "Caleb Windsor",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [21, 16, 9, 16, 1, 10, 6, 9, 24, 6, 23, 20, 20, 16, 13, 16, 16],
     "trend": 1,
     "status": 1
@@ -4066,7 +4066,7 @@
   {
     "name": "Zane Duursma",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [8, 8, 12, 6, 1, 7, 9, 3, 5, 9],
     "trend": 1,
     "status": 1
@@ -4074,7 +4074,7 @@
   {
     "name": "Colby McKercher",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [23, 29, 27, 36, 32, 22, 29, 32, 34, 29, 27, 35, 13, 22, 13, 11, 19, 16, 8, 22],
     "trend": -1,
     "status": 1
@@ -4082,7 +4082,7 @@
   {
     "name": "Toby Pink",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [10, 10, 5, 15, 15, 8, 11, 10, 7, 13, 10, 10, 13, 12, 6, 13, 12],
     "trend": -1,
     "status": 1
@@ -4114,7 +4114,7 @@
   {
     "name": "Harvey Gallagher",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [5, 9, 9, 16, 16],
     "trend": -1,
     "status": 1
@@ -4122,7 +4122,7 @@
   {
     "name": "Ryley Sanders",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [6, 12, 11, 17, 20, 16, 23, 25, 21, 17, 13, 24, 19, 17, 20, 32, 22, 20, 24, 16],
     "trend": -1,
     "status": 1
@@ -4146,7 +4146,7 @@
   {
     "name": "Jed Walter",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [4, 6, 10, 8, 4, 7, 10, 9, 4, 5, 8, 6, 3, 8, 10, 12],
     "trend": 0,
     "status": 1
@@ -4178,7 +4178,7 @@
   {
     "name": "Sam Clohesy",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [11, 13, 15, 11, 16, 12, 18, 22, 23, 17, 16, 10, 21, 9],
     "trend": -1,
     "status": 1
@@ -4186,7 +4186,7 @@
   {
     "name": "Will Graham",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [11, 11, 7, 9, 11, 10, 16, 9],
     "trend": 0,
     "status": 1
@@ -4194,7 +4194,7 @@
   {
     "name": "Ethan Read",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [4, 7, 12, 11, 6, 9, 13, 8, 9, 7, 6, 7, 10, 5, 5, 7, 1, 12, 3, 7],
     "trend": 0,
     "status": 1
@@ -4210,7 +4210,7 @@
   {
     "name": "Koltyn Tholstrup",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [6, 7, 6, 10, 9, 2, 14, 4, 6],
     "trend": 0,
     "status": 1
@@ -4234,7 +4234,7 @@
   {
     "name": "Jake Rogers",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [6, 0, 7, 10, 4, 14, 2, 9, 13],
     "trend": -1,
     "status": 1
@@ -4250,7 +4250,7 @@
   {
     "name": "Riley Hardeman",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [2, 14, 19, 18, 12, 20, 5, 15, 11, 10, 28, 12, 15, 15, 12, 3, 10],
     "trend": 0,
     "status": 0
@@ -4322,7 +4322,7 @@
   {
     "name": "Joel Freijah",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [18, 17, 22, 14, 15, 14, 14, 12, 23, 18, 21, 20, 15, 21, 24, 19, 27, 24, 17, 15],
     "trend": 1,
     "status": 1
@@ -4354,7 +4354,7 @@
   {
     "name": "Wil Dawson",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [7, 4, 7, 8, 9],
     "trend": 0,
     "status": 1
@@ -4378,7 +4378,7 @@
   {
     "name": "Nate Caddy",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [12, 4, 12, 15, 9, 10, 10, 11, 8, 16, 15, 19, 8, 7, 13, 5, 12],
     "trend": -1,
     "status": 1
@@ -4506,7 +4506,7 @@
   {
     "name": "Archie Roberts",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [29, 28, 27, 33, 21, 26, 17, 31, 20, 25, 27, 14, 20, 34, 29, 27, 26, 25, 17, 28],
     "trend": 1,
     "status": 1
@@ -4594,7 +4594,7 @@
   {
     "name": "Isaac Kako",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [17, 19, 12, 11, 7, 7, 8, 12, 17, 12, 13, 10, 11, 15, 7, 6, 12, 10, 9, 9],
     "trend": 1,
     "status": 1
@@ -4626,7 +4626,7 @@
   {
     "name": "Sam Davidson",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [12, 15, 7, 12, 12, 27, 19, 8, 14, 16, 15, 14, 15, 21, 14, 18, 31, 15, 10],
     "trend": -1,
     "status": 1
@@ -4634,7 +4634,7 @@
   {
     "name": "Josh Dolan",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [10, 8, 12, 5, 3, 12, 11, 8, 5, 7, 5],
     "trend": 1,
     "status": 1
@@ -4642,7 +4642,7 @@
   {
     "name": "Jacob Konstanty",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [14, 12, 6, 12, 4, 7, 13, 8, 11, 9, 12, 10, 8, 7, 12, 5, 6, 4, 8, 16],
     "trend": 1,
     "status": 1
@@ -4650,7 +4650,7 @@
   {
     "name": "Finn O'Sullivan",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [17, 21, 15, 18, 16, 20, 15, 11, 10, 18, 14, 17, 13, 10, 8, 11, 12, 10, 15, 16],
     "trend": 1,
     "status": 1
@@ -4698,7 +4698,7 @@
   {
     "name": "Jack Henderson",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [4, 9, 11, 13, 13],
     "trend": -1,
     "status": 1
@@ -4706,7 +4706,7 @@
   {
     "name": "Matthew Jefferson",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [9, 9, 5, 6, 4, 0, 5],
     "trend": 1,
     "status": 0
@@ -4714,7 +4714,7 @@
   {
     "name": "Aidan Johnson",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [4, 6, 5, 5, 7],
     "trend": 0,
     "status": 0
@@ -4722,7 +4722,7 @@
   {
     "name": "Harvey Langford",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [26, 11, 14, 16, 10, 20, 24, 17, 19, 19, 19, 10, 21, 19, 22, 25, 21, 17, 23, 11],
     "trend": 0,
     "status": 1
@@ -4730,7 +4730,7 @@
   {
     "name": "Xavier Lindsay",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [9, 7, 6, 18, 12, 8, 8, 14, 22, 19, 15, 11, 21, 16, 14, 2, 20, 22],
     "trend": -1,
     "status": 1
@@ -4746,7 +4746,7 @@
   {
     "name": "Thomas Edwards",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [6, 8],
     "trend": 0,
     "status": 1
@@ -4786,7 +4786,7 @@
   {
     "name": "Saad El-Hawli",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [7, 16, 8, 13, 9, 21, 1, 18, 7],
     "trend": 0,
     "status": 1
@@ -4826,7 +4826,7 @@
   {
     "name": "Matt Whitlock",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [2, 10],
     "trend": 0,
     "status": 0
@@ -4874,7 +4874,7 @@
   {
     "name": "Cooper Hynes",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [2, 11, 10, 10, 2, 3, 9, 3],
     "trend": 1,
     "status": 1
@@ -4898,7 +4898,7 @@
   {
     "name": "Jedd Busslinger",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [8, 16, 8, 7, 15, 2, 12],
     "trend": 0,
     "status": 1
@@ -4914,7 +4914,7 @@
   {
     "name": "Finnbar Maley",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [8, 3, 8, 9, 6, 4, 8],
     "trend": 0,
     "status": 1
@@ -4946,7 +4946,7 @@
   {
     "name": "Archer Day-Wicks",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [10, 6, 9, 12, 6],
     "trend": 0,
     "status": 1
@@ -4954,7 +4954,7 @@
   {
     "name": "Lewis Hayes",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [16],
     "trend": 0,
     "status": 0
@@ -4978,7 +4978,7 @@
   {
     "name": "Angus Clarke",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [21, 27, 18, 17, 11, 9, 17, 6, 13, 21, 10, 14, 11, 16],
     "trend": 1,
     "status": 0
@@ -5010,7 +5010,7 @@
   {
     "name": "Zak Johnson",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [10, 9, 5, 11, 16, 9, 29, 18, 11],
     "trend": -1,
     "status": 1
@@ -5018,7 +5018,7 @@
   {
     "name": "Leonardo Lombard",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [2, 7, 2, 8],
     "trend": -1,
     "status": 1
@@ -5050,7 +5050,7 @@
   {
     "name": "Luamon Lual",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [7, 12, 10, 3, 10, 11, 4, 7, 10, 9, 9, 11],
     "trend": 1,
     "status": 0
@@ -5058,7 +5058,7 @@
   {
     "name": "Lachlan Blakiston",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [10, 7, 14, 6, 11, 10, 15, 10, 11, 11, 4],
     "trend": 0,
     "status": 1
@@ -5066,7 +5066,7 @@
   {
     "name": "Archer May",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [7, 8, 7, 11, 8, 14, 7],
     "trend": -1,
     "status": 1
@@ -5090,7 +5090,7 @@
   {
     "name": "Vigo Visentini",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [10, 15],
     "trend": 0,
     "status": 0
@@ -5162,7 +5162,7 @@
   {
     "name": "Oscar Adams",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [9, 2, 5, 14, 5, 7, 3, 9],
     "trend": -1,
     "status": 1
@@ -5186,7 +5186,7 @@
   {
     "name": "Oskar Smartt",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [1, 6, 9, 6],
     "trend": 0,
     "status": 0
@@ -5202,7 +5202,7 @@
   {
     "name": "Liam McMahon",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [8, 2, 8, 11, 4, 8, 5],
     "trend": 0,
     "status": 0
@@ -5210,7 +5210,7 @@
   {
     "name": "Zac Banch",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [9, 6, 10, 2],
     "trend": 1,
     "status": 1
@@ -5218,7 +5218,7 @@
   {
     "name": "Ben Jepson",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [12],
     "trend": 0,
     "status": 0
@@ -5234,7 +5234,7 @@
   {
     "name": "Jayden Nguyen",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [8, 10, 10, 5, 5],
     "trend": 1,
     "status": 1
@@ -5250,7 +5250,7 @@
   {
     "name": "Geordie Payne",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [2, 8, 6],
     "trend": 0,
     "status": 0
@@ -5258,7 +5258,7 @@
   {
     "name": "Cooper Trembath",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [11, 9, 6],
     "trend": 0,
     "status": 1
@@ -5266,7 +5266,7 @@
   {
     "name": "Jed Adams",
     "team": "Melbourne",
-    "opponent": "Gold Coast",
+    "opponent": "Brisbane",
     "disposals": [5],
     "trend": 0,
     "status": 0
@@ -5274,7 +5274,7 @@
   {
     "name": "Rhys Unwin",
     "team": "Essendon",
-    "opponent": "Western Bulldogs",
+    "opponent": "Melbourne",
     "disposals": [5, 6, 9],
     "trend": 0,
     "status": 0
@@ -5298,7 +5298,7 @@
   {
     "name": "Jordan Croft",
     "team": "Western Bulldogs",
-    "opponent": "Essendon",
+    "opponent": "Hawthorn",
     "disposals": [13, 10],
     "trend": 0,
     "status": 1
@@ -5330,7 +5330,7 @@
   {
     "name": "Lachlan Gulbin",
     "team": "Gold Coast",
-    "opponent": "Melbourne",
+    "opponent": "Sydney",
     "disposals": [9],
     "trend": 0,
     "status": 1
