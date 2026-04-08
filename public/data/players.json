@@ -349,7 +349,7 @@
     "opponent": "Adelaide",
     "disposals": [15, 23, 14, 23, 19, 13, 23, 12, 18, 17, 19, 17, 20, 18, 17, 16, 20, 12, 21, 12],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Sam Frost",
@@ -2221,7 +2221,7 @@
     "opponent": "Carlton",
     "disposals": [9, 7, 13, 21, 16, 14, 12, 1, 14, 12, 23, 15, 16, 13, 20, 21, 11, 10, 19, 25],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Darcy Fort",
@@ -4397,7 +4397,7 @@
     "opponent": "Carlton",
     "disposals": [14],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Jack Hutchinson",
