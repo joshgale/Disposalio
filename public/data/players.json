@@ -26,7 +26,7 @@
   {
     "name": "Todd Goldstein",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [5, 16, 14, 17, 7, 8, 16, 9, 21, 9, 8, 11, 8, 19, 11, 13],
     "trend": 0,
     "status": 0
@@ -138,7 +138,7 @@
   {
     "name": "Dion Prestia",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [29, 14, 18, 23, 23, 21, 28, 20, 29, 19, 21, 31],
     "trend": -1,
     "status": 1
@@ -178,7 +178,7 @@
   {
     "name": "Tom Lynch",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [11, 13, 12, 2, 8, 8, 10, 13, 17, 7, 13, 14, 5, 7, 7, 13],
     "trend": 1,
     "status": 1
@@ -266,7 +266,7 @@
   {
     "name": "Dylan Shiel",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [28, 30, 23, 11, 29, 21, 8, 5, 19, 23, 30, 25, 21, 23],
     "trend": 1,
     "status": 0
@@ -458,7 +458,7 @@
   {
     "name": "Nick Vlastuin",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [2, 19, 20, 25, 25, 23, 21, 15, 28, 15, 19, 24, 14, 18, 20, 22, 27, 20, 16, 13],
     "trend": -1,
     "status": 1
@@ -546,7 +546,7 @@
   {
     "name": "Zach Merrett",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [28, 24, 27, 19, 30, 29, 31, 40, 17, 29, 14, 28, 37, 20, 19, 35, 25, 26, 37, 34],
     "trend": -1,
     "status": 1
@@ -714,7 +714,7 @@
   {
     "name": "Kamdyn McIntosh",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [15, 17, 14, 14, 15, 18, 20, 17, 7, 20, 4, 4, 14, 13, 19, 12, 12, 17, 19, 8],
     "trend": 0,
     "status": 0
@@ -794,7 +794,7 @@
   {
     "name": "Kyle Langford",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [13, 14, 15, 3, 10, 11, 13, 10, 11],
     "trend": 1,
     "status": 1
@@ -842,7 +842,7 @@
   {
     "name": "Peter Wright",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [11, 8, 10, 10, 14, 13, 11, 7, 9, 8, 11, 10, 15, 18, 16, 11, 15, 11, 17],
     "trend": 0,
     "status": 1
@@ -866,7 +866,7 @@
   {
     "name": "Toby Nankervis",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [14, 21, 15, 11, 18, 17, 18, 18, 17, 9, 17, 15, 15, 18, 14, 15, 10, 17, 15, 21],
     "trend": 0,
     "status": 1
@@ -898,7 +898,7 @@
   {
     "name": "Jayden Laverde",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [11, 13, 15, 22, 16, 13, 20, 9, 18, 19, 10, 15, 17, 18],
     "trend": -1,
     "status": 1
@@ -1002,7 +1002,7 @@
   {
     "name": "Darcy Parish",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [31, 26, 31],
     "trend": 0,
     "status": 1
@@ -1058,7 +1058,7 @@
   {
     "name": "Jade Gresham",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [14, 12, 19, 20, 12, 17, 1, 9, 9, 19, 13, 10, 16, 12, 5, 18, 20, 11, 12],
     "trend": 1,
     "status": 1
@@ -1074,7 +1074,7 @@
   {
     "name": "Jayden Short",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [26, 14, 19, 23, 25, 14, 25, 15, 25, 16, 25, 25, 26, 21, 19],
     "trend": 0,
     "status": 1
@@ -1154,7 +1154,7 @@
   {
     "name": "Mason Redman",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [22, 34, 36, 24, 20, 23, 22, 17, 26, 15, 27, 32, 21, 17, 18, 22, 22, 18, 19],
     "trend": 1,
     "status": 1
@@ -1162,7 +1162,7 @@
   {
     "name": "Jacob Hopper",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [29, 27, 20, 25, 33, 33, 27, 27, 28, 19, 22, 29, 23, 27, 24, 28, 23, 27, 33, 32],
     "trend": -1,
     "status": 1
@@ -1218,7 +1218,7 @@
   {
     "name": "Nathan Broad",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [6, 8, 15, 15, 16, 13, 17, 14, 13, 13, 17, 22, 12, 16, 13, 9, 15, 19, 19, 18],
     "trend": -1,
     "status": 1
@@ -1330,7 +1330,7 @@
   {
     "name": "Andrew McGrath",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [21, 30, 35, 23, 26, 22, 20, 22, 12, 22, 19, 23, 15, 31, 25, 35, 18, 18, 25, 26],
     "trend": 1,
     "status": 1
@@ -1362,7 +1362,7 @@
   {
     "name": "Tim Taranto",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [27, 19, 23, 30, 34, 25, 19, 28, 25, 23, 23, 30, 27, 26, 22, 35, 26, 29, 20, 17],
     "trend": -1,
     "status": 1
@@ -1578,7 +1578,7 @@
   {
     "name": "Will Setterfield",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [18, 22, 17, 31, 17, 23, 19, 26, 28, 21, 19, 20, 21],
     "trend": -1,
     "status": 1
@@ -1626,7 +1626,7 @@
   {
     "name": "Ben McKay",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [8, 15, 12, 3, 4, 8, 16, 10, 5, 7],
     "trend": 1,
     "status": 1
@@ -1810,7 +1810,7 @@
   {
     "name": "Matt Guelfi",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [5, 13, 8, 9, 3, 11, 14, 7, 12, 9, 10, 9],
     "trend": 0,
     "status": 1
@@ -1874,7 +1874,7 @@
   {
     "name": "Jordan Ridley",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [9, 23, 20, 18, 9, 18, 16, 26, 22, 9],
     "trend": 0,
     "status": 1
@@ -2026,7 +2026,7 @@
   {
     "name": "Noah Balta",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [13, 7, 12, 8, 14, 7, 14, 12, 12, 11, 16, 14, 14],
     "trend": 0,
     "status": 1
@@ -2082,7 +2082,7 @@
   {
     "name": "Xavier Duursma",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [17, 19, 24, 14, 21, 20, 22, 16, 11, 20, 20, 12, 27, 20, 19, 25, 19, 24, 17, 29],
     "trend": 1,
     "status": 1
@@ -2178,7 +2178,7 @@
   {
     "name": "Jack Ross",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [20, 19, 26, 23, 24, 25, 21, 16, 23, 19, 6, 17, 18, 21, 17, 13, 24, 17, 12, 19],
     "trend": 0,
     "status": 1
@@ -2314,7 +2314,7 @@
   {
     "name": "Jye Caldwell",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [15, 32, 28, 26, 30, 29, 17, 22, 23, 27, 36],
     "trend": 0,
     "status": 1
@@ -2522,7 +2522,7 @@
   {
     "name": "Sam Draper",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [14, 22, 9, 10, 12],
     "trend": 1,
     "status": 1
@@ -2642,7 +2642,7 @@
   {
     "name": "Thomson Dow",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [11, 17, 14, 18, 28, 18, 20, 21, 20, 15, 22],
     "trend": -1,
     "status": 0
@@ -2746,7 +2746,7 @@
   {
     "name": "Harrison Jones",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [7, 12, 9, 7, 13, 9, 14],
     "trend": 0,
     "status": 0
@@ -2762,7 +2762,7 @@
   {
     "name": "Jacob Koschitzke",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [9, 6],
     "trend": 0,
     "status": 0
@@ -2826,7 +2826,7 @@
   {
     "name": "Jaxon Prior",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [13, 17, 20, 14, 19, 17, 10, 14, 6, 15, 28, 13, 14, 23, 17, 23, 13, 9, 18, 12],
     "trend": 1,
     "status": 1
@@ -2866,7 +2866,7 @@
   {
     "name": "Archie Perkins",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [12, 19, 13, 15, 10, 8, 16, 9, 10, 7, 11, 15, 24, 14, 15, 15, 14, 12, 17, 17],
     "trend": 1,
     "status": 1
@@ -2890,7 +2890,7 @@
   {
     "name": "Rhyan Mansell",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [15, 12, 17, 11, 12, 15, 5, 22, 7, 10, 2, 11, 11, 11, 13, 10, 7, 8, 16, 10],
     "trend": 1,
     "status": 1
@@ -2922,7 +2922,7 @@
   {
     "name": "Zach Reid",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [15, 15, 27, 15, 16, 8, 21, 16, 10, 11],
     "trend": 1,
     "status": 1
@@ -2954,7 +2954,7 @@
   {
     "name": "Nick Bryan",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [3, 12, 14, 10],
     "trend": 0,
     "status": 1
@@ -2978,7 +2978,7 @@
   {
     "name": "Hugo Ralphsmith",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [8, 17, 8, 12, 23, 17, 16, 10, 12, 11, 11, 16],
     "trend": -1,
     "status": 1
@@ -3050,7 +3050,7 @@
   {
     "name": "Samson Ryan",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [11, 4],
     "trend": 0,
     "status": 1
@@ -3082,7 +3082,7 @@
   {
     "name": "Sam Durham",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [13, 28, 18, 22, 27, 11, 22, 27, 27, 8, 26, 24, 21, 25, 19, 19, 28, 28, 21, 23],
     "trend": 0,
     "status": 1
@@ -3130,7 +3130,7 @@
   {
     "name": "Maurice Rioli",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [5, 11, 9, 7, 8, 13, 9, 19, 4, 5, 4, 10, 6],
     "trend": 0,
     "status": 1
@@ -3170,7 +3170,7 @@
   {
     "name": "Ben Miller",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [16, 13, 15, 13, 13, 10, 14, 13, 11, 11, 14, 11, 14, 12, 10, 9, 14, 7, 12, 10],
     "trend": 1,
     "status": 1
@@ -3186,7 +3186,7 @@
   {
     "name": "Josh Gibcus",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [7],
     "trend": 0,
     "status": 1
@@ -3218,7 +3218,7 @@
   {
     "name": "Nic Martin",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [5, 22, 21, 26, 32, 29, 35, 25, 38, 21, 17, 26, 28, 20, 20, 24],
     "trend": -1,
     "status": 0
@@ -3362,7 +3362,7 @@
   {
     "name": "Ben Hobbs",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [14, 10, 10, 18, 19, 16, 8, 19, 9, 15, 15, 12, 20, 15, 20, 21, 14, 13],
     "trend": -1,
     "status": 0
@@ -3522,7 +3522,7 @@
   {
     "name": "Tyler Sonsie",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [21, 12, 20, 13, 28, 21, 14, 17, 12, 10, 18, 17, 12, 12, 10, 7],
     "trend": 0,
     "status": 1
@@ -3562,7 +3562,7 @@
   {
     "name": "Jye Menzie",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [10, 7, 11, 2, 4, 3, 10, 15, 10, 3],
     "trend": 1,
     "status": 0
@@ -3714,7 +3714,7 @@
   {
     "name": "Tylar Young",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [17, 13, 17, 11, 8, 14, 18],
     "trend": 1,
     "status": 1
@@ -3906,7 +3906,7 @@
   {
     "name": "Sam Banks",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [30, 14, 19, 26, 19, 24, 20, 26, 25, 18, 21, 25, 29, 25, 28, 15, 18, 20, 21, 12],
     "trend": -1,
     "status": 1
@@ -3914,7 +3914,7 @@
   {
     "name": "Jacob Bauer",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [3, 2, 4, 8, 9],
     "trend": -1,
     "status": 0
@@ -3962,7 +3962,7 @@
   {
     "name": "Elijah Tsatas",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [19, 6, 16, 25, 18],
     "trend": -1,
     "status": 1
@@ -4002,7 +4002,7 @@
   {
     "name": "James Trezise",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [13, 18, 10, 19, 12, 8, 9, 2, 7, 15, 13, 17, 21, 15, 9, 19],
     "trend": 1,
     "status": 1
@@ -4010,7 +4010,7 @@
   {
     "name": "Tom Brown",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [20, 12, 5, 14, 13, 14, 23, 15, 11, 8, 17, 12, 21, 11, 16, 14, 8, 14, 24, 12],
     "trend": -1,
     "status": 1
@@ -4034,7 +4034,7 @@
   {
     "name": "Seth Campbell",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [19, 10, 9, 11, 11, 13, 19, 11, 15, 13, 13, 11, 15, 19, 11, 12, 15, 9, 15, 12],
     "trend": 0,
     "status": 1
@@ -4154,7 +4154,7 @@
   {
     "name": "Mykelti Lefau",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [2],
     "trend": 0,
     "status": 1
@@ -4202,7 +4202,7 @@
   {
     "name": "Kane McAuliffe",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [19, 18, 21, 22, 12],
     "trend": 0,
     "status": 1
@@ -4346,7 +4346,7 @@
   {
     "name": "Steely Green",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [2, 0, 4, 11, 4, 7, 5, 7, 9, 8, 5, 8, 6, 11, 9, 14, 10, 13, 7],
     "trend": -1,
     "status": 1
@@ -4378,7 +4378,7 @@
   {
     "name": "Nate Caddy",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [12, 4, 12, 15, 9, 10, 10, 11, 8, 16, 15, 19, 8, 7, 13, 5, 12],
     "trend": -1,
     "status": 1
@@ -4386,7 +4386,7 @@
   {
     "name": "Kaleb Smith",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [14, 14, 13, 20, 3, 11, 7, 7],
     "trend": 1,
     "status": 1
@@ -4466,7 +4466,7 @@
   {
     "name": "Jacob Blight",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [17, 12, 7, 10, 18, 12, 6],
     "trend": 0,
     "status": 0
@@ -4506,7 +4506,7 @@
   {
     "name": "Archie Roberts",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [29, 28, 27, 33, 21, 26, 17, 31, 20, 25, 27, 14, 20, 34, 29, 27, 26, 25, 17, 28],
     "trend": 1,
     "status": 1
@@ -4562,7 +4562,7 @@
   {
     "name": "Harry Armstrong",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [8, 3, 8, 4, 11, 2, 12, 5],
     "trend": 0,
     "status": 1
@@ -4570,7 +4570,7 @@
   {
     "name": "Sam Lalor",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [0, 2, 16, 15, 12, 10, 16, 24, 9, 10, 18],
     "trend": -1,
     "status": 1
@@ -4578,7 +4578,7 @@
   {
     "name": "Luke Trainor",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [10, 14, 19, 6, 16, 16, 9, 15, 19, 9, 8, 12, 18, 21, 16, 1, 22, 19, 18, 10],
     "trend": 1,
     "status": 1
@@ -4594,7 +4594,7 @@
   {
     "name": "Isaac Kako",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [17, 19, 12, 11, 7, 7, 8, 12, 17, 12, 13, 10, 11, 15, 7, 6, 12, 10, 9, 9],
     "trend": 1,
     "status": 1
@@ -4746,7 +4746,7 @@
   {
     "name": "Thomas Edwards",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [6, 8],
     "trend": 0,
     "status": 1
@@ -4762,7 +4762,7 @@
   {
     "name": "Liam Fawcett",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [5],
     "trend": 0,
     "status": 1
@@ -4786,7 +4786,7 @@
   {
     "name": "Saad El-Hawli",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [7, 16, 8, 13, 9, 21, 1, 18, 7],
     "trend": 0,
     "status": 1
@@ -4858,7 +4858,7 @@
   {
     "name": "Jonty Faull",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [0, 8, 11, 8, 9, 7, 9, 6, 8, 9, 3, 12, 7, 7, 6, 6],
     "trend": -1,
     "status": 1
@@ -4890,7 +4890,7 @@
   {
     "name": "Campbell Gray",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [13, 11, 5],
     "trend": 0,
     "status": 1
@@ -4946,7 +4946,7 @@
   {
     "name": "Archer Day-Wicks",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [10, 6, 9, 12, 6],
     "trend": 0,
     "status": 1
@@ -4954,7 +4954,7 @@
   {
     "name": "Lewis Hayes",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [16],
     "trend": 0,
     "status": 0
@@ -4962,7 +4962,7 @@
   {
     "name": "Thomas Sims",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [3, 8, 6, 7, 7, 6, 3, 13, 9, 7, 6],
     "trend": -1,
     "status": 0
@@ -4978,7 +4978,7 @@
   {
     "name": "Angus Clarke",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [21, 27, 18, 17, 11, 9, 17, 6, 13, 21, 10, 14, 11, 16],
     "trend": 1,
     "status": 0
@@ -5010,7 +5010,7 @@
   {
     "name": "Zak Johnson",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [10, 9, 5, 11, 16, 9, 29, 18, 11],
     "trend": -1,
     "status": 1
@@ -5050,7 +5050,7 @@
   {
     "name": "Luamon Lual",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [7, 12, 10, 3, 10, 11, 4, 7, 10, 9, 9, 11],
     "trend": 1,
     "status": 0
@@ -5058,7 +5058,7 @@
   {
     "name": "Lachlan Blakiston",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [10, 7, 14, 6, 11, 10, 15, 10, 11, 11, 4],
     "trend": 0,
     "status": 1
@@ -5066,7 +5066,7 @@
   {
     "name": "Archer May",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [7, 8, 7, 11, 8, 14, 7],
     "trend": -1,
     "status": 1
@@ -5090,7 +5090,7 @@
   {
     "name": "Vigo Visentini",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [10, 15],
     "trend": 0,
     "status": 0
@@ -5106,7 +5106,7 @@
   {
     "name": "Jasper Alger",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [3, 3, 11, 3],
     "trend": 0,
     "status": 1
@@ -5178,7 +5178,7 @@
   {
     "name": "Taj Hotton",
     "team": "Richmond",
-    "opponent": "Essendon",
+    "opponent": "Sydney",
     "disposals": [12, 16, 10, 14, 11, 16, 10],
     "trend": 0,
     "status": 0
@@ -5186,7 +5186,7 @@
   {
     "name": "Oskar Smartt",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [1, 6, 9, 6],
     "trend": 0,
     "status": 0
@@ -5202,7 +5202,7 @@
   {
     "name": "Liam McMahon",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [8, 2, 8, 11, 4, 8, 5],
     "trend": 0,
     "status": 0
@@ -5234,7 +5234,7 @@
   {
     "name": "Jayden Nguyen",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [8, 10, 10, 5, 5],
     "trend": 1,
     "status": 1
@@ -5274,7 +5274,7 @@
   {
     "name": "Rhys Unwin",
     "team": "Essendon",
-    "opponent": "Richmond",
+    "opponent": "Waalitj Marawar",
     "disposals": [5, 6, 9],
     "trend": 0,
     "status": 0
