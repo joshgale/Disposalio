@@ -74,7 +74,7 @@
   {
     "name": "Nat Fyfe",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [5, 1, 8, 7, 0, 11, 9, 7],
     "trend": -1,
     "status": 0
@@ -274,7 +274,7 @@
   {
     "name": "Harry Cunningham",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [14, 15, 16, 14, 9, 12, 8, 16, 16, 10, 20],
     "trend": 1,
     "status": 1
@@ -314,7 +314,7 @@
   {
     "name": "Taylor Adams",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [6, 11, 12, 8],
     "trend": 0,
     "status": 0
@@ -378,7 +378,7 @@
   {
     "name": "Dane Rampe",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [15, 13, 16, 25, 13, 9, 5, 9, 18, 13, 8, 8, 10, 12, 15, 19, 16, 13, 12, 21],
     "trend": 1,
     "status": 1
@@ -386,7 +386,7 @@
   {
     "name": "Jaeger O'Meara",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [9, 11, 12, 26, 15, 16, 23, 9, 8, 15, 21, 15, 32, 31],
     "trend": -1,
     "status": 1
@@ -506,7 +506,7 @@
   {
     "name": "Brodie Grundy",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [13, 14, 39, 24, 22, 20, 20, 23, 22, 19, 23, 23, 19, 23, 8, 9, 26, 23, 20, 11],
     "trend": 0,
     "status": 1
@@ -554,7 +554,7 @@
   {
     "name": "James Aish",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [6, 14, 3],
     "trend": 0,
     "status": 0
@@ -602,7 +602,7 @@
   {
     "name": "Jake Lloyd",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [22, 21, 20, 17, 25, 14, 15, 20, 22, 22, 11, 17, 23, 22, 15, 28, 22, 18, 24, 25],
     "trend": 1,
     "status": 1
@@ -746,7 +746,7 @@
   {
     "name": "Isaac Heeney",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [26, 15, 23, 28, 22, 34, 21, 21, 21, 28, 25, 23, 22, 38, 19, 22, 20, 22, 28, 19],
     "trend": -1,
     "status": 1
@@ -810,7 +810,7 @@
   {
     "name": "Alex Pearce",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [13, 8, 13, 9, 8, 12, 4, 13, 18, 10, 12, 14, 13, 8, 11, 11],
     "trend": 0,
     "status": 1
@@ -834,7 +834,7 @@
   {
     "name": "Joel Hamling",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [6, 7, 5, 11, 9, 5, 3, 6, 8, 7, 9, 7, 12, 11],
     "trend": 0,
     "status": 1
@@ -962,7 +962,7 @@
   {
     "name": "Oscar McDonald",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [12, 5, 11, 7, 13, 9, 9],
     "trend": 0,
     "status": 1
@@ -1034,7 +1034,7 @@
   {
     "name": "Callum Mills",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [29, 25, 22, 23, 22, 28, 19, 26, 22, 27, 25, 17],
     "trend": 1,
     "status": 1
@@ -1042,7 +1042,7 @@
   {
     "name": "Tom Papley",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [27, 20, 10, 13, 14, 8, 17, 16, 19, 8, 13],
     "trend": 1,
     "status": 1
@@ -1194,7 +1194,7 @@
   {
     "name": "Corey Wagner",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [6, 11, 10, 18, 22, 9, 16, 14, 18, 18, 13, 14, 13, 16, 6, 20, 24],
     "trend": -1,
     "status": 1
@@ -1250,7 +1250,7 @@
   {
     "name": "Aaron Francis",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [10, 5, 7, 5, 10, 3, 8, 11, 15, 14],
     "trend": -1,
     "status": 0
@@ -1306,7 +1306,7 @@
   {
     "name": "Oliver Florent",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [17, 18, 19, 12, 7, 13, 11, 17, 16, 10, 18, 23, 18, 11, 17, 16],
     "trend": 1,
     "status": 1
@@ -1378,7 +1378,7 @@
   {
     "name": "Will Hayward",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [11, 8, 9, 15, 13, 12, 12, 11, 16, 10, 12, 18, 14, 10, 6, 9, 13, 15, 7, 11],
     "trend": -1,
     "status": 1
@@ -1434,7 +1434,7 @@
   {
     "name": "Lewis Melican",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [6, 6, 10, 10, 5, 11, 6, 12, 17, 11, 10, 12, 8, 12, 5, 13, 11],
     "trend": -1,
     "status": 1
@@ -1466,7 +1466,7 @@
   {
     "name": "Shai Bolton",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [15, 19, 9, 19, 16, 25, 14, 19, 17, 15, 15, 21, 20, 18, 24, 28, 7, 22, 20, 19],
     "trend": -1,
     "status": 1
@@ -1482,7 +1482,7 @@
   {
     "name": "Luke Ryan",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [23, 20, 18, 17, 17, 15, 25, 22, 21, 18, 32, 19, 18, 22, 18, 30, 24, 23, 17, 16],
     "trend": 0,
     "status": 1
@@ -1490,7 +1490,7 @@
   {
     "name": "Brennan Cox",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [8, 11, 8, 7, 9, 10, 13, 8, 6, 12, 13, 10, 10, 13, 6, 13, 14, 14, 7, 18],
     "trend": 0,
     "status": 1
@@ -1498,7 +1498,7 @@
   {
     "name": "Sean Darcy",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [12, 7, 12, 15, 10, 11, 15, 12, 10, 17, 7, 3, 7, 8, 8, 4, 9],
     "trend": -1,
     "status": 1
@@ -1674,7 +1674,7 @@
   {
     "name": "Bailey Banfield",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [11, 20, 15, 15, 16, 17, 20, 5, 15, 12, 13, 13, 13, 17, 5, 5, 14, 13, 18, 10],
     "trend": 0,
     "status": 1
@@ -1682,7 +1682,7 @@
   {
     "name": "Andrew Brayshaw",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [32, 19, 22, 23, 23, 32, 21, 29, 24, 25, 29, 31, 30, 21, 30, 34, 18, 37, 33, 31],
     "trend": 0,
     "status": 1
@@ -1858,7 +1858,7 @@
   {
     "name": "Tom McCartin",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [22, 13, 18, 11, 12, 15, 11, 19, 20, 11, 14, 15, 10, 10, 7, 11, 12, 15, 12, 7],
     "trend": 1,
     "status": 1
@@ -1906,7 +1906,7 @@
   {
     "name": "Quinton Narkle",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [7, 3],
     "trend": 0,
     "status": 0
@@ -1978,7 +1978,7 @@
   {
     "name": "Ben Paton",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [3, 8, 10, 12],
     "trend": -1,
     "status": 0
@@ -1994,7 +1994,7 @@
   {
     "name": "Sam Switkowski",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [17, 9, 12, 11, 18, 14, 16, 14, 17, 11, 16, 19, 7, 10, 16, 6, 7],
     "trend": -1,
     "status": 1
@@ -2042,7 +2042,7 @@
   {
     "name": "Jordan Clark",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [20, 23, 24, 20, 30, 21, 24, 31, 13, 31, 33, 26, 30, 20, 21, 33, 16, 27, 22, 23],
     "trend": -1,
     "status": 1
@@ -2114,7 +2114,7 @@
   {
     "name": "Nick Blakey",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [20, 23, 20, 28, 21, 29, 23, 19, 24, 22, 34, 11, 19, 13, 22, 18, 17, 27, 18, 14],
     "trend": -1,
     "status": 1
@@ -2170,7 +2170,7 @@
   {
     "name": "Justin McInerney",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [19, 27, 13, 22, 20, 20, 17, 22, 23, 27, 24, 22, 24, 29, 17, 23, 16],
     "trend": -1,
     "status": 1
@@ -2186,7 +2186,7 @@
   {
     "name": "James Rowbottom",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [11, 14, 17, 12, 9, 17, 15, 11, 14, 14, 15, 20, 12, 19, 21, 14, 20, 23, 22, 20],
     "trend": 0,
     "status": 1
@@ -2242,7 +2242,7 @@
   {
     "name": "Peter Ladhams",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [17, 6, 4, 11, 9, 10, 9, 15, 14, 12],
     "trend": -1,
     "status": 1
@@ -2290,7 +2290,7 @@
   {
     "name": "Hayden McLean",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [10, 9, 10, 0, 12, 6, 11, 10, 6, 14, 11, 7, 7, 10, 11, 16, 10, 8, 9],
     "trend": 0,
     "status": 1
@@ -2410,7 +2410,7 @@
   {
     "name": "Hayden Young",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [28, 16, 2, 23, 11, 8, 20, 25, 18],
     "trend": -1,
     "status": 1
@@ -2426,7 +2426,7 @@
   {
     "name": "Luke Jackson",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [18, 12, 11, 23, 27, 21, 16, 13, 13, 15, 21, 15, 27, 21, 21, 19, 11, 16, 17, 20],
     "trend": -1,
     "status": 1
@@ -2450,7 +2450,7 @@
   {
     "name": "Caleb Serong",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [35, 24, 26, 28, 19, 20, 37, 29, 11, 18, 35, 36, 27, 29, 36, 25, 15, 32, 27, 29],
     "trend": 1,
     "status": 1
@@ -2490,7 +2490,7 @@
   {
     "name": "Chad Warner",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [17, 23, 26, 26, 19, 26, 20, 24, 19, 17, 22, 19, 27, 30, 25, 24, 24, 21, 24, 10],
     "trend": 0,
     "status": 1
@@ -2498,7 +2498,7 @@
   {
     "name": "Michael Frederick",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [7, 13, 13, 17, 10, 10, 8, 13, 14, 14, 5, 8, 7, 10, 16, 13, 10, 11, 8, 13],
     "trend": 0,
     "status": 1
@@ -2570,7 +2570,7 @@
   {
     "name": "Sam Wicks",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [12, 21, 18, 9, 18, 12, 11, 14, 18, 7, 13, 10, 20, 13, 18, 19, 13, 14, 15, 14],
     "trend": 1,
     "status": 1
@@ -2578,7 +2578,7 @@
   {
     "name": "Jeremy Sharp",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [12, 14, 4, 11, 3, 13, 17, 5, 18, 21, 21, 9, 18, 19],
     "trend": -1,
     "status": 1
@@ -2690,7 +2690,7 @@
   {
     "name": "Joel Amartey",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [8, 15, 10, 3, 8, 8, 8, 11],
     "trend": 1,
     "status": 1
@@ -2722,7 +2722,7 @@
   {
     "name": "James Jordon",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [17, 9, 20, 12, 14, 13, 11, 9, 11, 16, 17, 11, 10, 14, 9, 18, 11, 17, 16, 16],
     "trend": 1,
     "status": 1
@@ -2778,7 +2778,7 @@
   {
     "name": "Errol Gulden",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [36, 23, 29, 30, 32, 20, 23, 25, 30, 18],
     "trend": 1,
     "status": 1
@@ -2786,7 +2786,7 @@
   {
     "name": "Braeden Campbell",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [13, 12, 9, 17, 7, 12, 11, 12, 8, 15, 12, 8, 9, 15, 15, 11, 15, 16, 15, 15],
     "trend": 0,
     "status": 0
@@ -2842,7 +2842,7 @@
   {
     "name": "Heath Chapman",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [15, 14, 7, 10, 8, 10, 10, 12, 13, 9, 22, 13, 13, 21, 15, 17, 8, 7, 26, 15],
     "trend": 1,
     "status": 1
@@ -2906,7 +2906,7 @@
   {
     "name": "Josh Treacy",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [15, 13, 13, 10, 13, 9, 9, 13, 11, 8, 11, 14, 15, 12, 11, 11, 6, 15, 6, 11],
     "trend": 1,
     "status": 1
@@ -3026,7 +3026,7 @@
   {
     "name": "Brandon Walker",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [5, 13],
     "trend": 0,
     "status": 1
@@ -3226,7 +3226,7 @@
   {
     "name": "Angus Sheldrick",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [10, 21, 26, 24, 12, 19, 18, 12, 16, 21, 19, 22, 26, 21, 13, 4, 13, 12, 3, 9],
     "trend": 1,
     "status": 1
@@ -3306,7 +3306,7 @@
   {
     "name": "Nathan O'Driscoll",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [12, 5, 12, 10, 8, 13, 18, 26, 17, 17, 12, 22, 25, 25],
     "trend": -1,
     "status": 1
@@ -3330,7 +3330,7 @@
   {
     "name": "Neil Erasmus",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [18, 20, 17, 26, 16, 6, 11, 17, 21, 12, 19, 17, 19, 4, 18, 14],
     "trend": 1,
     "status": 1
@@ -3394,7 +3394,7 @@
   {
     "name": "Jye Amiss",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [2, 10, 3, 5, 8, 10, 3, 8, 7, 4, 10, 7, 9, 9, 8, 12, 8, 6, 8, 2],
     "trend": 0,
     "status": 1
@@ -3442,7 +3442,7 @@
   {
     "name": "Matt Roberts",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [20, 17, 18, 8, 13, 19, 21, 23, 20, 26, 25, 28, 30, 24, 20, 25, 19, 26],
     "trend": 0,
     "status": 1
@@ -3754,7 +3754,7 @@
   {
     "name": "Matthew Johnson",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [14, 21, 20, 18, 18, 20, 18, 21, 14, 22, 21, 27, 13, 17, 13, 17, 17, 27],
     "trend": 0,
     "status": 1
@@ -3778,7 +3778,7 @@
   {
     "name": "Corey Warner",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [14, 6, 10, 14, 13, 11, 10, 18, 9, 13, 11, 14, 15, 10],
     "trend": -1,
     "status": 1
@@ -3890,7 +3890,7 @@
   {
     "name": "Jack Buller",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [14, 8, 10, 12, 10, 10, 7, 5, 6],
     "trend": 1,
     "status": 1
@@ -3938,7 +3938,7 @@
   {
     "name": "Karl Worner",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [14, 12, 13, 15, 15, 13, 15, 12, 16, 12, 18, 15, 10, 18, 8, 12, 15, 17, 15, 19],
     "trend": 0,
     "status": 1
@@ -4138,7 +4138,7 @@
   {
     "name": "Joshua Draper",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [8, 3, 3, 13, 11, 10, 10, 8, 4, 7, 9],
     "trend": -1,
     "status": 0
@@ -4170,7 +4170,7 @@
   {
     "name": "Caleb Mitchell",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [13],
     "trend": 0,
     "status": 0
@@ -4266,7 +4266,7 @@
   {
     "name": "Cooper Simpson",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [0, 14, 18],
     "trend": 0,
     "status": 0
@@ -4274,7 +4274,7 @@
   {
     "name": "Patrick Voss",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [9, 10, 7, 10, 10, 9, 12, 9, 6, 8, 13, 11, 7, 13, 11, 5, 10, 9, 12, 13],
     "trend": 0,
     "status": 1
@@ -4434,7 +4434,7 @@
   {
     "name": "Caiden Cleary",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [8, 8, 7, 4, 13, 14, 10, 8, 17, 13, 18, 12],
     "trend": -1,
     "status": 1
@@ -4522,7 +4522,7 @@
   {
     "name": "Liam Reidy",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [6],
     "trend": 0,
     "status": 1
@@ -4546,7 +4546,7 @@
   {
     "name": "Tom Hanily",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [2, 3, 3, 11, 13, 7, 12, 6],
     "trend": -1,
     "status": 1
@@ -4602,7 +4602,7 @@
   {
     "name": "Murphy Reid",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [20, 19, 13, 14, 10, 23, 14, 13, 15, 15, 13, 16, 14, 18, 15, 6, 15, 6, 17, 9],
     "trend": 1,
     "status": 1
@@ -4610,7 +4610,7 @@
   {
     "name": "Riley Bice",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [11, 6, 7, 2, 22, 2, 16, 11, 17, 12, 20, 22, 21, 26, 14, 12],
     "trend": -1,
     "status": 1
@@ -4717,7 +4717,7 @@
     "opponent": "Collingwood",
     "disposals": [4, 6, 5, 5, 7],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Harvey Langford",
@@ -4810,7 +4810,7 @@
   {
     "name": "Isaiah Dudley",
     "team": "Fremantle",
-    "opponent": "Sydney",
+    "opponent": "Port Adelaide",
     "disposals": [5, 2, 8, 10, 2, 10, 5, 12, 8, 7, 7, 4, 5, 6, 12, 10],
     "trend": -1,
     "status": 1
@@ -4981,7 +4981,7 @@
     "opponent": "Brisbane",
     "disposals": [21, 27, 18, 17, 11, 9, 17, 6, 13, 21, 10, 14, 11, 16],
     "trend": 1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Harry O'Farrell",
@@ -5226,7 +5226,7 @@
   {
     "name": "Jesse Dattoli",
     "team": "Sydney",
-    "opponent": "Fremantle",
+    "opponent": "Adelaide",
     "disposals": [7, 7, 13],
     "trend": 0,
     "status": 1
