@@ -34,7 +34,7 @@
   {
     "name": "Patrick Dangerfield",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [10, 31, 19, 17, 14, 19, 14, 19, 7, 13, 15, 11, 7, 3, 12, 29, 13, 15, 16, 20],
     "trend": 1,
     "status": 1
@@ -58,7 +58,7 @@
   {
     "name": "Mitch Duncan",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [0, 7, 6, 17, 19, 11, 15, 21, 20],
     "trend": -1,
     "status": 0
@@ -90,7 +90,7 @@
   {
     "name": "Rhys Stanley",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [6, 9, 14, 6, 7, 7, 8, 6, 21, 11, 11, 10, 9, 13, 2, 14, 9, 12, 11],
     "trend": 0,
     "status": 1
@@ -234,7 +234,7 @@
   {
     "name": "Jeremy Cameron",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [8, 16, 13, 20, 10, 15, 8, 22, 14, 5, 19, 8, 14, 6, 14, 14, 16, 15, 11, 14],
     "trend": 0,
     "status": 1
@@ -298,7 +298,7 @@
   {
     "name": "Bradley Hill",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [16, 22, 24, 17, 15, 23, 23, 13, 21, 16, 26, 22, 22, 19, 21, 33, 17, 22, 18, 22],
     "trend": 1,
     "status": 1
@@ -410,7 +410,7 @@
   {
     "name": "Mark Blicavs",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [11, 12, 20, 9, 12, 22, 19, 14, 15, 22, 11, 10, 17, 20, 8, 11, 16, 20, 9, 14],
     "trend": -1,
     "status": 1
@@ -434,7 +434,7 @@
   {
     "name": "Jack Macrae",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [7, 17, 26, 22, 24, 19, 20, 26, 26, 29, 22, 27, 23, 38, 26, 19, 17, 28, 31, 35],
     "trend": -1,
     "status": 1
@@ -490,7 +490,7 @@
   {
     "name": "Jimmy Webster",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [1, 5, 12, 12, 11, 17, 11, 21, 16, 16, 7, 8, 18, 11, 10],
     "trend": -1,
     "status": 0
@@ -522,7 +522,7 @@
   {
     "name": "Jack Martin",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [1, 8, 12, 13, 17, 13, 8, 11, 14, 25, 21, 15, 12],
     "trend": -1,
     "status": 1
@@ -650,7 +650,7 @@
   {
     "name": "Jed Bews",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [15, 11, 13, 17],
     "trend": 0,
     "status": 1
@@ -666,7 +666,7 @@
   {
     "name": "Zak Jones",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [19, 17, 13, 10, 26, 7, 20, 19, 18, 11, 13, 11, 20, 27, 11],
     "trend": 0,
     "status": 0
@@ -706,7 +706,7 @@
   {
     "name": "Mason Wood",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [4, 8, 19, 15, 17, 10, 24, 14, 15, 15, 16, 15, 16, 10, 8, 16, 16, 13, 16, 26],
     "trend": -1,
     "status": 1
@@ -762,7 +762,7 @@
   {
     "name": "Jack Sinclair",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [34, 23, 30, 26, 32, 33, 22, 24, 22, 19, 30, 25, 29, 38, 26, 19, 29, 21, 26, 25],
     "trend": 1,
     "status": 1
@@ -858,7 +858,7 @@
   {
     "name": "Jack Steele",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [18, 27, 17, 8, 13, 21, 25, 26, 22, 19, 22, 23, 33, 16, 20, 22, 29, 16, 20, 22],
     "trend": 1,
     "status": 1
@@ -938,7 +938,7 @@
   {
     "name": "Zaine Cordy",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [4],
     "trend": 0,
     "status": 0
@@ -1082,7 +1082,7 @@
   {
     "name": "Dougal Howard",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [11, 11, 11],
     "trend": 0,
     "status": 1
@@ -1298,7 +1298,7 @@
   {
     "name": "Dan Butler",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [4, 11, 6, 9, 4, 12],
     "trend": 0,
     "status": 1
@@ -1346,7 +1346,7 @@
   {
     "name": "Jack Bowes",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [16, 12, 16, 12, 1, 24, 24, 17, 7, 12, 15, 5, 15, 19, 17, 12, 18, 18, 19, 10],
     "trend": 0,
     "status": 1
@@ -1370,7 +1370,7 @@
   {
     "name": "Tom Stewart",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [7, 22, 23, 25, 18, 21, 13, 12, 29, 17, 22, 23, 23, 18, 21, 13, 15, 24, 2, 23],
     "trend": -1,
     "status": 1
@@ -1450,7 +1450,7 @@
   {
     "name": "Mark O'Connor",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [13, 7, 10, 9, 16, 16, 14, 8, 9, 15, 8, 22, 21, 15, 17, 28, 11, 11, 16, 8],
     "trend": -1,
     "status": 1
@@ -1514,7 +1514,7 @@
   {
     "name": "Zach Guthrie",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [16, 21, 14, 15, 17, 16, 18, 13, 16, 17, 25, 8, 20, 16, 13, 17, 21, 13, 16, 21],
     "trend": 0,
     "status": 1
@@ -1522,7 +1522,7 @@
   {
     "name": "Tyson Stengle",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [12, 15, 12, 16, 12, 10, 13, 13, 12, 15, 17, 11, 18, 15, 12, 13, 12, 8, 17, 7],
     "trend": 0,
     "status": 0
@@ -1570,7 +1570,7 @@
   {
     "name": "Rowan Marshall",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [21, 18, 21, 24, 15, 17, 16, 21, 22, 20, 23, 16, 11, 27, 19, 13, 18, 16, 12, 14],
     "trend": 0,
     "status": 1
@@ -1658,7 +1658,7 @@
   {
     "name": "Hunter Clark",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [22, 25, 20, 8, 6, 19, 16, 17, 14, 20, 19, 11, 6],
     "trend": 1,
     "status": 1
@@ -1778,7 +1778,7 @@
   {
     "name": "Jack Henry",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [12, 3, 13, 12, 18, 6, 11, 15, 16, 14, 14, 12, 8, 18, 9, 9, 7, 10, 12, 15],
     "trend": -1,
     "status": 1
@@ -1794,7 +1794,7 @@
   {
     "name": "Jack Higgins",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [11, 4, 8, 10, 10, 9, 9, 9, 15, 6, 8, 10, 6, 12, 8, 12, 8, 12, 6, 10],
     "trend": -1,
     "status": 1
@@ -2034,7 +2034,7 @@
   {
     "name": "Tom Atkins",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [20, 25, 17, 27, 21, 20, 17, 25, 22, 18, 17, 21, 18, 23, 15, 16, 23, 19, 21, 18],
     "trend": 0,
     "status": 1
@@ -2050,7 +2050,7 @@
   {
     "name": "Gryan Miers",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [16, 27, 19, 26, 18, 22, 30, 20, 26, 22, 29, 15, 25, 26, 26, 23, 27, 23, 11, 21],
     "trend": -1,
     "status": 1
@@ -2106,7 +2106,7 @@
   {
     "name": "Bailey Smith",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [29, 36, 22, 34, 30, 31, 30, 43, 23, 26, 28, 41, 38, 33, 30, 35, 34, 29, 28, 35],
     "trend": -1,
     "status": 1
@@ -2122,7 +2122,7 @@
   {
     "name": "Callum Wilkie",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [16, 10, 29, 17, 13, 16, 23, 9, 16, 20, 21, 31, 15, 24, 16, 24, 21, 22, 18, 17],
     "trend": 1,
     "status": 1
@@ -2202,7 +2202,7 @@
   {
     "name": "Liam Stocker",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [12, 10, 11, 9, 12, 8, 12, 10, 13, 14, 8, 11, 10, 15, 15, 14, 5],
     "trend": 0,
     "status": 1
@@ -2506,7 +2506,7 @@
   {
     "name": "Ryan Byrnes",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [8, 11, 17, 11, 18, 20, 20, 17, 22, 16, 18, 13, 23, 17, 18, 20, 17],
     "trend": -1,
     "status": 1
@@ -2514,7 +2514,7 @@
   {
     "name": "Brad Close",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [12, 15, 18, 8, 8, 15, 16, 11, 14, 14, 14, 9, 12, 17, 13, 8, 15, 7, 18, 10],
     "trend": 1,
     "status": 1
@@ -2610,7 +2610,7 @@
   {
     "name": "Liam Henry",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [4, 9, 9, 9, 12, 1],
     "trend": 0,
     "status": 1
@@ -2706,7 +2706,7 @@
   {
     "name": "Oliver Henry",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [4, 10, 10, 6, 9, 12, 7, 6, 2, 6, 9, 9, 9, 9, 9],
     "trend": 0,
     "status": 1
@@ -2789,7 +2789,7 @@
     "opponent": "Adelaide",
     "disposals": [13, 12, 9, 17, 7, 12, 11, 12, 8, 15, 12, 8, 9, 15, 15, 11, 15, 16, 15, 15],
     "trend": 0,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Tom Powell",
@@ -2874,7 +2874,7 @@
   {
     "name": "Max Holmes",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [33, 25, 23, 26, 21, 29, 35, 29, 32, 17, 36, 23, 36, 40, 27, 33, 22, 30, 21, 20],
     "trend": 0,
     "status": 1
@@ -2930,7 +2930,7 @@
   {
     "name": "Sam De Koning",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [10, 18, 9, 11, 14, 8, 12, 10, 11, 7, 13, 12, 12, 10, 21, 14, 16, 12, 14, 18],
     "trend": 1,
     "status": 1
@@ -3005,7 +3005,7 @@
     "opponent": "Gold Coast",
     "disposals": [9, 18, 7, 15, 19, 14, 13, 18],
     "trend": -1,
-    "status": 0
+    "status": 1
   },
   {
     "name": "Callum Brown",
@@ -3098,7 +3098,7 @@
   {
     "name": "Cooper Sharman",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [13, 17, 16, 6, 9, 10, 11, 9, 10, 10, 12, 14, 13, 6, 14, 16, 11, 8, 13, 13],
     "trend": 1,
     "status": 1
@@ -3194,7 +3194,7 @@
   {
     "name": "Mitch Owens",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [8, 10, 15, 13, 10, 14, 12, 9, 13, 25, 12, 14, 18, 17, 11, 12, 8, 14, 10],
     "trend": -1,
     "status": 1
@@ -3202,7 +3202,7 @@
   {
     "name": "Nasiah Wanganeen-Milera",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [23, 24, 33, 36, 34, 36, 24, 43, 28, 35, 31, 29, 36, 27, 30, 28, 32, 25, 24, 25],
     "trend": -1,
     "status": 1
@@ -3338,7 +3338,7 @@
   {
     "name": "Marcus Windhager",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [23, 26, 32, 20, 22, 22, 36, 27, 21, 15, 16, 28, 19, 19, 13, 21, 21, 21, 25, 18],
     "trend": 1,
     "status": 1
@@ -3378,7 +3378,7 @@
   {
     "name": "Oliver Dempsey",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [19, 14, 25, 17, 21, 12, 14, 16, 25, 18, 18, 10, 17, 14, 14, 15, 24, 19, 14, 11],
     "trend": 1,
     "status": 1
@@ -3386,7 +3386,7 @@
   {
     "name": "Jack Carroll",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [0, 5, 11],
     "trend": 0,
     "status": 1
@@ -3402,7 +3402,7 @@
   {
     "name": "Mitch Knevitt",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [3, 17, 7, 13, 4, 16, 21],
     "trend": -1,
     "status": 1
@@ -3450,7 +3450,7 @@
   {
     "name": "Shannon Neale",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [5, 3, 6, 10, 7, 15, 15, 7, 7, 14, 10, 13, 3, 8, 16, 11, 8, 8, 4, 8],
     "trend": -1,
     "status": 1
@@ -3698,7 +3698,7 @@
   {
     "name": "Anthony Caminiti",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [8, 6, 9, 8, 11, 13, 9, 9, 14, 11, 13, 17, 11, 16, 10, 12, 15, 11, 10, 17],
     "trend": -1,
     "status": 1
@@ -3706,7 +3706,7 @@
   {
     "name": "Mattaes Phillipou",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [3, 4, 3, 1, 23, 14, 12],
     "trend": -1,
     "status": 1
@@ -3834,7 +3834,7 @@
   {
     "name": "Jhye Clark",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [14, 14, 1, 6, 3, 12, 10, 12, 14, 5],
     "trend": 0,
     "status": 1
@@ -3858,7 +3858,7 @@
   {
     "name": "Oisin Mullin",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [5, 8, 7, 14, 9, 9, 10, 17, 10, 12, 10, 10, 13, 8, 9, 10, 8, 8, 9, 8],
     "trend": -1,
     "status": 1
@@ -3994,7 +3994,7 @@
   {
     "name": "Ted Clohesy",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [15, 4, 2, 1, 6, 5, 9, 13, 16],
     "trend": 0,
     "status": 0
@@ -4090,7 +4090,7 @@
   {
     "name": "Shaun Mannagh",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [16, 15, 15, 18, 19, 20, 26, 19, 24, 15, 20, 10, 14, 23, 18, 21, 21, 15, 18, 26],
     "trend": -1,
     "status": 1
@@ -4098,7 +4098,7 @@
   {
     "name": "Lance Collard",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [4, 4, 1, 6, 0, 6, 6, 8, 3, 9, 12, 6],
     "trend": -1,
     "status": 1
@@ -4106,7 +4106,7 @@
   {
     "name": "Darcy Wilson",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [23, 14, 11, 8, 11, 12, 14, 5, 17, 24, 13, 19, 17, 13, 19, 20, 17, 23],
     "trend": 1,
     "status": 1
@@ -4162,7 +4162,7 @@
   {
     "name": "Angus Hastie",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [7, 10, 8, 12, 14, 7, 4, 7, 12],
     "trend": 0,
     "status": 1
@@ -4218,7 +4218,7 @@
   {
     "name": "Hugo Garcia",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [12, 20, 20, 15, 15, 17, 24, 12, 11, 19, 4, 16, 23, 12, 23, 5, 18],
     "trend": 0,
     "status": 1
@@ -4226,7 +4226,7 @@
   {
     "name": "Connor O'Sullivan",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [12, 7, 10, 11, 12, 11, 11, 12, 12, 18, 10, 16, 13, 12, 20, 5, 12, 10, 17, 9],
     "trend": -1,
     "status": 1
@@ -4410,7 +4410,7 @@
   {
     "name": "Arie Schoenmaker",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [11, 19, 18],
     "trend": 0,
     "status": 0
@@ -4450,7 +4450,7 @@
   {
     "name": "Lawson Humphries",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [23, 8, 13, 10, 12, 11, 24, 8, 15, 13, 13, 15, 19, 15, 12, 19, 19, 13, 21, 16],
     "trend": 0,
     "status": 1
@@ -4514,7 +4514,7 @@
   {
     "name": "Angus McLennan",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [7],
     "trend": 0,
     "status": 0
@@ -4674,7 +4674,7 @@
   {
     "name": "Harry Boyd",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [12],
     "trend": 0,
     "status": 0
@@ -4682,7 +4682,7 @@
   {
     "name": "Max Hall",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [16, 20, 14, 14, 19, 21, 15, 27, 21, 12, 9, 15, 6, 13, 14, 15, 15, 13, 17, 8],
     "trend": -1,
     "status": 1
@@ -4690,7 +4690,7 @@
   {
     "name": "Liam O'Connell",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [9, 11, 6, 6, 0, 4, 7],
     "trend": 1,
     "status": 1
@@ -4770,7 +4770,7 @@
   {
     "name": "Isaac Keeler",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [13, 1, 3, 8, 9, 10, 15, 3, 3, 9, 7],
     "trend": -1,
     "status": 1
@@ -4802,7 +4802,7 @@
   {
     "name": "Tobie Travaglia",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [6, 8, 12, 2, 10, 13, 19, 6, 0, 8, 9, 18],
     "trend": 0,
     "status": 1
@@ -4906,7 +4906,7 @@
   {
     "name": "Oliver Wiltshire",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [7, 6],
     "trend": 0,
     "status": 1
@@ -4922,7 +4922,7 @@
   {
     "name": "Hugh Boxshall",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [15, 16, 14, 12, 15, 15, 8, 9, 9, 10, 16],
     "trend": 1,
     "status": 1
@@ -5098,7 +5098,7 @@
   {
     "name": "Alixzander Tauru",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [4, 8, 16, 7, 5, 7, 12, 13, 9, 9],
     "trend": 0,
     "status": 0
@@ -5170,7 +5170,7 @@
   {
     "name": "George Stevens",
     "team": "Geelong",
-    "opponent": "St Kilda",
+    "opponent": "Melbourne",
     "disposals": [7, 21],
     "trend": 0,
     "status": 1
@@ -5194,7 +5194,7 @@
   {
     "name": "Max Heath",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [2, 10, 7, 8],
     "trend": 0,
     "status": 1
@@ -5282,7 +5282,7 @@
   {
     "name": "Alex Dodson",
     "team": "St Kilda",
-    "opponent": "Geelong",
+    "opponent": "Melbourne",
     "disposals": [8],
     "trend": 0,
     "status": 1
